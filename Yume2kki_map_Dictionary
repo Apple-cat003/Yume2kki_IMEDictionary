@@ -1,0 +1,2291 @@
+とびらべや	扉部屋	固有名詞	英:The Nexus　実装日:2007/06/13以前
+とびらへや	扉部屋	固有名詞	英:The Nexus　実装日:2007/06/13以前
+むげんとしょかん	夢幻図書館	固有名詞	英:Library　実装日:2007/06/13 ver0.035b
+げんじつべや	現実部屋	固有名詞	英:Urotsuki's Room　実装日:2007/06/13 ver0.035b
+げんじつへや	現実部屋	固有名詞	英:Urotsuki's Room　実装日:2007/06/13 ver0.035b
+ぼちせかい	墓地世界	固有名詞	英:Graveyard World　実装日:2007/07/16 ver0.038
+びょういん	病院	固有名詞	英:Hospital　実装日:2007/07/16 ver0.038
+せんがせかい	線画世界	固有名詞	英:Geometry World　実装日:2008/12/22 ver0.043
+きいろせんが	黄色線画	固有名詞	英:Geometry World:Glasses Path　実装日:2009/01/11 ver0.045
+あおいうでのつうろ	青い腕の通路	固有名詞	英:The Hand Hub　実装日:2009/01/19 ver0.047
+げきじょう	劇場	固有名詞	英:Dark Room　実装日:2009/02/03 ver0.051
+しゃかせかい	釈迦世界	固有名詞	英:Marijuana Goddess World　実装日:2009/02/03 ver0.051
+げろまーくさい	ゲロマーク祭	固有名詞	英:Hospital:Vomiting Mark Festival　実装日:2009/02/25 ver0.054
+だむ	ダム	固有名詞	英:Sewers　実装日:2009/03/04 ver0.056
+ちょこれーとのつうろ	チョコレートの通路	固有名詞	英:Chocolate World　実装日:2009/03/04 ver0.056
+げんしじんのむむら	原始人の村	固有名詞	英:Tribe Settlement　実装日:2009/03/04 ver0.056
+かんてら	カンテラ	固有名詞	英:Lantern　実装日:2009/03/15 ver0.057
+こうえんのちか	公園の地下	固有名詞	英:Forest World:Underground　実装日:2009/03/15 ver0.057
+こうえんせかい	公園世界	固有名詞	英:Forest World　実装日:2009/03/15 ver0.057
+わにいぬのいえ	ワニ犬の家	固有名詞	英:Garden World:The Monster Party　実装日:2009/03/17 ver0.058
+しょくぶつせかい	植物世界	固有名詞	英:Garden World　実装日:2009/03/17 ver0.058
+ぱねるつうろ	パネル通路	固有名詞	英:Heart World:Panel Passage　実装日:2009/03/18 ver0.059
+あかいせかい	赤い世界	固有名詞	英:Heart World　実装日:2009/03/18 ver0.059
+あめのもり	雨の森	固有名詞	英:Blue Forest　実装日:2009/03/21 ver0.060
+かいてい	海底	固有名詞	英:Atlantis　実装日:2009/03/31 ver0.064
+かいがのつうろ	絵画の通路	固有名詞	英:Art Gallery　実装日:2009/03/31 ver0.064
+ちーずこうじょう	チーズ工場	固有名詞	英:Concrete World　実装日:2009/05/30 ver0.067
+うちゅう	宇宙	固有名詞	英:Space　実装日:2009/05/30 ver0.067
+はいいろのこうや	灰色の荒野	固有名詞	英:Concrete World:Concrete World B　実装日:2009/05/30 ver0.067
+はいいろのあれの	灰色の荒野	固有名詞	英:Concrete World:Concrete World B　実装日:2009/05/30 ver0.067
+ばー	BAR	固有名詞	英:Japan Town:Underground Bar　実装日:2009/07/16 ver0.072
+ばく	バク	固有名詞	英:Tapir-San's Place　実装日:2009/07/16 ver0.072
+しょうわろじ	昭和路地	固有名詞	英:Japan Town　実装日:2009/07/16 ver0.072
+さかさやど	逆さ宿	固有名詞	英:Japan Town:Hotel　実装日:2009/07/16 ver0.072
+らくがき	ラクガキ	固有名詞	英:Graffiti Maze　実装日:2009/07/20 ver0.073
+らくがきのき	ラクガキの樹	固有名詞	英:Graffiti Maze:Tree　実装日:2009/07/20 ver0.073
+はくぶつかん	博物館	固有名詞	英:Museum　実装日:2009/07/20 ver0.073
+ちーずびる	チーズビル	固有名詞	英:Concrete World　実装日:2009/08/06 ver0.073c
+ゆうやけ	夕焼け	固有名詞	英:Flying Fish World:Dream Scene　実装日:2009/08/06 ver0.073c
+まちびと	待ち人	固有名詞	英:Flying Fish World　実装日:2009/08/06 ver0.073c
+ｆｃめいきゅう	FC迷宮	固有名詞	英:Mini-Maze　実装日:2009/08/11 ver0.076
+ゆめべや	夢部屋	固有名詞	英:Urotsuki's Room　実装日:2009/08/19 ver0.079
+ゆめへや	夢部屋	固有名詞	英:Urotsuki's Room　実装日:2009/08/19 ver0.079
+しょうたいふめい	正体不明	固有名詞	英:Flying Fish World:Smile-San's Place　実装日:2009/08/25 ver0.081
+ぶろっく	ブロック	固有名詞	英:Day and Night Towers　実装日:2009/09/21 ver0.083d
+うろつきてい	うろつき邸	固有名詞	英:Urotsuki’s Dream Apartments　実装日:2009/10/25 ver0.084
+すべるせかい	滑る世界	固有名詞	英:Toy World　実装日:2009/12/25 ver0.085d
+ふるきよきてれび	古き良きテレビ	固有名詞	英:Flying Fish World　実装日:2009/12/30 ver0.0851
+さーかすてんと	サーカステント	固有名詞	英:The Circus　実装日:2010/03/10 ver0.087
+みそじんじゃ	味噌神社	固有名詞	英:Shinto Shrine:External Area　実装日:2010/03/10 ver0.087
+わしつめいろ	和室迷路	固有名詞	英:Shinto Shrine　実装日:2010/03/10 ver0.087
+めだまのかべ	目玉の壁	固有名詞	英:Shinto Shrine　実装日:2010/03/10 ver0.087
+かおのみえるかわ	顔の見える川	固有名詞	英:Shinto Shrine:Namakubi Path　実装日:2010/03/10 ver0.087
+たかだいのさくら	高台の桜	固有名詞	英:Shinto Shrine:Sakura Path　実装日:2010/03/10 ver0.087
+れんがだんじょん	煉瓦ダンジョン	固有名詞	英:Red Brick Maze　実装日:2010/03/08 ver0.087b
+はーと	ハート	固有名詞	英:Valentine Land　実装日:2010/04/16 ver0.088
+さんちょう	山頂	固有名詞	英:Scenic Outlook　実装日:2010/04/16 ver0.088
+ひょうしき	標識	固有名詞	英:Sign World　実装日:2010/04/16 ver0.088
+しろくろこんちゅうべや	白黒昆虫部屋	固有名詞	英:Bug Maze　実装日:2010/04/16 ver0.088
+しろくろこんちゅうへや	白黒昆虫部屋	固有名詞	英:Bug Maze　実装日:2010/04/16 ver0.088
+めのたいじゅ	目の大樹	固有名詞	英:Scenic Outlook:Big Eye Tree　実装日:2010/04/16 ver0.088
+むしさいだん	虫祭壇	固有名詞	英:Scenic Outlook:Altar　実装日:2010/04/16 ver0.088
+みち	michi	固有名詞	英:Monochrome Feudal Japan:Entrance from the Art Gallery　実装日:2010/04/25 ver0.088c
+めるへんのつうろ	メルヘンの通路	固有名詞	英:Theatre World　実装日:2010/04/25 ver0.088c
+あかいまち	赤い町	固有名詞	英:Red City　実装日:2010/04/25 ver0.088c
+せきがいとうのつうろ	赤街灯の通路	固有名詞	英:Red Streetlight World　実装日:2010/04/25 ver0.088c
+あかがいとうのつうろ	赤街灯の通路	固有名詞	英:Red Streetlight World　実装日:2010/04/25 ver0.088c
+ぺんぎんげーむ	ペンギンゲーム	固有名詞	英:Penguin Game　実装日:2010/05/01 ver0.089
+わーぷ	ワープ	固有名詞	英:Teleport Maze　実装日:2010/05/04 ver0.089b
+すなはま	砂浜	固有名詞	英:Teleport Maze:White Beach　実装日:2010/05/04 ver0.089b
+あおくろのへや	青黒の部屋	固有名詞	英:Elvis Masada's Place　実装日:2010/05/04 ver0.089b
+かーにばるないと	カーニバルナイト	固有名詞	英:Underwater Amusement Park　実装日:2010/05/11 ver0.089c
+おき	沖	固有名詞	英:Atlantis:The Reef　実装日:2010/05/22 ver0.090c
+ゆめみそう	夢見荘	固有名詞	英:Apartments　実装日:2010/05/23 ver0.090d
+ゆめみそうのちかつうろ	夢見荘の地下通路	固有名詞	英:Apartments:Tunnels　実装日:2010/05/23 ver0.090d
+おうだんほどう	横断歩道	固有名詞	英:Apartments:Zebra Crosswalk　実装日:2010/05/23 ver0.090d
+かげえ	影絵	固有名詞	英:Monochrome Street　実装日:2010/05/26 ver0.090e
+かいだんとぶらざーさん	階段とブラザーサン	固有名詞	英:Shinto Shrine:Red Tree Passage　実装日:2010/05/26 ver0.090e
+すぺるーむ	スペルーム	固有名詞	英:Spelling Room　実装日:2010/05/30 ver0.090g
+ぞーん	ゾーン	固有名詞	英:Spelling Room:Eye Parson Room　実装日:2010/05/30 ver0.090g
+ぼーりんぐじょう	ボーリング場	固有名詞	英:Bowling Zone　実装日:2010/05/30 ver0.090g
+わがらめいろ	和柄迷路	固有名詞	英:The Invisible Maze　実装日:2010/05/30 ver0.090g
+とうげ	峠	固有名詞	英:The Invisible Maze　実装日:2010/05/30 ver0.090g
+ゆがみぼーりんぐじょう	歪みボーリング場	固有名詞	英:Bowling Pin World　実装日:2010/05/30 ver0.090g
+ちのおう	血の王	固有名詞	英:Blood World　実装日:2010/05/30 ver0.090g
+ちなまぐさ	血生臭	固有名詞	英:Blood World　実装日:2010/05/30 ver0.090g
+あかのじゅうじろ	赤の十字路	固有名詞	英:Stone Maze　実装日:2010/05/30 ver0.090g
+けんきゅうじょ	ケンキュウジョ	固有名詞	英:Red Brick Maze:Cloning Room　実装日:2010/06/06 ver0.090h
+しろくろじょう	白黒城	固有名詞	英:Monochrome Feudal Japan　実装日:2010/06/08 ver0.090i
+くぎろぼ	釘ロボ	固有名詞	英:Nail World　実装日:2010/06/08 ver0.090i
+けたけた	けたけた	固有名詞	英:Visine World　実装日:2010/06/11 ver0.091
+ぜんまいいしょうてん	ぜんまい衣装店	固有名詞	英:Dressing Room　実装日:2010/06/11 ver0.091
+こんくりーとまんしょん	コンクリートマンション	固有名詞	英:Guts World:Gray Building　実装日:2010/06/11 ver0.091
+なまにく	生肉	固有名詞	英:Guts World　実装日:2010/06/11 ver0.091
+めだまぐすり	目玉薬	固有名詞	英:Visine World　実装日:2010/06/11 ver0.091
+めだまくすり	目玉薬	固有名詞	英:Visine World　実装日:2010/06/11 ver0.091
+めぐすりがわ	目薬川	固有名詞	英:Visine World:Eyedrop River　実装日:2010/06/11 ver0.091
+めぐすりかわ	目薬川	固有名詞	英:Visine World:Eyedrop River　実装日:2010/06/11 ver0.091
+しょうわろじうら	昭和路地裏	固有名詞	英:Japan Town:Back Alley　実装日:2010/06/20 ver0.091a
+わっかいし	わっか石	固有名詞	英:Graffiti Maze　実装日:2010/06/22 ver0.091b
+わっかせき	わっか石	固有名詞	英:Graffiti Maze　実装日:2010/06/22 ver0.091b
+ぱーす	パース	固有名詞	英:Flying Fish World:Pink Tanuki Road　実装日:2010/06/22 ver0.091b
+しがいち	市街地	固有名詞	英:Urban Street Area　実装日:2010/06/22 ver0.091b
+とうがいいわ	頭蓋岩	固有名詞	英:Flying Fish World:Skull Entrance　実装日:2010/06/22 ver0.091b
+ずがいいわ	頭蓋岩	固有名詞	英:Flying Fish World:Skull Entrance　実装日:2010/06/22 ver0.091b
+とうがいがん	頭蓋岩	固有名詞	英:Flying Fish World:Skull Entrance　実装日:2010/06/22 ver0.091b
+ずがいがん	頭蓋岩	固有名詞	英:Flying Fish World:Skull Entrance　実装日:2010/06/22 ver0.091b
+まほうじん	魔法陣	固有名詞	英:Graffiti Maze　実装日:2010/06/22 ver0.091b
+うつむきべや	うつむき部屋	固有名詞	英:Magnet Room:Zalgo's Room(the deepest)　実装日:2010/06/25 ver0.091c
+うつむきへや	うつむき部屋	固有名詞	英:Magnet Room:Zalgo's Room(the deepest)　実装日:2010/06/25 ver0.091c
+まぐねっつふぁくとりー	マグネッツファクトリー	固有名詞	英:Magnet Room　実装日:2010/06/25 ver0.091c
+にくめいきゅうのつうろ	肉迷宮の通路	固有名詞	英:Intestines Maze　実装日:2010/06/25 ver0.091c
+ぐるぐる	ぐるぐる	固有名詞	英:Dizzy Spirals World　実装日:2010/07/08 ver0.091d
+でんわおへあ	でんわおへあ	固有名詞	英:The Bazaar　実装日:2010/07/08 ver0.091d
+しんぞう	心臓	固有名詞	英:Heart World:Panel Passage　実装日:2010/07/08 ver0.091d
+じゅんばんまち	順番待ち	固有名詞	英:The Deciding Street　実装日:2010/07/08 ver0.091d
+ぼーる	ボール	固有名詞	英:Sign World B　実装日:2010/07/09 ver0.091e
+ぼーるこうじょう	ボール工場	固有名詞	英:Power Plant　実装日:2010/07/09 ver0.091e
+くらいもり	暗い森	固有名詞	英:Fairy Tale Woods　実装日:2010/07/09 ver0.091e
+ごくさいしき	極彩色	固有名詞	英:Ecstasy World　実装日:2010/07/09 ver0.091e
+くうちゅうこうえん	空中公園	固有名詞	英:Sky Kingdom　実装日:2010/07/09 ver0.091e
+いせき	遺跡	固有名詞	英:Haniwa Temple　実装日:2010/07/09 ver0.091e
+はちじょうわしつ	八畳和室	固有名詞	英:Tatami Room　実装日:2010/07/17 ver0.091f
+ぴんくのぴえろあとらくしょん	ピンクのピエロアトラクション	固有名詞	英:Underwater Amusement Park:Clown Area　実装日:2010/07/23 ver0.091g
+すなどけいさばく	砂時計砂漠	固有名詞	英:Hourglass Desert　実装日:2010/07/23 ver0.091g
+まどべや	窓部屋	固有名詞	英:Window Room　実装日:2010/07/23 ver0.091g
+まどへや	窓部屋	固有名詞	英:Window Room　実装日:2010/07/23 ver0.091g
+くぎつうろ	釘通路	固有名詞	英:Nail World:Red Nail Passage　実装日:2010/07/23 ver0.091g
+だいりせきせかい	大理石世界	固有名詞	英:Onyx Tile World　実装日:2010/07/23 ver0.091h
+おひろい	お広い	固有名詞	英:The Baddies Bar　実装日:2010/07/30 ver0.091i
+しゅうそく	集束	固有名詞	英:Magnet Room:Zalgo's Room　実装日:2010/07/30 ver0.091i
+すいーつ	スイーツ	固有名詞	英:Cutlery World　実装日:2010/08/07 ver0.092
+きのこせかい	きのこ世界	固有名詞	英:Mushroom World　実装日:2010/08/12 ver0.092a
+さんさんたうん	さんさんタウン	固有名詞	英:Forlorn Beach House:Red Sun　実装日:2010/08/12 ver0.092a
+ひとがた	ヒトガタ	固有名詞	英:Elvis Masada's Place:Bubble Man Hitogata　実装日:2010/08/12 ver0.092a
+こうけん	光建	固有名詞	英:Forlorn Beach House　実装日:2010/08/12 ver0.092a
+ひかりだて	光建	固有名詞	英:Forlorn Beach House　実装日:2010/08/12 ver0.092a
+がいしゅつ	外出	固有名詞	英:Forlorn Beach House:Shadow Balcony　実装日:2010/08/12 ver0.092a
+そとで	外出	固有名詞	英:Forlorn Beach House:Shadow Balcony　実装日:2010/08/12 ver0.092a
+うらきのこ	裏きのこ	固有名詞	英:Mushroom World:White Mushroom Field　実装日:2010/08/12 ver0.092a
+へんきょう	辺境	固有名詞	英:White Fern World　実装日:2010/08/12 ver0.092a
+みらー	ミラー	固有名詞	英:Day and Night Towers:Mirror Room　実装日:2010/08/23 ver0.092c
+だいかいじゅう	代価移住	固有名詞	英:Mini-Town　実装日:2010/08/23 ver0.092c
+げこう	下校	固有名詞	英:Teddy Bear Land　実装日:2010/09/09 ver0.092f
+えんすいとめ	円錐と目	固有名詞	英:Head Wasteland　実装日:2010/09/09 ver0.092f
+ばけいえ	化家	固有名詞	英:Broken Faces Area:Danger Panic Zone　実装日:2010/09/09 ver0.092f
+ばけや	化家	固有名詞	英:Broken Faces Area:Danger Panic Zone　実装日:2010/09/09 ver0.092f
+にわ	庭	固有名詞	英:Farm World　実装日:2010/09/09 ver0.092f
+ほしもん	星門	固有名詞	英:Hourglass Desert:Pyramid Maze　実装日:2010/09/09 ver0.092f
+せいもん	星門	固有名詞	英:Hourglass Desert:Pyramid Maze　実装日:2010/09/09 ver0.092f
+こてい	湖底	固有名詞	英:Ocean Floor　実装日:2010/09/09 ver0.092f
+はいこう	灰荒	固有名詞	英:Rough Ash World　実装日:2010/09/09 ver0.092f
+かいこう	灰荒	固有名詞	英:Rough Ash World　実装日:2010/09/09 ver0.092f
+はいあれ	灰荒	固有名詞	英:Rough Ash World　実装日:2010/09/09 ver0.092f
+いせかい	異世界	固有名詞	英:Wilderness　実装日:2010/09/09 ver0.092f
+あかくろたいるつうろ	赤黒タイル通路	固有名詞	英:Floating Red Tiles World　実装日:2010/09/09 ver0.092f
+あかぐろたいるつうろ	赤黒タイル通路	固有名詞	英:Floating Red Tiles World　実装日:2010/09/09 ver0.092f
+きりのみずうみ	霧の湖	固有名詞	英:Docks　実装日:2010/09/09 ver0.092f
+かおとうでのつうろ	顔と腕の通路	固有名詞	英:Broken Faces Area　実装日:2010/09/09 ver0.092f
+うふぉないぶ	UFO内部	固有名詞	英:UFO　実装日:2010/10/13 ver0.093
+ゆーふぉーないぶ	UFO内部	固有名詞	英:UFO　実装日:2010/10/13 ver0.093
+しょうはぶろっくのすなはま	消波ブロックの砂浜	固有名詞	英:Realistic Beach　実装日:2010/10/13 ver0.093
+しょうはぶろっくないぶ	消波ブロック内部	固有名詞	英:Realistic Beach:Realistic Cave　実装日:2010/10/13 ver0.093
+しょうはぶろっくないぶおく	消波ブロック内部奥	固有名詞	英:Realistic Beach:Sheep area　実装日:2010/10/13 ver0.093
+へんへんきょう	辺辺境	固有名詞	英:White Fern World:Tower interior　実装日:2010/10/13 ver0.093
+まちなかのつうろ	街中の通路	固有名詞	英:Gray Road　実装日:2010/10/30 ver0.093b
+りべんじびる	リベンジビル	固有名詞	英:Flying Fish World　実装日:2010/11/22 ver0.093c
+ふろあ	フロア	固有名詞	英:Never-Ending Hallway　実装日:2010/12/05 ver0.093e
+ふすへや	伏す部屋	固有名詞	英:Never-Ending Hallway:Madotsuki's Room　実装日:2010/12/05 ver0.093e
+ふすべや	伏す部屋	固有名詞	英:Never-Ending Hallway:Madotsuki's Room　実装日:2010/12/05 ver0.093e
+せつげんのみち	雪原野道	固有名詞	英:Christmas World　実装日:2010/12/20 ver0.093f
+せんとう	銭湯	固有名詞	英:Bathhouse　実装日:2010/12/31 ver0.093g
+もじ	文字	固有名詞	英:Word World　実装日:2011/03/25 ver0.094
+わんるーむ	ワンルーム	固有名詞	英:Sprout World:Pupula-Toru's Room　実装日:2011/05/07 ver0.094b
+わかば	若葉	固有名詞	英:Sprout World　実装日:2011/05/07 ver0.094b
+ほそみち	細道	固有名詞	英:Dark Alleys　実装日:2011/06/19 ver0.094e
+こけいし	苔石	固有名詞	英:Floating Stones World　実装日:2011/06/19 ver0.094e
+ｆｃちかだんじょん	FC地下ダンジョン	固有名詞	英:FC Basement　実装日:2011/06/26 ver0.094f
+てんじ	展示	固有名詞	英:Exhibition　実装日:2011/06/26 ver0.094f
+はいせん	廃線	固有名詞	英:Train Tracks/Closet Pinwheel Path(かざぐるまエリア)　実装日:2011/06/26 ver0.094f
+しせつ	施設	固有名詞	英:Warehouse　実装日:2011/06/26 ver0.094f
+たかだい	高台	固有名詞	英:Forest World:Monster's Jaw　実装日:2011/06/26 ver0.094f
+さーかすだん	サーカス団	固有名詞	英:Forest Carnival　実装日:2011/08/09 ver0.095b
+まよいのもり	迷いの森	固有名詞	英:Dark Forest　実装日:2011/08/09 ver0.095b
+ひかりはたけ	光畑	固有名詞	英:Green Neon World　実装日:2011/08/15 ver0.095d
+こうはた	光畑	固有名詞	英:Green Neon World　実装日:2011/08/15 ver0.095d
+ひかりはた	光畑	固有名詞	英:Green Neon World　実装日:2011/08/15 ver0.095d
+こうじ	工事	固有名詞	英:Construction Frame Building　実装日:2011/08/15 ver0.095d
+はぐるま	歯車	固有名詞	英:Cog Maze　実装日:2011/08/15 ver0.095d
+いしかべ	石壁	固有名詞	英:Dark Alleys:Dark Stairs　実装日:2011/08/15 ver0.095d
+はくぶつかんりべんじ	博物館リベンジ	固有名詞	英:Dark Museum　実装日:2011/09/04 ver0.095d
+とけい	時計	固有名詞	英:Flying Fish World:Clock Room　実装日:2011/09/04 ver0.095d
+こうないのつうろ	校内の通路	固有名詞	英:School　実装日:2012/01/15 ver0.096b
+すいろ	水路	固有名詞	英:Apartments(basement)　実装日:2012/04/03 ver0.096g
+４０４どうくつ	404洞窟	固有名詞	英:Stone World　実装日:2012/04/29 ver0.096i
+よんまるよんどうくつ	404洞窟	固有名詞	英:Stone World　実装日:2012/04/29 ver0.096i
+ぐれーぼーい	グレーボーイ	固有名詞	英:Monochrome GB World　実装日:2012/04/29 ver0.096i
+ゆめかいがん	夢海岸	固有名詞	英:Dream Beach　実装日:2012/05/03 ver0.097
+ぬまのそこ	沼の底	固有名詞	英:Dream Beach:Fisherman's Hook　実装日:2012/05/03 ver0.097
+つりびととばけつ	釣り人とバケツ	固有名詞	英:Dream Beach:Penguin On Hook　実装日:2012/05/03 ver0.097
+だんち	団地	固有名詞	英:Boogie Street　実装日:2012/05/06 ver0.097a
+やけいべらんだ	夜景ベランダ	固有名詞	英:Flying Fish World:Purple Balcony　実装日:2012/05/20 ver0.097c
+しろいへや	白い部屋	固有名詞	英:Flying Fish World:Helmet Girl's Room　実装日:2012/05/20 ver0.097c
+すいぼつ	水没	固有名詞	英:Sunken City　実装日:2012/06/16 ver0.097e
+あそびば	あそびば	固有名詞	英:Jigsaw Puzzle World:Witch Fight(まじょのあそびば)/Jigsaw Puzzle World:Mirror Room(かがみのへや)　実装日:2012/06/24 ver0.097f
+あまいはし	あまいはし	固有名詞	英:Jigsaw Puzzle World:Night Sky　実装日:2012/06/24 ver0.097f
+せんすい	せんすい	固有名詞	英:Jigsaw Puzzle World:To Dream Beach　実装日:2012/06/24 ver0.097f
+ぴーすふる	ぴーすふる	固有名詞	英:Jigsaw Puzzle World　実装日:2012/06/24 ver0.097f
+りんごはうす	リンゴハウス	固有名詞	英:Fairy Tale Woods:Apple House　実装日:2012/06/24 ver0.097f
+きょうどうしゅうごうじゅうたく	狭同集合住宅	固有名詞	英:Underground TV Complex　実装日:2012/06/24 ver0.097f
+てんしのいえ	天使の家	固有名詞	英:Fountain World:Fountain House　実装日:2012/07/02 ver0.097g
+みずのせかい	水の世界	固有名詞	英:Fountain World　実装日:2012/07/02 ver0.097g
+ひこうおくじょう	飛行屋上	固有名詞	英:Urotsuki's Dream Apartments:Rooftop　実装日:2012/07/02 ver0.097g
+うちゅうすべりだい	宇宙滑り台	固有名詞	英:Space:Lunar Playground　実装日:2012/08/13 ver0.098a
+はちうえべや	鉢植え部屋	固有名詞	英:Hidden Egg Rooms　実装日:2012/08/13 ver0.098a
+はちうえへや	鉢植え部屋	固有名詞	英:Hidden Egg Rooms　実装日:2012/08/13 ver0.098a
+おめんや	お面屋	固有名詞	英:Mask Shop　実装日:2012/08/30 ver0.098b
+げっこ	月湖	固有名詞	英:Jigsaw Puzzle World:Mermaid Moon Lake　実装日:2012/08/30 ver0.098b
+つきこ	月湖	固有名詞	英:Jigsaw Puzzle World:Mermaid Moon Lake　実装日:2012/08/30 ver0.098b
+つきみずうみ	月湖	固有名詞	英:Jigsaw Puzzle World:Mermaid Moon Lake　実装日:2012/08/30 ver0.098b
+おもちゃばこ	オモチャ箱	固有名詞	英:Daily Toy Box　実装日:2012/10/06 ver0.098e
+おりえんたる	オリエンタル	固有名詞	英:Abandoned Chinatown　実装日:2012/10/17 ver0.098f
+らぼ	ラボ	固有名詞	英:Laboratory　実装日:2012/10/17 ver0.098f
+じゅうたくとどうくつ	住宅と洞窟	固有名詞	英:Laboratory:Caves　実装日:2012/10/17 ver0.098f
+しかんたち	士官達	固有名詞	英:Soldier Row　実装日:2012/10/17 ver0.098f
+うらさーかす	裏サーカス	固有名詞	英:Forest Carnival: High Priestess' Show　実装日:2012/10/17 ver0.098f
+ゆめのゆめべや	夢の夢部屋	固有名詞	英:Urotsuki's Dream Apartments:Bleak Future　実装日:2012/10/29 ver0.098g
+めいふ	冥府	固有名詞	英:Netherworld　実装日:2012/11/18 ver0.098i
+おうとつうろ	嘔吐通路	固有名詞	英:Flesh Paths World　実装日:2012/11/18 ver0.098i
+くろびる	黒ビル	固有名詞	英:Black Building　実装日:2012/11/18 ver0.098i
+ものくろちっぷ	モノクロチップ	固有名詞	英:Othello Board　実装日:2012/11/24 ver0.099a
+ときはぎんなり	時は銀なり	固有名詞	英:Lorn Tower　実装日:2012/12/05 ver0.099b
+しょくぶつとあみ	植物と網	固有名詞	英:Garden World　実装日:2012/12/25 ver0.099d
+わたしこれくしょん	ワタシコレクション	固有名詞	英:Gallery of Me　実装日:2013/02/11 ver0.099g
+しかくしかく	四角四角	固有名詞	英:Square-Square World　実装日:2013/02/11 ver0.099g
+きょじん	巨人	固有名詞	英:Square-Square World:Giant　実装日:2013/02/11 ver0.099g
+かわじ	河路	固有名詞	英:River Road　実装日:2013/02/18 ver0.099h
+かわみち	河路	固有名詞	英:River Road　実装日:2013/02/18 ver0.099h
+うそつきさま	嘘月様	固有名詞	英:Eyeball Archives　実装日:2013/03/16 ver0.099i
+せんりつのこーひーてん	旋律の珈琲店	固有名詞	英:Eyeball Archives　実装日:2013/03/16 ver0.099i
+せんりつのえほんかん	旋律の絵本館	固有名詞	英:Eyeball Archives　実装日:2013/03/16 ver0.099i
+せんりつのえほんやかた	旋律の絵本館	固有名詞	英:Eyeball Archives　実装日:2013/03/16 ver0.099i
+ほんむせかい	本夢世界	固有名詞	英:Eyeball Archives　実装日:2013/03/16 ver0.099i
+ほんゆめせかい	本夢世界	固有名詞	英:Eyeball Archives　実装日:2013/03/16 ver0.099i
+きょだいいせき	巨大遺跡	固有名詞	英:Wind Tunnel(巨大遺跡エリア)/Radiant Ruins(植物遺跡エリア,蒸気と外壁エリア)　実装日:2013/05/23 ver0.100a
+はいこうじょう	廃工場	固有名詞	英:Abandoned Factory　実装日:2013/05/23 ver0.100a
+さんばしのもり	桟橋の森	固有名詞	英:Forest Pier　実装日:2013/05/23 ver0.100a
+あさせ	浅瀬	固有名詞	英:Hidden Shoal　実装日:2013/05/23 ver0.100a
+ぽすと	ポスト	固有名詞	英:Mailbox　実装日:2013/08/23 ver0.100b
+えいりあんのはらわた	エイリアンのハラワタ	固有名詞	英:Shield Owl World:Monochrome Staircase(エイリアンがいるマップ)/Flooded Baths:Art Gallery passage(赤い月のあるマップ)/Flooded Baths:Red Pool Area(赤いプールがあるマップ)　実装日:2013/09/24 ver0.100c
+あんち	安置	固有名詞	英:River Complex　実装日:2013/09/24 ver0.100c
+かいていばす	海底バス	固有名詞	英:Atlantis:The Bus　実装日:2013/09/24 ver0.100c
+しんすいよく	浸水浴	固有名詞	英:Flooded Baths　実装日:2013/09/24 ver0.100c
+どんきょうせかい	盾梟世界	固有名詞	英:Shield Owl World　実装日:2013/09/24 ver0.100c
+たてふくろうせかい	盾梟世界	固有名詞	英:Shield Owl World　実装日:2013/09/24 ver0.100c
+じゅんきょうせかい	盾梟世界	固有名詞	英:Shield Owl World　実装日:2013/09/24 ver0.100c
+しちせかい	紫地世界	固有名詞	英:Purple World　実装日:2013/09/24 ver0.100c
+むらさきちせかい	紫地世界	固有名詞	英:Purple World　実装日:2013/09/24 ver0.100c
+こｓみｃ	Cosmic	固有名詞	英:Cosmic World　実装日:2013/10/12 ver0.100d
+こずみっく	Cosmic	固有名詞	英:Cosmic World　実装日:2013/10/12 ver0.100d
+きらきら	きらきら	固有名詞	英:Rainbow Silhouette World　実装日:2013/10/12 ver0.100d
+すいそう	すいそう	固有名詞	英:Depths:Aquarium　実装日:2013/10/12 ver0.100d
+みなぞこ	みなぞこ	固有名詞	英:Depths　実装日:2013/10/12 ver0.100d
+はうす	ハウス	固有名詞	英:Deserted Town:Coffee Man Room　実装日:2013/10/12 ver0.100d
+なかにわ	中庭	固有名詞	英:Deserted Town:Secret Room　実装日:2013/10/12 ver0.100d
+へきそう	壁葬	固有名詞	英:Cosmic World:Dark Room　実装日:2013/10/12 ver0.100d
+かべそう	壁葬	固有名詞	英:Cosmic World:Dark Room　実装日:2013/10/12 ver0.100d
+だいしんでん	大神殿	固有名詞	英:Pillars World　実装日:2013/10/12 ver0.100d
+しんしょう	心象	固有名詞	英:Mirror Room　実装日:2013/10/12 ver0.100d
+あんさいこう	暗彩光	固有名詞	英:Neon City　実装日:2013/10/12 ver0.100d
+つきよかん	月夜館	固有名詞	英:Bottom Garden　実装日:2013/10/12 ver0.100d
+つきよやかた	月夜館	固有名詞	英:Bottom Garden　実装日:2013/10/12 ver0.100d
+つきよかんのこべや	月夜館の小部屋	固有名詞	英:Bottom Garden:Music Box Creature　実装日:2013/10/12 ver0.100d
+つきよやかたのこべや	月夜館の小部屋	固有名詞	英:Bottom Garden:Music Box Creature　実装日:2013/10/12 ver0.100d
+みずのみやこ	水の都	固有名詞	英:Deserted Town/Chaotic Buildings(梯子と電燈エリア～森エリア)　実装日:2013/10/12 ver0.100d
+はくち	白地	固有名詞	英:Overgrown City:Entrance　実装日:2013/10/12 ver0.100d
+いしのいせき	石の遺跡	固有名詞	英:Square Ruins　実装日:2013/10/12 ver0.100d
+だいいちへいそく	第一閉塞	固有名詞	英:Transmission Tower World　実装日:2013/10/12 ver0.100d
+だい１へいそく	第一閉塞	固有名詞	英:Transmission Tower World　実装日:2013/10/12 ver0.100d
+だいさんへいそく	第三閉塞	固有名詞	英:Old Train Station　実装日:2013/10/12 ver0.100d
+だい３へいそく	第三閉塞	固有名詞	英:Old Train Station　実装日:2013/10/12 ver0.100d
+だいにへいそく	第二閉塞	固有名詞	英:Complex/Complex:Deeper Wetlands (湿地の奥)　実装日:2013/10/12 ver0.100d
+だい２へいそく	第二閉塞	固有名詞	英:Complex/Complex:Deeper Wetlands (湿地の奥)　実装日:2013/10/12 ver0.100d
+あかのさけび	赤の叫び	固有名詞	英:Neon City:Underground Path　実装日:2013/10/12 ver0.100d
+でんしゃ	電車	固有名詞	英:Old Train Station B　実装日:2013/10/12 ver0.100d
+きりのしっち	霧の湿地	固有名詞	英:Deserted Pier　実装日:2013/10/12 ver0.100d
+やかた	館	固有名詞	英:Town Maze　実装日:2013/10/12 ver0.100d
+おうとにわ	嘔吐庭	固有名詞	英:Downfall Garden　実装日:2014/05/22 ver0.100g
+すいちゅうとしょかん	水中植物園	固有名詞	英:Botanical Garden　実装日:2014/05/22 ver0.100g
+どんきょうのもり	盾梟の森	固有名詞	英:Clawtree Forest　実装日:2014/05/22 ver0.100g
+たてふくろうのもり	盾梟の森	固有名詞	英:Clawtree Forest　実装日:2014/05/22 ver0.100g
+じゅんきょうのもり	盾梟の森	固有名詞	英:Clawtree Forest　実装日:2014/05/22 ver0.100g
+うんかい	雲海	固有名詞	英:Sea of Clouds　実装日:2014/05/22 ver0.100g
+ひかりとすいめん	光と水面	固有名詞	英:Overgrown Gate(森の廊下エリア)/Tulip Lamp World(花電灯エリア)/Rose Church(教会エリア)　実装日:2014/06/05 ver0.100h
+よばなぐさ	夜花草	固有名詞	英:Bioluminescent Cavern　実装日:2014/06/05 ver0.100h
+よばなそう	夜花草	固有名詞	英:Bioluminescent Cavern　実装日:2014/06/05 ver0.100h
+たいしょうやしき	大正屋敷	固有名詞	英:Mansion　実装日:2014/06/05 ver0.100h
+はいけん	廃建	固有名詞	英:Abandoned Apartments　実装日:2014/06/05 ver0.100h
+ほしのよる	星の夜	固有名詞	英:Planetarium:Interior　実装日:2014/06/05 ver0.100h
+ほしどう	星洞	固有名詞	英:Planetarium　実装日:2014/06/05 ver0.100h
+せいどう	星洞	固有名詞	英:Planetarium　実装日:2014/06/05 ver0.100h
+ほしぼら	星洞	固有名詞	英:Planetarium　実装日:2014/06/05 ver0.100h
+しょうわにわ	昭和庭	固有名詞	英:Overgrown City　実装日:2014/06/05 ver0.100h
+ちはんていえん	池畔庭園	固有名詞	英:Victorian Drains　実装日:2014/06/05 ver0.100h
+じょうきこうじょう	蒸気工場	固有名詞	英:Industrial Maze　実装日:2014/06/05 ver0.100h
+さいあいちょう	彩愛蝶	固有名詞	英:Saturated Eyeball Zone　実装日:2014/07/15 ver0.100i
+すいめん	水面	固有名詞	英:Sepia Clouds World　実装日:2014/07/15 ver0.100i
+かっれ	カッレ	固有名詞	英:French Street　実装日:2014/10/19 ver0.101b
+かえでじんじゃ	楓神社	固有名詞	英:Maple Shrine　実装日:2014/11/25 ver0.101f
+ほんじんじゃ	楓神社	固有名詞	英:Maple Shrine　実装日:2014/11/25 ver0.101f
+へんじんじゃ	楓神社	固有名詞	英:Maple Shrine　実装日:2014/11/25 ver0.101f
+ふうじんじゃ	楓神社	固有名詞	英:Maple Shrine　実装日:2014/11/25 ver0.101f
+ふじんじゃ	楓神社	固有名詞	英:Maple Shrine　実装日:2014/11/25 ver0.101f
+はんじんじゃ	楓神社	固有名詞	英:Maple Shrine　実装日:2014/11/25 ver0.101f
+たすくかんり	タスク管理	固有名詞	英:Binary World:Binary Tower　実装日:2014/12/04 ver0.101h
+でんしのうみ	電子の海	固有名詞	英:Binary World　実装日:2014/12/04 ver0.101h
+でんしとう	電子塔	固有名詞	英:Binary World:Binary Tower　実装日:2014/12/04 ver0.101h
+さいばーのつうろ	サイバーの通路	固有名詞	英:Cyber Maze　実装日:2014/12/22 ver0.101i
+ごまよこちょう	胡麻横丁	固有名詞	英:GALAXY Town　実装日:2014/12/22 ver0.101i
+しんかい	深海	固有名詞	英:Star Ocean　実装日:2014/12/31 ver0.102
+ほーむる	ホームル	固有名詞	英:Broken City　実装日:2015/01/06 ver0.102b
+きじょうのくーろん	基上のクーロン	固有名詞	英:Circuit Board　実装日:2015/01/06 ver0.102b
+きじょうのくうろ	棋上の空路	固有名詞	英:Shogi Board　実装日:2015/01/06 ver0.102b
+しゅがー	シュガー	固有名詞	英:Sugar World　実装日:2015/02/14 ver0.102d
+にんぎょうこうじょう	人形工場	固有名詞	英:GALAXY Town B:Factory　実装日:2015/02/14 ver0.102d
+ひとがたこうじょう	人形工場	固有名詞	英:GALAXY Town B:Factory　実装日:2015/02/14 ver0.102d
+ばいよう	培養	固有名詞	英:Cultivated Lands　実装日:2015/02/14 ver0.102e
+てんじょう	天井	固有名詞	英:The Ceiling　実装日:2015/02/14 ver0.102e
+へいあんこまち	平安小町	固有名詞	英:Heian Era Village　実装日:2015/02/14 ver0.102e
+すいちゅうか	水中華	固有名詞	英:Lotus Waters　実装日:2015/02/14 ver0.102e
+すいちゅうばな	水中華	固有名詞	英:Lotus Waters　実装日:2015/02/14 ver0.102e
+はまべのかわらやね	浜辺の瓦屋根	固有名詞	英:Seaside Village　実装日:2015/02/14 ver0.102e
+こじょうのはし	湖上の橋	固有名詞	英:Bridged Swamp Islands　実装日:2015/02/14 ver0.102e
+なのはなばたけ	菜の花畑	固有名詞	英:Rapeseed Fields　実装日:2015/02/14 ver0.102e
+にせあさせ	偽浅瀬	固有名詞	英:False Shoal　実装日:2015/03/13 ver0.102g
+いみ	意味	固有名詞	英:Nostalgic House　実装日:2015/03/13 ver0.102g
+こくゆ	黒湯	固有名詞	英:Red Rock Caves　実装日:2015/03/14 ver0.102h
+くろゆ	黒湯	固有名詞	英:Red Rock Caves　実装日:2015/03/14 ver0.102h
+こくとう	黒湯	固有名詞	英:Red Rock Caves　実装日:2015/03/14 ver0.102h
+さびたまち	錆びた街	固有名詞	英:Rusted City/Star Ocean:Sea Sponge Path(黄金道エリア)　実装日:2015/03/14 ver0.102i
+すくらっち	スクラッチ	固有名詞	英:Pencil World　実装日:2015/03/26 ver0.103
+すいきょう	水鏡	固有名詞	英:Cloudy World　実装日:2015/03/26 ver0.103
+しろいき	白い樹	固有名詞	英:White Tree　実装日:2015/03/26 ver0.103
+しずくどうくつ	雫洞窟	固有名詞	英:Cloudy World:Crying Eyes cave　実装日:2015/03/26 ver0.103
+でんのうかいかん	電脳海館	固有名詞	英:Cyber Bar　実装日:2015/05/23 ver0.103b
+げんしん	幻森	固有名詞	英:Butterfly Forest:Green Butterfly　実装日:2015/05/27 ver0.103c
+まぼろしもり	幻森	固有名詞	英:Butterfly Forest:Green Butterfly　実装日:2015/05/27 ver0.103c
+きょむしょこ	虚無書庫	固有名詞	英:Innocent Dream:Out-of-Body experience　実装日:2015/06/14 ver0.103d
+ひがんばな	彼岸花	固有名詞	英:Red Lily Lake　実装日:2015/07/25 ver0.103f
+こんぺいとう	金平糖	固有名詞	英:Candy World　実装日:2015/07/25 ver0.103f
+ゆめぎんこう	夢銀行	固有名詞	英:Dream Bank　実装日:2015/08/03 ver0.103g
+せいざ	星座	固有名詞	英:Constellation World　実装日:2015/08/15 ver0.103h
+かくてる	カクテル	固有名詞	英:Cocktail Lounge　実装日:2015/09/11 ver0.104
+めひこ	メヒコ	固有名詞	英:Dream Mexico　実装日:2015/09/11 ver0.104
+はなや	花屋	固有名詞	英:Florist　実装日:2015/09/11 ver0.104
+もじへいげん	文字平原	固有名詞	英:Character Plains　実装日:2016/01/31 ver0.104c
+あかいそらのがけ	赤い空の崖	固有名詞	英:Red Sky Cliff　実装日:2016/02/14 ver0.104d
+あめだまひろば	雨玉広場	固有名詞	英:Blue Orb World　実装日:2016/05/15 ver0.104f
+くものこべや	雲の小部屋	固有名詞	英:Tricolor Room　実装日:2016/05/15 ver0.104f
+かんらせきふ	還良逝怖	固有名詞	英:Radiant Rainbow Reef:Xylophone Path　実装日:2016/09/20 ver0.104i
+かんらいふ	還良逝怖	固有名詞	英:Radiant Rainbow Reef:Xylophone Path　実装日:2016/09/20 ver0.104i
+かんりょうせいふ	還良逝怖	固有名詞	英:Radiant Rainbow Reef:Xylophone Path　実装日:2016/09/20 ver0.104i
+えほん	絵本	固有名詞	英:Picture Book　実装日:2016/09/20 ver0.104i
+かびん	花瓶	固有名詞	英:Vase World　実装日:2016/10/11 ver0.105
+て	手	固有名詞	英:Hand Fields　実装日:2016/12/24 ver0.105b
+はざま	ハザマ	固有名詞	英:Red Sky Cliff:Splash Streetway　実装日:2016/12/24 ver0.105b 
+たまご	たまご	固有名詞	英:Scrambled Egg Zone　実装日:2017/01/25 ver0.105c
+けれうす	ケレウス	固有名詞	英:Neon Candle World　実装日:2017/01/25 ver0.105c
+くうちゅう	空中	固有名詞	英:Cloud Tops　実装日:2017/01/25 ver0.105c
+かびんどう	花瓶道	固有名詞	英:Vase World:Path　実装日:2017/02/11 ver0.105c p2
+かびんみち	花瓶道	固有名詞	英:Vase World:Path　実装日:2017/02/11 ver0.105c p2
+ちそうさばく	地葬砂漠	固有名詞	英:Burial Desert　実装日:2017/02/24 ver0.105d
+すいそうとし	水葬都市	固有名詞	英:Buried City　実装日:2017/02/24 ver0.105d
+いしき	意識	固有名詞	英:Theatre World:Lavender Temple　実装日:2017/03/15 ver0.105e
+こくう	虚空	固有名詞	英:Galactic Park　実装日:2017/03/15 ver0.105e
+はんかいたいせい	繋皆大成	固有名詞	英:Chaos Exhibition　実装日:2017/04/26 ver0.105f p2(3)
+けいかいたいせい	繋皆大成	固有名詞	英:Chaos Exhibition　実装日:2017/04/26 ver0.105f p2(3)
+そうとうじょう	葬塔場	固有名詞	英:Industrial Towers　実装日:2017/04/26 ver0.105f p2(3)
+そうとうば	葬塔場	固有名詞	英:Industrial Towers　実装日:2017/04/26 ver0.105f p2(3)
+あおたけ	青竹	固有名詞	英:Dojo　実装日:2017/08/05 ver0.105h
+あおだけ	青竹	固有名詞	英:Dojo　実装日:2017/08/05 ver0.105h
+ゆうやけのふね	夕焼けの船	固有名詞	英:Scorched Wasteland:The Ark　実装日:2017/09/21 ver0.105i
+あかつち	赤土	固有名詞	英:Scorched　Wasteland　実装日:2017/09/21 ver0.105i
+きんうんかい	金雲海	固有名詞	英:Paradise　実装日:2017/09/21 ver0.105i
+ちたばば	チタババ	固有名詞	英:Dark Warehouse　実装日:2017/11/05 ver0.106
+ふゆうかい	浮幽海	固有名詞	英:Mare Tranquillitatis　実装日:2017/12/02 ver0.105i p3
+みどりたいるべや	緑タイル部屋	固有名詞	英:Dojo:Green Tile Room　実装日:2017/12/03 ver0.106 p4
+みどりたいるへや	緑タイル部屋	固有名詞	英:Dojo:Green Tile Room　実装日:2017/12/03 ver0.106 p4
+いでんしつ	遺伝室	固有名詞	英:DNA Room　実装日:2018/04/11 ver0.106b p2
+ぃふぇ	LIFE	固有名詞	英:Game of Life Room　実装日:2018/04/13 ver0.106c
+らいふ	LIFE	固有名詞	英:Game of Life Room　実装日:2018/04/13 ver0.106c
+しんぼろん	シンボロン	固有名詞	英:Symbolon　実装日:2018/04/13 ver0.106c
+こんてなしんりん	コンテナ森林	固有名詞	英:Container Forest　実装日:2018/04/20 ver0.106c p1
+はいいろいせきせかい	灰色遺跡世界	固有名詞	英:Cyan Relic World　実装日:2018/04/20 ver0.106c p1
+てんじょう	天上	固有名詞	英:Jade Sky Hamlet　実装日:2018/05/08 ver0.106d
+もとり	悖り	固有名詞	英:Slums　実装日:2018/05/08 ver0.106d
+ちていけんきゅうじょ	地底研究所	固有名詞	英:Underground Laboratory　実装日:2018/06/08 ver0.106e
+ちていそうげん	地底草原	固有名詞	英:Strange Plants World　実装日:2018/06/08 ver0.106e
+きみつ	機密	固有名詞	英:Polluted Swamp　実装日:2018/06/24 ver0.106f
+きょぜつ	拒絶	固有名詞	英:Despair Road　実装日:2018/06/27 ver0.106f p1
+ほいっぷ	ホイップ	固有名詞	英:Whipped Cream World　実装日:2018/07/02 ver0.106g
+えんこうしゃくてい	猿侯爵邸	固有名詞	英:Monkey Mansion　実装日:2018/07/02 ver0.106g
+さるこうしゃくてい	猿侯爵邸	固有名詞	英:Monkey Mansion　実装日:2018/07/02 ver0.106g
+むしくい	虫食い	固有名詞	英:Butterfly Passage　実装日:2018/07/02 ver0.106g
+そふぁ	ソファ	固有名詞	英:Sofa Room　実装日:2018/07/14 ver0.106h
+ようとんじょう	傭豚場	固有名詞	英:Mutant Pig Farm/Entrails/Stomach Maze(内臓)　実装日:2018/07/15 ver0.106h p1
+げいいん	鯨飲	固有名詞	英:Aquatic Cafe　実装日:2018/07/15 ver0.106h p1
+こうけ	虹家	固有名詞	英:House Over the Rainbow　実装日:2018/07/24 ver0.106i
+にじいえ	虹家	固有名詞	英:House Over the Rainbow　実装日:2018/07/24 ver0.106i
+くろばら	黒薔薇	固有名詞	英:House Over the Rainbow:Rose Field　実装日:2018/07/24 ver0.106i
+やね	屋根	固有名詞	英:The Rooftops　実装日:2018/08/05 ver0.107
+せいじゃひつめつ	生者必滅	固有名詞	英:Polluted Swamp:Building　実装日:2018/08/05 ver0.107
+とばく	賭博	固有名詞	英:Despair Road:Poker Zone　実装日:2018/08/05 ver0.107
+てすらていえん	テスラ庭園	固有名詞	英:Tesla Garden　実装日:2018/08/14 ver0.107b
+ひとがたやしき	人形屋敷	固有名詞	英:Doll House　実装日:2018/08/14 ver0.107b
+にんぎょうやしき	人形屋敷	固有名詞	英:Doll House　実装日:2018/08/14 ver0.107b
+おくがい	屋外	固有名詞	英:The Rooftops:Underground Area　実装日:2018/08/14 ver0.107b
+しろくろしんえん	白黒深淵	固有名詞	英:Monochromatic Abyss　実装日:2018/08/14 ver0.107b
+あかどうろ	赤道路	固有名詞	英:The Rooftops:Red Road　実装日:2018/08/14 ver0.107b
+せきどうろ	赤道路	固有名詞	英:The Rooftops:Red Road　実装日:2018/08/14 ver0.107b
+えすかれーたー	エスカレーター	固有名詞	英:Escalator/City Limits(高速エリア)　実装日:2018/09/02 ver0.107c
+くりのいであ	クリノイデア	固有名詞	英:Sea Lily World　実装日:2018/09/05 ver0.107d
+せいえいてつどう	星営鉄道	固有名詞	英:Constellation World:Star Building　実装日:2018/09/05 ver0.107d
+ほしえいてつどう	星営鉄道	固有名詞	英:Constellation World:Star Building　実装日:2018/09/05 ver0.107d
+はんえいそう	繁栄巣	固有名詞	英:Overgrown Condominium　実装日:2018/09/05 ver0.107d
+たていすかん	立椅子館	固有名詞	英:Cipher Keyboard　実装日:2018/09/06 ver0.107e
+あたま	頭	固有名詞	英:Head World　実装日:2018/09/15 ver0.107f
+こうそう	高層	固有名詞	英:High-rise Building　実装日:2018/09/15 ver0.107f
+じはんそうこ	自販倉庫	固有名詞	英:Underground Garage　実装日:2018/09/30 ver0.107g
+ふうせつしゅうらく	風雪集落	固有名詞	英:Snowy Apartments　実装日:2018/09/30 ver0.107g
+かざゆきしゅうらく	風雪集落	固有名詞	英:Snowy Apartments　実装日:2018/09/30 ver0.107g
+のなめ	nOnAmE	固有名詞	英:CMYK Tiles World　実装日:2018/10/08 ver0.107h
+のーねーむ	nOnAmE	固有名詞	英:CMYK Tiles World　実装日:2018/10/08 ver0.107h
+ぐらふぃてぃーがい	グラフィティー街	固有名詞	英:Graffiti City　実装日:2018/10/08 ver0.107h
+ねおんかい	ネオン海	固有名詞	英:Neon Sea　実装日:2018/10/08 ver0.107h
+ねおんうみ	ネオン海	固有名詞	英:Neon Sea　実装日:2018/10/08 ver0.107h
+ゆめことう	夢孤島	固有名詞	英:Rainy Docks　実装日:2018/10/08 ver0.107h
+はいりゅう	廃籠	固有名詞	英:Riverside Waste Facility　実装日:2018/10/08 ver0.107h
+あさせのいえ	浅瀬の家	固有名詞	英:Neon Sea:Marina's House　実装日:2018/10/08 ver0.107h
+かいていしんでん	海底神殿	固有名詞	英:Undersea Temple　実装日:2018/10/08 ver0.107h
+ねこぼち	猫墓地	固有名詞	英:Cat Cemetery　実装日:2018/10/08 ver0.107h
+あおせんにんしょうとう	青仙人掌島	固有名詞	英:Blue Cactus Islands　実装日:2018/10/08 ver0.107h
+あおせんにんしょうじま	青仙人掌島	固有名詞	英:Blue Cactus Islands　実装日:2018/10/08 ver0.107h
+りゅうすい	流氷	固有名詞	英:Ice Floe World　実装日:2018/11/01 ver0.107i
+ねおんつうろ	ネオン通路	固有名詞	英:RGB Passage　実装日:2018/11/24 ver0.108a
+ゆめもり	夢森	固有名詞	英:Evergreen Woods　実装日:2018/11/24 ver0.108a
+だいぶつ	大仏	固有名詞	英:Buddha Face Labyrinth　実装日:2018/11/24 ver0.108a
+だんがい	断崖	固有名詞	英:Spirit Capital　実装日:2018/11/24 ver0.108a
+みずたまがいとうつうろ	水玉街灯通路	固有名詞	英:Lamp Passage　実装日:2018/11/24 ver0.108a
+うずまきさばく	渦巻砂漠	固有名詞	英:Tan Desert　実装日:2018/11/24 ver0.108a
+ひょうじょう	表情	固有名詞	英:Smiling Trees World　実装日:2018/11/24 ver0.108a
+こんどみにあむ	コンドミニアム	固有名詞	英:Techno Condominium　実装日:2018/12/29 ver0.108c
+かくのうこ	格納庫	固有名詞	英:Alien Cellar　実装日:2018/12/29 ver0.108c
+めざめのもり	目覚めの森	固有名詞	英:Snowy Forest　実装日:2018/12/29 ver0.108c
+はゔぇｎ	haven	固有名詞	英:Cotton Candy Haven　実装日:2019/01/28 ver0.108c p2
+へぶん	haven	固有名詞	英:Cotton Candy Haven　実装日:2019/01/28 ver0.108c p2
+へゔん	haven	固有名詞	英:Cotton Candy Haven　実装日:2019/01/28 ver0.108c p2
+せいけんおくじょう	星見屋上	固有名詞	英:Techno Condominium:Rooftop　実装日:2019/01/28 ver0.108c p2
+ほしみおくじょう	星見屋上	固有名詞	英:Techno Condominium:Rooftop　実装日:2019/01/28 ver0.108c p2
+きのこそうげん	キノコ草原	固有名詞	英:Extraterrestrial Cliffside:Strange Poison Fields　実装日:2019/03/19 ver0.108e
+きゃんでぃ	キャンディ	固有名詞	英:Candy Cane Fields　実装日:2019/03/19 ver0.108e
+ごーすとがい	ゴースト街	固有名詞	英:Ghost Town　実装日:2019/03/19 ver0.108e
+すとっくつうろ	ストック通路	固有名詞	英:Underground Passage:Monochrome Room　実装日:2019/03/19 ver0.108e
+ぱらさいとらぼ	パラサイトラボ	固有名詞	英:Parasite Laboratory　実装日:2019/03/19 ver0.108e
+ものくろまんしょん	モノクロマンション	固有名詞	英:Monochrome Mansion　実装日:2019/03/19 ver0.108e
+ものくろそうげん	モノクロ草原	固有名詞	英:Monochrome Mansion:Monochrome Fields　実装日:2019/03/19 ver0.108e
+ちていつうろ	地底通路	固有名詞	英:Underground Passage/Stone Towers(屋外)　実装日:2019/03/19 ver0.108e
+ゆめかせい	夢火星	固有名詞	英:Dream Mars　実装日:2019/03/19 ver0.108e
+ゆめきんせい	夢金星	固有名詞	英:Dream Venus　実装日:2019/03/19 ver0.108e
+もりやしき	森屋敷	固有名詞	英:Haunted Forest Town:Spirit Mansion　実装日:2019/03/19 ver0.108e
+しんりんがい	森林街	固有名詞	英:Haunted Forest Town　実装日:2019/03/19 ver0.108e
+しんりんまち	森林街	固有名詞	英:Haunted Forest Town　実装日:2019/03/19 ver0.108e
+こおりのだいち	氷の台地	固有名詞	英:Icy Plateau　実装日:2019/03/19 ver0.108e
+りょくがい	緑崖	固有名詞	英:Extraterrestrial Cliffside　実装日:2019/03/19 ver0.108e
+みどりがけ	緑崖	固有名詞	英:Extraterrestrial Cliffside　実装日:2019/03/19 ver0.108e
+はなのこべや	花の小部屋	固有名詞	英:Misty Bridges:Lotus Lamp Room　実装日:2019/03/19 ver0.108e
+きりのはし	霧の橋	固有名詞	英:Misty Bridges　実装日:2019/03/19 ver0.108e
+こくばん	黒板	固有名詞	英:Chalkboard Playground　実装日:2019/03/19 ver0.108e
+らくえん	楽園	固有名詞	英:Celestial Garden　実装日:2019/03/23 ver0.108f p1
+へいこうしへんけいちぇす	平行四辺形チェス	固有名詞	英:Chess World　実装日:2019/03/24 ver0.108g
+えんこうしゃくていちか	猿侯爵邸地下	固有名詞	英:Monkey Mansion:Basement　実装日:2019/03/24 ver0.108g
+さるこうしゃくていちか	猿侯爵邸地下	固有名詞	英:Monkey Mansion:Basement　実装日:2019/03/24 ver0.108g
+さとうどう	砂糖道	固有名詞	英:Sugar Road　実装日:2019/03/24 ver0.108g
+さとうみち	砂糖道	固有名詞	英:Sugar Road　実装日:2019/03/24 ver0.108g
+あれの	荒野	固有名詞	英:Blob Desert　実装日:2019/03/24 ver0.108g
+こうや	荒野	固有名詞	英:Blob Desert　実装日:2019/03/24 ver0.108g
+まんねんせつ	万年雪	固有名詞	英:Erratic Pillar Lands:Underground caves　実装日:2019/03/30 ver0.108g p4
+まんねんゆき	万年雪	固有名詞	英:Erratic Pillar Lands:Underground caves　実装日:2019/03/30 ver0.108g p4
+ちかのうみ	地下の海	固有名詞	英:Ocean Subsurface　実装日:2019/03/30 ver0.108g p4
+むげんとしょかん	無限図書館	固有名詞	英:Infinite Library　実装日:2019/03/30 ver0.108g p4
+まいごいし	迷子石	固有名詞	英:Erratic Pillar Lands　実装日:2019/03/30 ver0.108g p4
+まいごせき	迷子石	固有名詞	英:Erratic Pillar Lands　実装日:2019/03/30 ver0.108g p4
+だんご	DANGO	固有名詞	英:High-rise Building:Dango World　実装日:2019/04/06 ver0.108h
+ぱそこん	パソコン	固有名詞	英:Head World:Brain　実装日:2019/04/06 ver0.108h
+せいしん	精神	固有名詞	英:Head World:Brain　実装日:2019/04/06 ver0.108h
+いわはだ	岩肌	固有名詞	英:Rocky Cavern　実装日:2019/04/15 ver0.108i
+ひょうそう	氷草	固有名詞	英:Frigid Meadow　実装日:2019/04/15 ver0.108i
+こおりぐさ	氷草	固有名詞	英:Frigid Meadow　実装日:2019/04/15 ver0.108i
+いしつうろ	石通路	固有名詞	英:Psychedelic Stone Path　実装日:2019/04/15 ver0.108i
+やみどう	闇洞	固有名詞	英:Negative Space　実装日:2019/04/15 ver0.108i
+やみぼら	闇洞	固有名詞	英:Negative Space　実装日:2019/04/15 ver0.108i
+あんどう	闇洞	固有名詞	英:Negative Space　実装日:2019/04/15 ver0.108i
+ひるぎりん	ヒルギ林	固有名詞	英:Mangrove Forest　実装日:2019/04/27 ver0.108i p1
+あかしお	赤潮	固有名詞	英:Ice Floe World:Great Fish's Stomach　実装日:2019/04/27 ver0.108i p1
+ぽりきゅーぶ	ポリキューブ	固有名詞	英:Wooden Polycube Ruins　実装日:2019/05/01 ver0.109
+はもん	波紋	固有名詞	英:Static Noise Hell:Ripple Passage　実装日:2019/05/01 ver0.109
+あかくろめいろ	赤黒迷路	固有名詞	英:Static Noise Hell　実装日:2019/05/01 ver0.109
+あかぐろめいろ	赤黒迷路	固有名詞	英:Static Noise Hell　実装日:2019/05/01 ver0.109
+おーたむ	オータム	固有名詞	英:Ruined Garden　実装日:2019/05/02 ver0.109a
+こどものへや	コドモの部屋	固有名詞	英:Silent Sewers:Cyclops' Room　実装日:2019/05/02 ver0.109a
+らじおいけ	ラジオ池	固有名詞	英:Silent Sewers　実装日:2019/05/02 ver0.109a
+もりのなかのじゅうたくがい	森の中の住宅街	固有名詞	英:Decrepit Dwellings:Upper Area　実装日:2019/05/02 ver0.109a
+うすぐらいまち	薄暗い街	固有名詞	英:Vintage Town　実装日:2019/05/02 ver0.109a
+しゅうごうじゅうたく	集合住宅	固有名詞	英:Decrepit Dwellings　実装日:2019/05/02 ver0.109a
+どぐう	土偶	固有名詞	英:Clay Statue World　実装日:2019/05/08 ver0.109b
+こさんばし	湖桟橋	固有名詞	英:Oriental Lake　実装日:2019/05/08 ver0.109b
+ふるさんばし	湖桟橋	固有名詞	英:Oriental Lake　実装日:2019/05/08 ver0.109b
+すなちとちか	砂地と地下	固有名詞	英:Sandy Plains(砂地)/Aquamarine Cave(地下)　実装日:2019/05/08 ver0.109b
+ちかしつ	地下室	固有名詞	英:Ocean Storehouse　実装日:2019/05/10 ver0.109c
+たきかん	滝館	固有名詞	英:Wastewater Treatment Plant　実装日:2019/05/10 ver0.109c
+たきやかた	滝館	固有名詞	英:Wastewater Treatment Plant　実装日:2019/05/10 ver0.109c
+ふかいがわ	不快川	固有名詞	英:Despair Road:Goblet Cell Path　実装日:2019/05/11 ver0.109c p1
+ふかいかわ	不快川	固有名詞	英:Despair Road:Goblet Cell Path　実装日:2019/05/11 ver0.109c p1
+ちかどう	地下道	固有名詞	英:Emerald Cave　実装日:2019/06/05 ver0.109d
+ちていこ	地底湖	固有名詞	英:Underground Lake　実装日:2019/06/05 ver0.109d
+ちていみずうみ	地底湖	固有名詞	英:Underground Lake　実装日:2019/06/05 ver0.109d
+がいとうえん	街灯園	固有名詞	英:Streetlight Garden　実装日:2019/06/05 ver0.109d
+あかのめいきゅう	赤の迷宮	固有名詞	英:Crimson Labyrinth　実装日:2019/06/05 ver0.109d
+せいしかいろう	青紫回廊	固有名詞	英:Indigo Pathway　実装日:2019/06/05 ver0.109d
+あおむらさきかいろう	青紫回廊	固有名詞	英:Indigo Pathway　実装日:2019/06/05 ver0.109d
+たかだいのこうや	高台の荒野	固有名詞	英:Mountainous Badlands　実装日:2019/06/05 ver0.109d
+たかだいのあれの	高台の荒野	固有名詞	英:Mountainous Badlands　実装日:2019/06/05 ver0.109d
+わふうぼち	和風墓地	固有名詞	英:Green Tea Graveyard　実装日:2019/06/16 ver0.109d p2
+こんちゅうりん	昆虫林	固有名詞	英:Beetle Forest　実装日:2019/06/16 ver0.109d p2
+でーたすとりーむ	データストリーム	固有名詞	英:Data Stream　実装日:2019/07/19 ver0.109e p2
+しょくどう	食堂	固有名詞	英:Bathhouse:Dining Hall　実装日:2019/07/25 ver0.109f
+ｆｃばぐすてーじ	FCバグステージ(水路)	固有名詞	英:FC Caverns A　実装日:2019/08/22 ver0.109h
+すいろ	FCバグステージ(水路)	固有名詞	英:FC Caverns A　実装日:2019/08/22 ver0.109h
+みずのめいろ	水の迷路	固有名詞	英:Flooded Dungeon　実装日:2019/08/22 ver0.109h
+すいか	水果	固有名詞	英:Flooded Dungeon:Floral Vortex　実装日:2019/08/22 ver0.109h
+ひょうてい	氷庭	固有名詞	英:Wooden Polycube Ruins:Icy Garden　実装日:2019/08/22 ver0.109h
+こおりにわ	氷庭	固有名詞	英:Wooden Polycube Ruins:Icy Garden　実装日:2019/08/22 ver0.109h
+こだいいせき	古代遺跡	固有名詞	英:Ancient Crypt　実装日:2019/09/15 ver0.109i
+ようがんざん	溶岩山	固有名詞	英:Crimson Labyrinth:Exit　実装日:2019/09/15 ver0.109i
+せきそく	石跡	固有名詞	英:Radiant Stones Pathway　実装日:2019/09/15 ver0.109i
+いしあと	石跡	固有名詞	英:Radiant Stones Pathway　実装日:2019/09/15 ver0.109i
+しもばしら	霜柱	固有名詞	英:Frigid Meadow:Frozen Cavern　実装日:2019/09/15 ver0.109i
+じゅりんくうかん	樹林空間	固有名詞	英:Cliffside Woods　実装日:2019/09/19 ver0.109i p2
+ゆめたく	夢卓	固有名詞	英:Dream Park:Treetops Area　実装日:2019/11/02 ver0.110a
+むそうこうえん	夢想公園	固有名詞	英:Dream Park　実装日:2019/11/02 ver0.110a
+きょそう	虚騒	固有名詞	英:Shadowy Caves　実装日:2019/11/02 ver0.110a
+ふうかほこら	風化祠	固有名詞	英:Guardians' Temple　実装日:2019/11/02 ver0.110a
+ないんたいる	ナインタイル	固有名詞	英:Rainbow Tiles Maze　実装日:2019/12/15 ver0.110e
+てるくさ	照草	固有名詞	英:Tangerine Prairie　実装日:2019/12/15 ver0.110e
+しょうそう	照草	固有名詞	英:Tangerine Prairie　実装日:2019/12/15 ver0.110e
+きんめづき	金目月	固有名詞	英:Golden Pyramid Path　実装日:2019/12/15 ver0.110e
+きんめつき	金目月	固有名詞	英:Golden Pyramid Path　実装日:2019/12/15 ver0.110e
+かなめづき	金目月	固有名詞	英:Golden Pyramid Path　実装日:2019/12/15 ver0.110e
+しゃようのまち	斜陽の町	固有名詞	英:Scarlet Corridors　実装日:2019/12/25 ver0.110g
+じょうすいしせつ	浄水施設	固有名詞	英:Water Reclamation Facility　実装日:2019/12/25 ver0.110g
+ねおんけいぶ	ネオンケイブ	固有名詞	英:Neon Caves　実装日:2020/01/01 ver0.110g p2
+のいずのうみ	ノイズの海	固有名詞	英:Static Labyrinth　実装日:2020/01/01 ver0.110g p2
+はさみ	ハサミ	固有名詞	英:Surgical Scissors World　実装日:2020/01/01 ver0.110g p2
+いしきり	石切	固有名詞	英:Aquatic Cube City　実装日:2020/01/01 ver0.110g p2
+そうたいとう	葬待冬	固有名詞	英:Broken City:Winter Funeral　実装日:2020/01/02 ver0.110h
+そうたいぶゆ	葬待冬	固有名詞	英:Broken City:Winter Funeral　実装日:2020/01/02 ver0.110h
+いんきょぼこら	隠墟祠	固有名詞	英:Guardians' Temple:Hidden Shrine　実装日:2020/01/04 ver0.110i
+ぱねるしあたー	パネルシアター	固有名詞	英:Jumbotron Hub　実装日:2020/01/09 ver0.111
+しょくせいがいろ	植生街路	固有名詞	英:Floral Crossroads　実装日:2020/01/09 ver0.111
+てんしんあん	転寝庵	固有名詞	英:Ghostly Inn　実装日:2020/01/09 ver0.111
+ぎんどうぷれーと	銀銅プレート	固有名詞	英:Metallic Plate World　実装日:2020/01/09 ver0.111
+ふしんかん	不信感	固有名詞	英:Distrust District　実装日:2020/02/14 ver0.111a
+よつばいけ	四葉池	固有名詞	英:Clover Ponds　実装日:2020/02/14 ver0.111a
+すとろべりー	ストロベリー	固有名詞	英:Strawberry Fields　実装日:2020/03/03 ver0.111c
+こうはくひがん	紅白彼岸	固有名詞	英:White Scarlet Exhibition　実装日:2020/03/03 ver0.111c
+ぎんようかん	銀洋館	固有名詞	英:Silver Mansion　実装日:2020/03/03 ver0.111c
+びりじあんしっち	ビリジアン湿地	固有名詞	英:Viridian Wetlands　実装日:2020/03/17 ver0.111d
+ものくろすとーん	モノクロストーン	固有名詞	英:Monochrome Wastelands　実装日:2020/03/17 ver0.111d
+ものくろかいだん	モノクロ階段	固有名詞	英:Monochrome Mansion:Escherian Passage　実装日:2020/03/17 ver0.111d
+にんぎょのすむどうくつ	人魚の住む洞窟	固有名詞	英:Neon Sea:Entrance to Viridian Wetlands　実装日:2020/03/17 ver0.111d
+ふゆのむら	冬の村	固有名詞	英:Snowy Village　実装日:2020/03/17 ver0.111d
+てんたいかんそくじょ	天体観測所	固有名詞	英:Abandoned Dreadnough/Chainlink Lees(水路)　実装日:2020/03/17 ver0.111d
+うちゅうせん	宇宙船	固有名詞	英:Spaceship　実装日:2020/03/17 ver0.111d
+しんりんこうえん	森林公園	固有名詞	英:Verdant Promenade　実装日:2020/03/17 ver0.111d
+かがくてん	科学展	固有名詞	英:Grand Scientific Museum/Misty Bridges:Transmission Tower(送電塔エリア)　実装日:2020/03/17 ver0.111d
+きょうこ	鏡湖	固有名詞	英:Blue Cactus Islands:Mirror Lake　実装日:2020/03/17 ver0.111d
+まじょのすみか	魔女の住処	固有名詞	英:Cat Cemetery:Entrance to the Snowy Village　実装日:2020/03/17 ver0.111d
+うみべのさんぽみち	海辺の散歩道	固有名詞	英:Electromagnetic Terminal:Seaside Road　実装日:2020/03/28 ver0.111f
+でんじたーみなる	電磁ターミナル	固有名詞	英:Electromagnetic Terminal　実装日:2020/03/28 ver0.111f
+えーてる	エーテル	固有名詞	英:Ether Caverns　実装日:2020/04/01 ver0.111g
+ねおんしてぃ	ネオンシティ	固有名詞	英:Fluorescent City　実装日:2020/04/01 ver0.111g
+ほろぐらむ	ホログラム	固有名詞	英:Holographic Chamber　実装日:2020/04/01 ver0.111g
+るりどうくつ	瑠璃洞窟	固有名詞	英:Holographic Chamber:Chamber exterior　実装日:2020/04/01 ver0.111g
+まうそれうむ	マウソレウム	固有名詞	英:Stellar Mausoleum/Mottled Desert(まだら砂漠)　実装日:2020/04/21 ver0.111h
+だんぼーるめいろ	ダンボール迷路	固有名詞	英:Fruit Cake World　実装日:2020/04/23 ver0.111h p4?
+ちりはいきじょう	塵廃棄場	固有名詞	英:Ghastly Dumpsite　実装日:2020/05/01 ver0.112
+じんはいきじょう	塵廃棄場	固有名詞	英:Ghastly Dumpsite　実装日:2020/05/01 ver0.112
+しんりょくそう	新緑荘	固有名詞	英:Dreamscape Villa　実装日:2020/05/01 ver0.112
+あかりもり	灯森	固有名詞	英:Ghastly Dumpsite:Golden Forest　実装日:2020/05/01 ver0.112
+とうもり	灯森	固有名詞	英:Ghastly Dumpsite:Golden Forest　実装日:2020/05/01 ver0.112
+こーひーかっぷ	珈琲カップ	固有名詞	英:Coffee Cup World　実装日:2020/05/10 ver0.112a
+いんｓちつちおｎ	institution	固有名詞	英:Robotic Institution　実装日:2020/05/24 ver0.112b
+いんすてぃちゅーしょん	institution	固有名詞	英:Robotic Institution　実装日:2020/05/24 ver0.112b
+かるかりなかい	カルカリナ海	固有名詞	英:Calcarina Sea　実装日:2020/05/24 ver0.112b
+かるかりなうみ	カルカリナ海	固有名詞	英:Calcarina Sea　実装日:2020/05/24 ver0.112b
+ゆめどけみず	夢解け水	固有名詞	英:Miraculous Waters　実装日:2020/05/24 ver0.112b
+ゆめどけすい	夢解け水	固有名詞	英:Miraculous Waters　実装日:2020/05/24 ver0.112b
+きゅうじょううちゅう	球状宇宙	固有名詞	英:Spherical Space Labyrinth　実装日:2020/05/24 ver0.112b
+たいようてんらんかい	太陽展覧会	固有名詞	英:Floral Crossroads:Ghostly Exhibit　実装日:2020/05/30 ver0.112b p2
+おーろらこ	オーロラ湖	固有名詞	英:Aurora Lake　実装日:2020/06/05 ver0.112b p3
+おーろらみずうみ	オーロラ湖	固有名詞	英:Aurora Lake　実装日:2020/06/05 ver0.112b p3
+ひとばしら	人柱	固有名詞	英:Cloaked Pillar World　実装日:2020/06/05 ver0.112b p3
+かせきこ	化石湖	固有名詞	英:Fossil Lake　実装日:2020/06/05 ver0.112b p3
+かせきみずうみ	化石湖	固有名詞	英:Fossil Lake　実装日:2020/06/05 ver0.112b p3
+ちかしせつ	地下施設	固有名詞	英:Subterranean Plant　実装日:2020/06/05 ver0.112b p3
+たるみず	垂水	固有名詞	英:Lost Creek　実装日:2020/06/05 ver0.112b p3
+ゆうこく	幽谷	固有名詞	英:Nocturnal Grove　実装日:2020/06/05 ver0.112b p3
+はくあのとう	白亜の塔	固有名詞	英:Viridescent Temple　実装日:2020/06/05 ver0.112b p3
+しこ	紫湖	固有名詞	英:Lavender Waters　実装日:2020/06/05 ver0.112b p3
+むらさきこ	紫湖	固有名詞	英:Lavender Waters　実装日:2020/06/05 ver0.112b p3
+むらさきみずうみ	紫湖	固有名詞	英:Lavender Waters　実装日:2020/06/05 ver0.112b p3
+しめごろしのき	絞め殺しの木	固有名詞	英:Floating Catacombs　実装日:2020/06/05 ver0.112b p3
+くろいあめ	黒い雨	固有名詞	英:Rainfall Ruins　実装日:2020/06/05 ver0.112b p3
+がれきとぼうきゃく	瓦礫と忘却	固有名詞	英:Monochrome GB World:Iron Crypt　実装日:2020/06/23 ver0.112c
+くおんのさと	久遠の里	固有名詞	英:Haunted Village　実装日:2020/06/28 ver0.112d
+ちょうぞうむぞう	鳥像夢像	固有名詞	英:Avian Statue World　実装日:2020/06/28 ver0.112d
+はちのす	ハチの巣	固有名詞	英:Honeycomb World　実装日:2020/07/01 ver0.112e
+らんどるとかん	ランドルト環	固有名詞	英:Landolt Ring World　実装日:2020/07/01 ver0.112e
+くろつぶれ	黒潰れ	固有名詞	英:Redlight Alley/Sparkling Dimension A(金色の稲穂エリア)/B(街灯と木のエリア)　実装日:2020/07/06 ver0.112e p1
+がらす	ガラス	固有名詞	英:Pudding World:Liquor Bottle Area　実装日:2020/07/10 ver0.112e p2
+がりばー	ガリバー	固有名詞	英:Gulliver Desert　実装日:2020/07/10 ver0.112e p2
+でじたるしんりん	デジタル森林	固有名詞	英:Digital Forest　実装日:2020/07/10 ver0.112e p2
+でっき	デッキ	固有名詞	英:Smiley Face DECK　実装日:2020/07/10 ver0.112e p2
+みさろじー	ミサロジー	固有名詞	英:Opal Ruins　実装日:2020/07/10 ver0.112e p2
+はんぷゆう	反富裕	固有名詞	英:Fuchsia Suburbs　実装日:2020/07/10 ver0.112e p2
+さびれたさけび	寂れた叫び	固有名詞	英:Finger Candle World:Lonely Crying Path　実装日:2020/07/10 ver0.112e p2
+ゆびろうそく	指蝋燭	固有名詞	英:Finger Candle World　実装日:2020/07/10 ver0.112e p2
+ゆびめいろ	指迷路	固有名詞	英:Finger Candle World:Finger Maze　実装日:2020/07/10 ver0.112e p2
+くらいこうや	暗い荒野	固有名詞	英:Obsidian Plains　実装日:2020/07/10 ver0.112e p2
+くらいあれの	暗い荒野	固有名詞	英:Obsidian Plains　実装日:2020/07/10 ver0.112e p2
+あがいんｓちつちおｎ	AGAINSTITUTION	固有名詞	英:Clandestine Research Laboratory　実装日:2020/07/12 ver0.112f
+あーがいんすてぃちゅーしょん	AGAINSTITUTION	固有名詞	英:Clandestine Research Laboratory　実装日:2020/07/12 ver0.112f
+えーじーえーいんすてぃちゅーしょん	AGAINSTITUTION	固有名詞	英:Clandestine Research Laboratory　実装日:2020/07/12 ver0.112f
+あがいんすてぃちゅーしょん	AGAINSTITUTION	固有名詞	英:Clandestine Research Laboratory　実装日:2020/07/12 ver0.112f
+あげいんすてぃちゅーしょん	AGAINSTITUTION	固有名詞	英:Clandestine Research Laboratory　実装日:2020/07/12 ver0.112f
+へｒばりうｍ	Herbarium	固有名詞	英:Herbarium　実装日:2020/07/12 ver0.112f
+はーばりうむ	Herbarium	固有名詞	英:Herbarium　実装日:2020/07/12 ver0.112f
+てぃすぉｒｌぢｓ	This world is...?	固有名詞	英:Miraculous Waters　実装日:2020/07/12 ver0.112f
+てぃすぉｒｌぢｓ？	This world is...?	固有名詞	英:Miraculous Waters　実装日:2020/07/12 ver0.112f
+でぃすわーるどいず	This world is...?	固有名詞	英:Miraculous Waters　実装日:2020/07/12 ver0.112f
+でぃすわーるどいず？	This world is...?	固有名詞	英:Miraculous Waters　実装日:2020/07/12 ver0.112f
+すやすやせい	スヤスヤ星	固有名詞	英:Calcarina Sea:Night area　実装日:2020/07/12 ver0.112f
+すやすやぼし	スヤスヤ星	固有名詞	英:Calcarina Sea:Night area　実装日:2020/07/12 ver0.112f
+とうろうながし	灯篭流し	固有名詞	英:Water Lantern World　実装日:2020/07/12 ver0.112f
+くうきょかん	空虚感	固有名詞	英:Void　実装日:2020/07/12 ver0.112f
+くれないさいぼう	紅細胞	固有名詞	英:Erythrocyte Maze　実装日:2020/07/12 ver0.112f
+あかさいぼう	紅細胞	固有名詞	英:Erythrocyte Maze　実装日:2020/07/12 ver0.112f
+くろいんくせかい	黒インク世界	固有名詞	英:Black Ink World　実装日:2020/07/12 ver0.112f
+へきさごん	ヘキサゴン	固有名詞	英:Octagonal Grid Hub　実装日:2020/07/21 ver0.112g
+いろのないていりゅうじょ	色の無い停留所	固有名詞	英:Octagonal Grid Hub:Colorless Pier　実装日:2020/07/21 ver0.112g
+えぽっぺ	エポッペ	固有名詞	英:Bleeding Heads Garden(街灯と花)/Alien Valley(紫地エリア&赤黒エリア)　実装日:2020/07/30 ver0.112i
+にせあさせのいえ	偽浅瀬の家	固有名詞	英:Ahogeko's House/3D Structures Path(ブロックエリア)　実装日:2020/07/30 ver0.112i
+ちょうこくていえん	彫刻庭園	固有名詞	英:Sculpture Park　実装日:2020/07/30 ver0.112i
+しそにわ	始祖庭	固有名詞	英:Originator Garden　実装日:2020/08/07 ver0.112i p1
+こい	恋	固有名詞	英:Lovesick World　実装日:2020/08/07 ver0.112i p1
+しんそう	深層	固有名詞	英:Solstice Forest/Winter Valley(雪降る森エリア)　実装日:2020/08/07 ver0.112i p1
+はんかどう	繁華道	固有名詞	英:Fluorescent Halls　実装日:2020/08/07 ver0.112i p1
+はんかみち	繁華道	固有名詞	英:Fluorescent Halls　実装日:2020/08/07 ver0.112i p1
+うえ	飢え	固有名詞	英:Famished　Scribbles Area　実装日:2020/08/07 ver0.112i p1
+さびれたていりゅうじょ	寂れた停留所	固有名詞	英:Octagonal Grid Hub:Subway　実装日:2020/08/15 ver0.113 p1
+こいのいえ	恋の家	固有名詞	英:Lovesick World:House　実装日:2020/08/15 ver0.113
+こいすさび	恋荒び	固有名詞	英:Blue Lavender Shoal　実装日:2020/08/15 ver0.113
+こいあらび	恋荒び	固有名詞	英:Blue Lavender Shoal　実装日:2020/08/15 ver0.113
+ぶってｒｆｌｙ	Butterfly	固有名詞	英:Tomb of Velleities　実装日:2020/08/30 ver0.113b
+ばたふらい	Butterfly	固有名詞	英:Tomb of Velleities　実装日:2020/08/30 ver0.113b
+びすます	ビスマス	固有名詞	英:Bismuth World　実装日:2020/08/30 ver0.113b
+ふぶきのもり	吹雪の森	固有名詞	英:Wintry Cliffs　実装日:2020/08/30 ver0.113b
+わすれられたまち	忘れられた街	固有名詞	英:Forgotten Megalopolis　実装日:2020/08/30 ver0.113b
+くらいこうじょう	暗い工場	固有名詞	英:Dreary Drains　実装日:2020/08/30 ver0.113b
+あまいうそ	甘い嘘	固有名詞	英:Fantasy Isle　実装日:2020/08/30 ver0.113b
+ぶらっくほーる	ブラックホール	固有名詞	英:Monochrome GB World:Void Room　実装日:2020/09/03 ver0.113b p2
+ありのす	アリの巣	固有名詞	英:Mole Mine　実装日:2020/09/03 ver0.113c
+こいんらんどりー	コインランドリー	固有名詞	英:Laundromat　実装日:2020/09/03 ver0.113c
+すたーろーど	スターロード	固有名詞	英:Star Hub　実装日:2020/09/03 ver0.113c
+たけのこのやま	タケノコの山	固有名詞	英:Maple Forest:Bamboo Forest　実装日:2020/09/03 ver0.113c
+どらむかんのもり	ドラム缶の森	固有名詞	英:Oil Drum World　実装日:2020/09/03 ver0.113c
+なよたけ	ナヨタケ	固有名詞	英:Azure Depths　実装日:2020/09/03 ver0.113c
+わいなりー	ワイナリー	固有名詞	英:Wine Cellar　実装日:2020/09/03 ver0.113c
+てんくう	天空	固有名詞	英:Cinder Statue Heaven　実装日:2020/09/03 ver0.113c
+すたれたはとば	廃れた波止場	固有名詞	英:Tarnished Ship　実装日:2020/09/03 ver0.113c
+かれざんちょう	枯山町	固有名詞	英:Laundromat:Floating City　実装日:2020/09/03 ver0.113c
+かれさんちょう	枯山町	固有名詞	英:Laundromat:Floating City　実装日:2020/09/03 ver0.113c
+かれざんまち	枯山町	固有名詞	英:Laundromat:Floating City　実装日:2020/09/03 ver0.113c
+かれさんまち	枯山町	固有名詞	英:Laundromat:Floating City　実装日:2020/09/03 ver0.113c
+すいぼつはつでん	水没発電	固有名詞	英:Stalker Alley:Braille Dungeon　実装日:2020/09/03 ver0.113c
+あきのめぐみ	秋の恵み	固有名詞	英:Maple Forest　実装日:2020/09/03 ver0.113c
+しきし	色紙	固有名詞	英:Stained Glass Cosmo　実装日:2020/09/03 ver0.113c
+いろがみ	色紙	固有名詞	英:Stained Glass Cosmo　実装日:2020/09/03 ver0.113c
+あかちゃどうくつ	赤茶洞窟	固有名詞	英:Graffiti Sector:Slime Cherry Crypt　実装日:2020/09/03 ver0.113c
+でんのうかいろ	電脳回路	固有名詞	英:Graffiti Sector　実装日:2020/09/03 ver0.113c
+ちょうじゅうぎが	鳥獣戯画	固有名詞	英:Stalker Alley　実装日:2020/09/03 ver0.113c
+きらめくもり	きらめく森	固有名詞	英:Bright Forest　実装日:2020/09/06 ver0.113d
+えせとびらべや	似非扉部屋	固有名詞	英:The Second Nexus　実装日:2020/09/06 ver0.113d
+そっこう	側溝	固有名詞	英:The Gutter　実装日:2020/09/06 ver0.113d
+うそつきのまち	嘘つきの街	固有名詞	英:City of Liars/Shallows of Deceit(嘘つきの浅瀬)　実装日:2020/09/06 ver0.113d
+にじいせき	虹遺跡	固有名詞	英:Bright Forest:Rainbow Ruins　実装日:2020/09/06 ver0.113d
+あめふるこみち	雨降る小道	固有名詞	英:Lavender Park　実装日:2020/09/06 ver0.113d
+すいーときゅーぶ	スイートキューブ	固有名詞	英:Cube of Sweets　実装日:2020/09/07 ver0.113e
+ぽっぷれぼあ	ポップレボア	固有名詞	英:Pop Revoir　実装日:2020/09/07 ver0.113e
+うちすてるかいが	打捨てる絵画	固有名詞	英:Portrait Purgatory　実装日:2020/09/07 ver0.113e
+りんこうきん	燐光菌	固有名詞	英:Phosphorus World　実装日:2020/09/07 ver0.113e
+はこいりのこすも	箱入りのコスモ	固有名詞	英:Cosmic Cube World　実装日:2020/09/07 ver0.113e
+すいりょくのろう	翠緑の楼	固有名詞	英:Green Tower　実装日:2020/09/07 ver0.113e
+かげもりのはし	陰森の橋	固有名詞	英:Forest Interlude　実装日:2020/09/07 ver0.113e
+いろのないたに	色の無い谷	固有名詞	英:Colorless Valley/Colorless Roads(道路エリア)　実装日:2020/09/13 ver0.113e p2
+らんぷ	ランプ	固有名詞	英:Halloween Zone/Rainy Town(バックヤード)　実装日:2020/09/16 ver0.113f
+はいきょしょうてん	廃墟商店	固有名詞	英:Shop Ruins　実装日:2020/09/16 ver0.113f
+あじさいのこと	紫陽花の古都	固有名詞	英:Ancient Hydrangea City　実装日:2020/09/16 ver0.113f
+しとど	しとど	固有名詞	英:Shell Lake　実装日:2020/09/21 ver0.113g
+みかくにんひこうぶったい	未確認飛行物体	固有名詞	英:Ocular Spacecraft　実装日:2020/09/21 ver0.113g
+はなかおるそうげん	花香る草原	固有名詞	英:Flower Scent World　実装日:2020/09/21 ver0.113g
+ｔじたい	T字体	固有名詞	英:T-Folk World　実装日:2020/09/22 ver0.113g p1
+ぜっきょうのみち	絶叫の道	固有名詞	英:Fused Faces World:Pathway　実装日:2020/09/22 ver0.113g p1
+あおいまち	青い街	固有名詞	英:Blue House Road　実装日:2020/09/22 ver0.113g p1
+すなのまち	砂の町	固有名詞	英:Isometry World　実装日:2020/09/24 ver0.113h
+すうじ	数字	固有名詞	英:Integer World　実装日:2020/09/27 ver0.113i
+むくゆめ	無垢夢	固有名詞	英:Innocent Dream　実装日:2020/09/27 ver0.113i
+ぷりんせかい	プリン世界	固有名詞	英:Pudding World　実装日:2020/10/17 ver0.114a
+とうどう	橙道	固有名詞	英:Orange Badlands　実装日:2020/10/17 ver0.114a
+だいだいみち	橙道	固有名詞	英:Orange Badlands　実装日:2020/10/17 ver0.114a
+ｓろｍ	srom	固有名詞	英:Blood Cell Sea　実装日:2020/10/25 ver0.114b
+でーたすとりーむ	データストリーム(データデュプリケーション)	固有名詞	英:Data Stream(the deepest)　実装日:2020/11/12 ver0.114c
+でーたでゅぷりけーしょん	データストリーム(データデュプリケーション)	固有名詞	英:Data Stream(the deepest)　実装日:2020/11/12 ver0.114c
+あーと	アート	固有名詞	英:Paint Blot World　実装日:2020/11/18 ver0.114c p4
+せつげん	雪原	固有名詞	英:Frozen Woods　実装日:2020/11/18 ver0.114c p4
+えにぐま	エニグマ	固有名詞	英:Enigmatic World　実装日:2020/12/22 ver0.114e
+ふらわーろっじ	フラワーロッジ	固有名詞	英:Petal Hotel　実装日:2020/12/22 ver0.114e
+おもいわすれのまち	思忘れの町	固有名詞	英:Forgotten Town　実装日:2020/12/22 ver0.114e
+ごくらくのにわ	極楽の庭	固有名詞	英:Starfield Garden　実装日:2020/12/22 ver0.114e
+さんかくいわせかい	三角岩世界	固有名詞	英:Rock World　実装日:2020/12/26 ver0.114f
+あいすくりーむ	アイスクリー夢	固有名詞	英:Ice Cream Dream　実装日:2020/12/30 ver0.114g
+おおわたせい	オオワタ星	固有名詞	英:Calcarina Sea:Calcarina Snowfield　実装日:2020/12/30 ver0.114g
+おおわたぼし	オオワタ星	固有名詞	英:Calcarina Sea:Calcarina Snowfield　実装日:2020/12/30 ver0.114g
+ちょこれーとう	チョコレー塔	固有名詞	英:Chocolate Tower　実装日:2020/12/30 ver0.114g
+ねおんぼっくす	ネオンボックス	固有名詞	英:Color Cubes World　実装日:2020/12/30 ver0.114g
+たいない	体内	固有名詞	英:Visceral Cavern(内側エリア)/Tartaric Abyss(奈落エリア)　実装日:2020/12/30 ver0.114g
+しんふかい	浸腐海	固有名詞	英:Rotten Sea　実装日:2020/12/30 ver0.114g
+しんぷかい	浸腐海	固有名詞	英:Rotten Sea　実装日:2020/12/30 ver0.114g
+へいさくうかん	閉鎖空管	固有名詞	英:Rotten Sea:Pipe Area　実装日:2020/12/30 ver0.114g
+じゃんくふぁいる	ジャンクファイル	固有名詞	英:Digital Alley　実装日:2021/01/01 ver0.117i p6
+いか	烏賊	固有名詞	英:Nazca Valley:Squid Zone　実装日:2021/01/01 ver0.117i p6
+じはんこうじょう	自販工場	固有名詞	英:Vending Machine Factory　実装日:2021/01/08 ver0.114g p3
+あかいろげんだいびじゅつかん	赤色現代美術館	固有名詞	英:Red Monastery　実装日:2021/01/09 ver0.114g p4
+せきしょくげんだいびじゅつかん	赤色現代美術館	固有名詞	英:Red Monastery　実装日:2021/01/09 ver0.114g p4
+かお	顔	固有名詞	英:Fused Faces World　実装日:2021/01/09 ver0.114g p4
+かおめいろ	顔迷路	固有名詞	英:Crazed Faces Maze　実装日:2021/01/09 ver0.114g p4
+おむらいすめいきゅう	オムライス迷宮	固有名詞	英:Omurice Labyrinth　実装日:2021/01/20 ver0.115
+つぎはぎたうん	ツギハギタウン	固有名詞	英:Moonview Lane　実装日:2021/01/20 ver0.115
+とらんぷせかい	トランプ世界	固有名詞	英:Playing Card Dungeon　実装日:2021/01/20 ver0.115
+りぞーとほてるるいんず	リゾートホテル ルインズ	固有名詞	英:Totem Hotel　実装日:2021/01/20 ver0.115
+ぼひょうとそうぎ	墓標と葬儀	固有名詞	英:Maroon Gravehouse　実装日:2021/01/20 ver0.115
+ほしきんてんびん	星金天秤	固有名詞	英:Libra Palace　実装日:2021/01/20 ver0.115
+ほしがねてんびん	星金天秤	固有名詞	英:Libra Palace　実装日:2021/01/20 ver0.115
+けがわ	毛皮	固有名詞	英:Trophy Animal Land　実装日:2021/01/20 ver0.115
+りょくはいすい	緑排水	固有名詞	英:Lingering Sewers　実装日:2021/01/20 ver0.115
+ほねざかな	骨魚	固有名詞	英:Rotten Fish Lake　実装日:2021/01/20 ver0.115
+まほうとしょかん	魔法図書館	固有名詞	英:Mystery Library　実装日:2021/01/20 ver0.115
+とらんぷせかい	トランプ世界(ちくわえりあ)	固有名詞	英:Playing Card Dungeon(Chikuwa Area)　実装日:2021/01/22 ver0.115 p2
+ちくわえりあ	トランプ世界(ちくわえりあ)	固有名詞	英:Playing Card Dungeon(Chikuwa Area)　実装日:2021/01/22 ver0.115 p2
+けがわ	毛皮(ドラムかん集落)	固有名詞	英:Trophy Animal Land(Drum-Folk Village)　実装日:2021/01/22 ver0.115 p2
+どらむかんしゅうらく	毛皮(ドラムかん集落)	固有名詞	英:Trophy Animal Land(Drum-Folk Village)　実装日:2021/01/22 ver0.115 p2
+さんくちゅあり	サンクチュアリ	固有名詞	英:Sanctuary　実装日:2021/02/03 ver0.115a
+やさしいうみ	優しい海	固有名詞	英:Gentle Sea　実装日:2021/02/03 ver0.115a
+あーと	アート(染み迷路)	固有名詞	英:Paint Blot World(Paint Blot Path)　実装日:2021/02/10 ver0.115b p3
+しみめいろ	アート(染み迷路)	固有名詞	英:Paint Blot World(Paint Blot Path)　実装日:2021/02/10 ver0.115b p3
+ぴんくじみつうろ	アート(ピンク染み通路)	固有名詞	英:Paint Blot World(Paint Blot Path)　実装日:2021/02/10 ver0.115b p3
+ぴんくしみつうろ	アート(ピンク染み通路)	固有名詞	英:Paint Blot World(Paint Blot Path)　実装日:2021/02/10 ver0.115b p3
+あーと	アート(ピンク染み通路)	固有名詞	英:Paint Blot World(Paint Blot Path)　実装日:2021/02/10 ver0.115b p3
+すたっちゅ	スタッチュ	固有名詞	英:Statue Forest　実装日:2021/02/20 ver0.115d
+つなーどほーる	ツナードホール	固有名詞	英:Donut Hole World　実装日:2021/02/20 ver0.115d
+おめでとう	オメデ塔	固有名詞	英:Birthday Tower　実装日:2021/03/21 ver0.115g
+おやすみなさい	オヤスミナ賽	固有名詞	英:Dice World　実装日:2021/03/21 ver0.115g
+さようならく	サヨウ奈落	固有名詞	英:Abyss of Farewells　実装日:2021/03/21 ver0.115g
+むそうけっかい	ムソウ結界	固有名詞	英:Guardians' Realm　実装日:2021/03/21 ver0.115g
+きしょうてん	起床点	固有名詞	英:Sacred Crypt　実装日:2021/03/21 ver0.115g
+ほうかいしんげつ	崩壊新月	固有名詞	英:Black Sphere World　実装日:2021/03/26 ver0.115h p2
+はしめいろ	橋迷路	固有名詞	英:Unending River:Spelunker's Nightmare　実装日:2021/03/26 ver0.115h p2
+はなのながれるかわ	花の流れる川	固有名詞	英:Unending River　実装日:2021/03/26 ver0.115h p2
+あかたいるせかい	赤タイル世界	固有名詞	英:Amorphous Maroon Space　実装日:2021/03/26 ver0.115h p2
+ぶろっくべい	ブロック塀	固有名詞	英:Zodiac Fortress　実装日:2021/04/10 ver0.115i p2
+ぐれーとんねる	グレートンネル	固有名詞	英:Monochrome GB World:GB Tunnel　実装日:2021/04/24 ver0.115i p3
+ゆうやけおくじょう	夕焼け屋上	固有名詞	英:Rock World:Sunset Rooftops　実装日:2021/05/02 ver0.116
+くろしろせかい	黒白世界	固有名詞	英:Smiley Signs World　実装日:2021/05/16 ver0.116a
+ききゅう	気球	固有名詞	英:Hot Air Balloon World　実装日:2021/05/21 ver0.116b
+ｆｃばぐすてーじ	FCバグステージ(白黒)	固有名詞	英:FC Caverns B/Hidden Garage(地下ガレージエリア)　実装日:2021/05/21 ver0.116b
+しろくろ	FCバグステージ(白黒)	固有名詞	英:FC Caverns B/Hidden Garage(地下ガレージエリア)　実装日:2021/05/21 ver0.116b
+きりきり	キリキリ	固有名詞	英:Robotic Slaves Tunnel　実装日:2021/05/31 ver0.116c
+ぐりーんぼーい	グリーンボーイ	固有名詞	英:Monochrome GB World　実装日:2021/05/31 ver0.116c
+かめいけ	亀池	固有名詞	英:Handheld Game Pond　実装日:2021/05/31 ver0.116c
+ごせんふ	五線譜	固有名詞	英:Crystal Star Tower　実装日:2021/05/31 ver0.116c
+はきけ	吐き気	固有名詞	英:Obentou World　実装日:2021/05/31 ver0.116c
+しゅうかつ	就活	固有名詞	英:Inu-san's Psyche　実装日:2021/05/31 ver0.116c
+うつしぐも	映し雲	固有名詞	英:Astral World　実装日:2021/05/31 ver0.116c
+あかつきざ	暁座	固有名詞	英:Astral World:Nightshade Corridor　実装日:2021/05/31 ver0.116c
+ねｓとんねる	NESトンネル	固有名詞	英:NES Glitch Tunnel　実装日:2021/06/02 ver0.116c p1
+えぬいーえすとんねる	NESトンネル	固有名詞	英:NES Glitch Tunnel　実装日:2021/06/02 ver0.116c p1
+れｓｔろおｍ	Rest Room	固有名詞	英:Eyeball Cherry Fields:Giant toilet　実装日:2021/06/06 ver0.116c p2
+れすとるーむ	Rest Room	固有名詞	英:Eyeball Cherry Fields:Giant toilet　実装日:2021/06/06 ver0.116c p2
+ちぇりー	チェリー	固有名詞	英:Eyeball Cherry Fields　実装日:2021/06/06 ver0.116c p2
+ひらやま	ヒラヤマ	固有名詞	英:Mountaintop Ruins　実装日:2021/06/06 ver0.116c p2
+ちかすいどう	地下水洞	固有名詞	英:Whispery Sewers　実装日:2021/06/06 ver0.116c p2
+こいくさび	恋楔	固有名詞	英:Corrupted Love World　実装日:2021/06/06 ver0.116d
+こいくさびのへや	恋楔の部屋	固有名詞	英:Unknown Child's Room　実装日:2021/06/06 ver0.116d
+まんまるん	マンマルン	固有名詞	英:Pastel Sky Park　実装日:2021/06/20 ver0.116e
+さんじつうろ	三路通路	固有名詞	英:Tricolor Passage　実装日:2021/06/20 ver0.116e
+さんろつうろ	三路通路	固有名詞	英:Tricolor Passage　実装日:2021/06/20 ver0.116e
+かめんぞくのせかい	仮面族の世界	固有名詞	英:Mask Folks Hideout　実装日:2021/06/20 ver0.116e
+こどく	蠱毒	固有名詞	英:Entomophobia Realm　実装日:2021/06/20 ver0.116e
+くりすます	クスリマス	固有名詞	英:Sherbet Snowfield　実装日:2021/06/21 ver0.119
+ばたーれいん	バターレイン	固有名詞	英:Butter Rain World　実装日:2021/06/21 ver0.119
+むそうたーみなる	六層ターミナル	固有名詞	英:Sixth Terminal　実装日:2021/06/21 ver0.119
+ろくそうたーみなる	六層ターミナル	固有名詞	英:Sixth Terminal　実装日:2021/06/21 ver0.119
+ふみきり	文霧	固有名詞	英:Cipher Fog World　実装日:2021/06/21 ver0.119
+ぶんむ	文霧	固有名詞	英:Cipher Fog World　実装日:2021/06/21 ver0.119
+ぶんきり	文霧	固有名詞	英:Cipher Fog World　実装日:2021/06/21 ver0.119
+おんこのこ	音呼鋸	固有名詞	英:Sound Saws World　実装日:2021/06/21 ver0.119
+おとよびのこ	音呼鋸	固有名詞	英:Sound Saws World　実装日:2021/06/21 ver0.119
+あせろら	アセロラ	固有名詞	英:Acerola World　実装日:2021/06/24 ver0.116f
+かじの	カジノ	固有名詞	英:Playing Card Dungeon:Golden Casino　実装日:2021/06/29 ver0.116g
+たけのこのやま	タケノコの山(駄菓子屋)	固有名詞	英:Maple Forest:Golden Chinatown(祭りエリア周辺の総称)　実装日:2021/06/29 ver0.116g
+だがしや	タケノコの山(駄菓子屋)	固有名詞	英:Maple Forest:Golden Chinatown(祭りエリア周辺の総称)　実装日:2021/06/29 ver0.116g
+たつのこせかい	タツノコ世界	固有名詞	英:Silhouette Complex　実装日:2021/06/29 ver0.116g
+ぶるーぶるー	ブルーブルー	固有名詞	英:Everblue City　実装日:2021/06/29 ver0.116g
+ほっとけーきしんえん	ホットケーキ深淵	固有名詞	英:Pancake World　実装日:2021/06/29 ver0.116g
+ぽすとつうろ	ポスト通路	固有名詞	英:Checkered Postal Path　実装日:2021/06/29 ver0.116g
+ゆめびーち	夢ビーチ	固有名詞	英:Grand Beach　実装日:2021/06/29 ver0.116g
+もくざいせかい	木材世界	固有名詞	英:Wooden Block World　実装日:2021/06/29 ver0.116g
+りょくがんばこ	緑顔箱	固有名詞	英:Dinosaur Abode　実装日:2021/06/29 ver0.116g
+みどりがおばこ	緑顔箱	固有名詞	英:Dinosaur Abode　実装日:2021/06/29 ver0.116g
+ふうしゃこやぐん	風車小屋群	固有名詞	英:Windswept Fields　実装日:2021/06/29 ver0.116g
+かざぐるまこやぐん	風車小屋群	固有名詞	英:Windswept Fields　実装日:2021/06/29 ver0.116g
+さばさばく	鯖砂漠	固有名詞	英:Mackerel Desert　実装日:2021/06/29 ver0.116g
+せんにんしょうさばく	仙人掌砂漠	固有名詞	英:Cactus Desert　実装日:2021/07/04 ver0.116g p3
+れんげこうえん	蓮華公園	固有名詞	英:Lotus Park　実装日:2021/07/14 ver0.116h
+しょうけいじょう	笑刑場	固有名詞	英:Execution Ground　実装日:2021/07/17 ver0.116h p2
+しゃったーどおり	シャッター通り	固有名詞	英:Water Reclamation Facility:Shutter Alley　実装日:2021/07/22 ver0.116i
+しゃったーとおり	シャッター通り	固有名詞	英:Water Reclamation Facility:Shutter Alley　実装日:2021/07/22 ver0.116i
+そせきむら	礎石村	固有名詞	英:Golden Sunset Estate　実装日:2021/07/22 ver0.116i
+あとりえ	アトリエ	固有名詞	英:Atelier　実装日:2021/08/15 ver0.117
+ぶりぶり	ぶりぶり	固有名詞	英:Fish World　実装日:2021/08/25 ver0.117a
+すいーつほーる	スイーツホール	固有名詞	英:Dessert Fields　実装日:2021/08/25 ver0.117a
+ちーずはうす	チーズハウス	固有名詞	英:Toy World:Cheese Mini-Area　実装日:2021/09/07 ver0.117b
+ゆめけんきゅうじょ	夢研究所	固有名詞	英:Subterranean Research Center　実装日:2021/09/28 ver0.117c
+しろくろひろば	白黒広場	固有名詞	英:Duality Wilds　実装日:2021/09/28 ver0.117c
+あなぼこ	穴ぼこ	固有名詞	英:Hollows　実装日:2021/09/28 ver0.117c
+ぱんどら	94nd0r4	固有名詞	英:Tricolor Room:Box of Mysteries　実装日:2021/10/05 ver0.117d
+９４んｄ０ｒ４	94nd0r4	固有名詞	英:Tricolor Room:Box of Mysteries　実装日:2021/10/05 ver0.117d
+あかねこたけばやし	朱猫竹林	固有名詞	英:Vermilion Bamboo Forest　実装日:2021/10/08 ver0.117e
+しゅねこたけばやし	朱猫竹林	固有名詞	英:Vermilion Bamboo Forest　実装日:2021/10/08 ver0.117e
+しゅびょうたけばやし	朱猫竹林	固有名詞	英:Vermilion Bamboo Forest　実装日:2021/10/08 ver0.117e
+あかねこちくりん	朱猫竹林	固有名詞	英:Vermilion Bamboo Forest　実装日:2021/10/08 ver0.117e
+しゅねこちくりん	朱猫竹林	固有名詞	英:Vermilion Bamboo Forest　実装日:2021/10/08 ver0.117e
+しゅびょうちくりん	朱猫竹林	固有名詞	英:Vermilion Bamboo Forest　実装日:2021/10/08 ver0.117e
+うさぎぼし	うさぎ星	固有名詞	英:Lapine Forest　実装日:2021/10/19 ver0.117f
+ひらやま	ヒラヤマ(豊穣の間)	固有名詞	英:Mountaintop Ruins　実装日:2021/10/25 ver0.117f p2
+ほうじょうのま	ヒラヤマ(豊穣の間)	固有名詞	英:Mountaintop Ruins　実装日:2021/10/25 ver0.117f p2
+うつ	うつ	固有名詞	英:Wind Turbine Plateau:Face　実装日:2021/11/17 ver0.117g
+まじかる	マジカル	固有名詞	英:Magical Passage　実装日:2021/11/17 ver0.117g
+ゆめぷーる	夢プール	固有名詞	英:Dream Pool　実装日:2021/11/17 ver0.117g
+どあいかいだん	怒哀階段	固有名詞	英:Garden of Treachery :Stairs of Wrath(階段)/ :Visine Corridor(小部屋)　実装日:2021/11/17 ver0.117g
+しんかい	森徊	固有名詞	英:Foliage Estate　実装日:2021/11/17 ver0.117g
+もりかい	森徊	固有名詞	英:Foliage Estate　実装日:2021/11/17 ver0.117g
+しんしょう	森牆(星空エリア)	固有名詞	英:Foliage Estate　実装日:2021/11/17 ver0.117g
+ほしぞらえりあ	森牆(星空エリア)	固有名詞	英:Foliage Estate　実装日:2021/11/17 ver0.117g
+きんそく	禁足	固有名詞	英:Azure Garden:Forbidden Swamp　実装日:2021/11/17 ver0.117g
+そうえん	蒼園	固有名詞	英:Azure Garden　実装日:2021/11/17 ver0.117g
+あおぞの	蒼園	固有名詞	英:Azure Garden　実装日:2021/11/17 ver0.117g
+へんきょうのゆめ	辺境の夢	固有名詞	英:Dark Nexus/Garden of Treachery(花の小径)　実装日:2021/11/17 ver0.117g
+さびてつ	錆鉄	固有名詞	英:Rusty Urban Complex　実装日:2021/11/17 ver0.117g
+ふうりょくこうげん	風力高原	固有名詞	英:Wind Turbine Plateau　実装日:2021/11/17 ver0.117g
+やりみんぞくのせかい	槍民族の世界	固有名詞	英:Spear Tribe World　実装日:2021/11/20 ver0.117g p1
+ほうしのもり	胞子の森	固有名詞	英:Spore Forest　実装日:2021/11/20 ver0.117g p1
+さいけでりっく	サイケデリック遺跡	固有名詞	英:Egyptian Rave Dungeon　実装日:2021/11/24 ver0.117g p3
+にわとりせかい	ニワトリ世界	固有名詞	英:Chicken World　実装日:2021/11/24 ver0.117g p3
+びあがーでん	ビアガーデン	固有名詞	英:Floating Beer Isle　実装日:2021/11/24 ver0.117g p3
+ぶろっくじま	ブロック島	固有名詞	英:Voxel Island　実装日:2021/11/24 ver0.117g p3
+もあいとう	モアイ島	固有名詞	英:Dream Easter Island　実装日:2021/11/24 ver0.117g p3
+りぞーとほてるるいんず	リゾートホテル ルインズ(喫茶店)	固有名詞	英:Totem Hotel　実装日:2021/11/24 ver0.117g p3
+きっさてん	リゾートホテル ルインズ(喫茶店)	固有名詞	英:Totem Hotel　実装日:2021/11/24 ver0.117g p3
+ふくそうろう	副葬牢	固有名詞	英:Funeral Prison　実装日:2021/11/24 ver0.117g p3
+もうどく	妄毒	固有名詞	英:Toxic Chemical World　実装日:2021/11/24 ver0.117g p3
+ほうかいがめ	崩壊亀	固有名詞	英:Wounded Turtle World　実装日:2021/11/24 ver0.117g p3
+ゆうしょう	幽晶	固有名詞	英:Crystal Lake　実装日:2021/11/24 ver0.117g p3
+げっぷうちょうか	月風鳥花	固有名詞	英:Cherry Blossom Park　実装日:2021/11/24 ver0.117g p3
+げつふうちょうか	月風鳥花	固有名詞	英:Cherry Blossom Park　実装日:2021/11/24 ver0.117g p3
+みかくにんこうや	未確認荒野	固有名詞	英:Evil Cube Zone　実装日:2021/11/24 ver0.117g p3
+みかくにんあれの	未確認荒野	固有名詞	英:Evil Cube Zone　実装日:2021/11/24 ver0.117g p3
+とげきぐしせつ	棘器具施設	固有名詞	英:Spike Alley　実装日:2021/11/24 ver0.117g p3
+きかいとう	機械塔	固有名詞	英:Golden Mechanical Tower　実装日:2021/11/24 ver0.117g p3
+ねったいすいそう	熱帯水槽	固有名詞	英:Tomato World:Ring Toss Path　実装日:2021/11/24 ver0.117g p3
+とまと	蕃茄	固有名詞	英:Tomato World　実装日:2021/11/24 ver0.117g p3
+ばんか	蕃茄	固有名詞	英:Tomato World　実装日:2021/11/24 ver0.117g p3
+せっきょうのう	赤狂脳	固有名詞	英:Floating Brain World　実装日:2021/11/24 ver0.117g p3
+せききょうのう	赤狂脳	固有名詞	英:Floating Brain World　実装日:2021/11/24 ver0.117g p3
+れもんせかい	レモン世界	固有名詞	英:Lemon World　実装日:2021/12/02 ver0.117g p5
+せんがせかい	線画遺跡	固有名詞	英:Nazca Valley　実装日:2021/12/02 ver0.117g p5
+とうじゅうざんけい	頭重斬軽	固有名詞	英:Stuffed Dullahan World　実装日:2021/12/07 ver0.117h
+かっれ	カッレ(ホールエリア)	固有名詞	英:French Street　実装日:2021/12/11 ver0.117h p1
+すとれーす	ストレース	固有名詞	英:Obstacle Course　実装日:2021/12/19 ver0.117i
+ずけい	図形	固有名詞	英:Shape World　実装日:2021/12/19 ver0.117i
+おうかんばん	黄管板	固有名詞	英:Yellow Diamond Area　実装日:2021/12/19 ver0.117i
+さいけごくいせき	サイケ獄遺跡	固有名詞	英:Nazca Valley:Monochrome Dungeon　実装日:2021/12/31 ver0.117i p4
+さけ	サケ	固有名詞	英:Sushi World　実装日:2021/12/31 ver0.117i p4
+ぬみょんどろ	ヌミョンドロ	固有名詞	英:Rainbow Pottery Zone　実装日:2021/12/31 ver0.117i p4
+はとれす	ハトレス	固有名詞	英:Love Lodge　実装日:2021/12/31 ver0.117i p4
+ひーとあいす	ヒートアイス山	固有名詞	英:Elemental Caves　実装日:2021/12/31 ver0.117i p4
+せんにんしょうくう	仙人掌空	固有名詞	英:Sky Cactus Zone　実装日:2021/12/31 ver0.117i p4
+せんにんしょうぞら	仙人掌空	固有名詞	英:Sky Cactus Zone　実装日:2021/12/31 ver0.117i p4
+れいぞうこ	冷蔵庫	固有名詞	英:Refrigerator Tower　実装日:2021/12/31 ver0.117i p4
+ふくそうろう	副葬牢(首吊りエリア)	固有名詞	英:Funeral Prison　実装日:2021/12/31 ver0.117i p4
+くびつりえりあ	副葬牢(首吊りエリア)	固有名詞	英:Funeral Prison　実装日:2021/12/31 ver0.117i p4
+きゅうきゅうちゅうしゃ	救休駐車	固有名詞	英:Nazca Valley:Ambulance Parking Facility　実装日:2021/12/31 ver0.117i p4
+ほしのきゅうでん	星の宮殿	固有名詞	英:Forest Cavern:Stellar Palace　実装日:2021/12/31 ver0.117i p4
+しょくせいごく	植生獄	固有名詞	英:Forest Cavern　実装日:2021/12/31 ver0.117i p4
+ぱんだしろくろ	熊猫白黒	固有名詞	英:Nazca Valley:Panda Checkers Area　実装日:2021/12/31 ver0.117i p4
+くまねこしろくろ	熊猫白黒	固有名詞	英:Nazca Valley:Panda Checkers Area　実装日:2021/12/31 ver0.117i p4
+ぼんなす	盆茄子	固有名詞	英:Nazca Valley:Eggplant Domain　実装日:2021/12/31 ver0.117i p4
+きとう	祈祷	固有名詞	英:Deep Blue Graveyard　実装日:2021/12/31 ver0.117i p4
+かんさいくう	缶再空	固有名詞	英:Litter Heaven　実装日:2021/12/31 ver0.117i p4
+はちみつこうじょう	蜂蜜工場	固有名詞	英:Honeybee Laboratory　実装日:2021/12/31 ver0.117i p4
+らいげき	雷撃	固有名詞	英:Thunder Valley　実装日:2021/12/31 ver0.117i p4
+でんちゅうがい	電柱街	固有名詞	英:Sunset Sky Slums　実装日:2021/12/31 ver0.117i p4
+あおぞらぱねる	青空パネル	固有名詞	英:Restored Sky Kingdom　実装日:2021/12/31 ver0.117i p4
+まーじゃんたく	麻雀卓	固有名詞	英:Playing Card Dungeon:Golden Casino(Mahjong Board)　実装日:2021/12/31 ver0.117i p4
+がすこんろ	ガスコンロ	固有名詞	英:Nazca Valley:Stove　実装日:2022/01/06 ver0.118 p1
+じゅうたくちょう	住宅町	固有名詞	英:Nazca Valley:Sunny Town　実装日:2022/01/06 ver0.118 p1
+じゅうたくまち	住宅町	固有名詞	英:Nazca Valley:Sunny Town　実装日:2022/01/06 ver0.118 p1
+ひょうざん	氷山	固有名詞	英:Refrigerator Tower:Freezer　実装日:2022/01/06 ver0.118 p1
+はちみつこうげき	蜂蜜広場	固有名詞	英:Honeybee Laboratory　実装日:2022/01/06 ver0.118 p1
+てっこつうちゅう	鉄骨宇宙	固有名詞	英:Nazca Valley:Space Construction Site　実装日:2022/01/06 ver0.118 p1
+くらしっくほてる	クラシックホテル	固有名詞	英:Travel Hotel　実装日:2022/01/06 ver0.118
+くうそらいん	空疎ライン	固有名詞	英:Energy Complex　実装日:2022/01/27 ver0.118 p6
+りゅうぐうろっじ	竜宮ロッジ	固有名詞	英:Sunken Treehouse　実装日:2022/01/27 ver0.118 p6
+ぺんきんゆきしろ	ペン禁雪白	固有名詞	英:Snow White Field　実装日:2022/01/30 ver0.118a
+ぺんきんせっぱく	ペン禁雪白	固有名詞	英:Snow White Field　実装日:2022/01/30 ver0.118a
+がんせんこう	岩旋鉱	固有名詞	英:The Tunnel　実装日:2022/01/30 ver0.118a
+とうせいか	桃青花	固有名詞	英:Cherryblossom Fields　実装日:2022/01/30 ver0.118a
+えらく	絵楽	固有名詞	英:Puppet's Theatre　実装日:2022/01/30 ver0.118a
+いろのこしつ	色の個室	固有名詞	英:Private Rooms　実装日:2022/01/30 ver0.118a
+きらきらどう	キラキラ道	固有名詞	英:Dreadful Docks:Neon Pathway　実装日:2022/02/01 ver0.118b
+きらきらみち	キラキラ道	固有名詞	英:Dreadful Docks:Neon Pathway　実装日:2022/02/01 ver0.118b
+ほしのしゅうらく	星の集落	固有名詞	英:Pastel Chalk World　実装日:2022/02/01 ver0.118b
+さんばしのみずうみ	桟橋の湖	固有名詞	英:Dreadful Docks　実装日:2022/02/01 ver0.118b
+すいぼつでんちゅう	水没電柱	固有名詞	英:Submerged Communications Area　実装日:2022/02/01 ver0.118b
+くものす	クモの巣	固有名詞	英:Spiders' Nest　実装日:2022/02/12 ver0.118c
+たわーず	タワーズ	固有名詞	英:Rainbow Towers　実装日:2022/02/12 ver0.118c
+はいそん	廃村	固有名詞	英:Decrepit Village　実装日:2022/02/12 ver0.118c
+ふゆうしょこ	浮遊書庫	固有名詞	英:Opal Archives　実装日:2022/02/12 ver0.118c
+そうか	蒼花	固有名詞	英:Blooming Blue Lagoon　実装日:2022/02/12 ver0.118c
+あおばな	蒼花	固有名詞	英:Blooming Blue Lagoon　実装日:2022/02/12 ver0.118c
+きりのもり	霧の森	固有名詞	英:Twisted Thickets　実装日:2022/02/12 ver0.118c
+すけっち	スケッチ	固有名詞	英:Sketch Plains　実装日:2022/02/26 ver0.118c p5
+のいずのめいきゅう	ノイズの迷宮	固有名詞	英:Entropy Dungeon　実装日:2022/02/26 ver0.118c p5
+まぜんたえきかいろう	マゼンタ液回廊	固有名詞	英:Ancient Aeropolis　実装日:2022/02/26 ver0.118c p5
+むおうりゅうりおどりむす	夢徨龍リオドリムス	固有名詞	英:Luminous Lake:Dragon's Peak　実装日:2022/02/26 ver0.118c p5
+はいきょとはなぞの	廃墟と花園	固有名詞	英:Memory Garden　実装日:2022/02/26 ver0.118c p5
+はいびょうとう	廃病棟	固有名詞	英:Desolate Hospital　実装日:2022/02/26 ver0.118c p5
+じゅかいのいせき	樹海の遺跡	固有名詞	英:Monolith Jungle　実装日:2022/02/26 ver0.118c p5
+さきんとまじょ	砂金と魔女	固有名詞	英:Aureate Clockworks:Witch's Carnevale　実装日:2022/02/26 ver0.118c p5
+りゅうず	竜頭	固有名詞	英:Dragon Statue World　実装日:2022/02/26 ver0.118c p5
+りゅうとう	竜頭	固有名詞	英:Dragon Statue World　実装日:2022/02/26 ver0.118c p5
+きんしとけいとう	金紫時計塔	固有名詞	英:Aureate Clockworks　実装日:2022/02/26 ver0.118c p5
+きんむらさきとけいとう	金紫時計塔	固有名詞	英:Aureate Clockworks　実装日:2022/02/26 ver0.118c p5
+さびはてたとう	錆び果てた塔	固有名詞	英:Rusted Factory　実装日:2022/02/26 ver0.118c p5
+たそがれのすいきょう	黄昏の水鏡	固有名詞	英:Luminous Lake　実装日:2022/02/26 ver0.118c p5
+ものくろがっこう	モノクロ学校	固有名詞	英:Monochrome School　実装日:2022/03/17 ver0.118c p9
+うしなわれたあさせ	失われた浅瀬	固有名詞	英:Lost Shoal　実装日:2022/03/17 ver0.118c p9
+つきあかりのていえん	月明かりの庭園	固有名詞	英:Twilight Park　実装日:2022/03/17 ver0.118c p9
+ゆうどくのうみ	有毒の海	固有名詞	英:Toxic Sea　実装日:2022/03/17 ver0.118c p9
+へびとちか	蛇と地下	固有名詞	英:Twilight Park:Underground　実装日:2022/03/17 ver0.118c p9
+じょうほうかいとう	情報解凍	固有名詞	英:Server Hub　実装日:2022/03/23 ver0.120 p5
+きょうき	狂気	固有名詞	英:Knife World　実装日:2022/03/23 ver0.120 p5
+こうきゅうおめんや	高級お面屋	固有名詞	英:Deluxe Mask Shop　実装日:2022/04/02 ver0.118d
+とらいでんとすくえあ	トライデントスクエア	固有名詞	英:Poseidon Plaza　実装日:2022/05/02 ver0.118e
+せれなーで	セレナーデ	固有名詞	英:Nocturne:Serenade　実装日:2022/05/14 ver0.118g
+げーみんぐでぃすこ	ゲーミングディスコ	固有名詞	英:Digital Alley:Disco Floor　実装日:2022/06/02 ver0.118h
+さいけめでぃっく	サイケメディック	固有名詞	英:Cyber Prison　実装日:2022/06/02 ver0.118h
+はとれす	ハトレス(ラブリーエリア)	固有名詞	英:Love Lodge　実装日:2022/06/02 ver0.118h
+らぶりーえりあ	ハトレス(ラブリーエリア)	固有名詞	英:Love Lodge　実装日:2022/06/02 ver0.118h
+かせきはっくつじょう	化石発掘場	固有名詞	英:Fossil Mines　実装日:2022/06/02 ver0.118h
+かいこのやど	懐古の宿	固有名詞	英:Industrial Hotel　実装日:2022/06/02 ver0.118h
+ほしきんじし	星金獅子	固有名詞	英:Rainbow Pottery Zone:Leo Palace　実装日:2022/06/02 ver0.118h
+ほしかねじし	星金獅子	固有名詞	英:Rainbow Pottery Zone:Leo Palace　実装日:2022/06/02 ver0.118h
+くらやみちーず	暗闇チーズ	固有名詞	英:Dark Cheese Hell　実装日:2022/06/02 ver0.118h
+こおりづけのまち	氷漬けの街	固有名詞	英:Snowy Suburbs　実装日:2022/06/02 ver0.118h
+こおりずけのまち	氷漬けの街	固有名詞	英:Snowy Suburbs　実装日:2022/06/02 ver0.118h
+めだまやき	目玉焼き	固有名詞	英:Nazca Valley:Fried Egg Zone　実装日:2022/06/02 ver0.118h
+じょうもん	縄文	固有名詞	英:Rainbow Pottery Zone:Dogū World　実装日:2022/06/02 ver0.118h
+ちけっせい	血清研	固有名詞	英:Serum Laboratory　実装日:2022/06/02 ver0.118h
+うらかいこのやど	裏懐古の宿	固有名詞	英:Nightmare Inn　実装日:2022/06/02 ver0.118h
+きんへびいせき	金蛇遺跡	固有名詞	英:Serpentine Pyramid　実装日:2022/06/02 ver0.118h
+かがみのもり	鏡の森	固有名詞	英:Forest of Reflections　実装日:2022/06/02 ver0.118h
+あめのま	飴の間	固有名詞	英:Maple Forest:Golden Chinatown(Lollipop Isle)　実装日:2022/06/02 ver0.118h
+のくたーん	ノクターン	固有名詞	英:Nocturne:Bedroom　実装日:2022/06/07 ver0.118i
+はにーわいせき	ハニーワ遺跡	固有名詞	英:Haniwa Ruins　実装日:2022/06/27 ver0.119a
+かれのにわ	彼の庭	固有名詞	英:Spiked Fence Garden　実装日:2022/06/27 ver0.119a
+うらみいど	恨み井戸	固有名詞	英:Carnivorous Pit　実装日:2022/07/09 ver0.119b
+こはくいろのうんかい	琥珀色の雲海	固有名詞	英:Blue Cactus Islands:Golden Sky Bridge　実装日:2022/07/09 ver0.119b
+はんも	繁茂	固有名詞	英:Spear Tribe World:Overgrown Stone Area　実装日:2022/07/09 ver0.119b
+きおく	記憶	固有名詞	英:Shadow Lady Estate:Carpeted Room　実装日:2022/07/09 ver0.119b
+くろまじょのやしき	黒魔女の屋敷	固有名詞	英:Shadow Lady Estate　実装日:2022/07/09 ver0.119b
+ｆｃばぐすてーじ	FCバグステージ(ネオン)	固有名詞	英:FC Caverns C　実装日:2022/07/30 ver0.119b p5
+ねおん	FCバグステージ(ネオン)	固有名詞	英:FC Caverns C　実装日:2022/07/30 ver0.119b p5
+えぇｃｔろｎ	Electron	固有名詞	英:Reflecting Electron Zone　実装日:2022/09/23 ver0.119b p12
+えれくとろん	Electron	固有名詞	英:Reflecting Electron Zone　実装日:2022/09/23 ver0.119b p12
+もｒｐｈ	Morph	固有名詞	英:Glitched Butterfly Sector　実装日:2022/09/23 ver0.119b p12
+もーふ	Morph	固有名詞	英:Glitched Butterfly Sector　実装日:2022/09/23 ver0.119b p12
+ほめ	home	固有名詞	英:Home Within Nowhere　実装日:2022/09/23 ver0.119b p12
+ほーむ	home	固有名詞	英:Home Within Nowhere　実装日:2022/09/23 ver0.119b p12
+らいｎｙだｙ	rainyday	固有名詞	英:Rainy Apartments　実装日:2022/09/23 ver0.119b p12
+れいにーでい	rainyday	固有名詞	英:Rainy Apartments　実装日:2022/09/23 ver0.119b p12
+さんかくいせき	さんかく遺跡	固有名詞	英:Sierpinski Maze　実装日:2022/09/23 ver0.119b p12
+こすもすとうげ	コスモス峠	固有名詞	英:Field of Cosmos　実装日:2022/09/23 ver0.119b p12
+しゃぼんだま	シャボン玉	固有名詞	英:Bubble World　実装日:2022/09/23 ver0.119b p12
+ばーちゃるしてぃ	バーチャルシティ	固有名詞	英:Virtual City　実装日:2022/09/23 ver0.119b p12
+あだばな	徒花	固有名詞	英:Adabana Gardens　実装日:2022/09/23 ver0.119b p12
+しろいせかい	白い世界	固有名詞	英:Pure White Lands　実装日:2022/09/23 ver0.119b p12
+いしかげ	石影	固有名詞	英:Lamplit Stones　実装日:2022/09/23 ver0.119b p12
+すなとかぜ	砂と風	固有名詞	英:Windswept Scarlet Sands　実装日:2022/09/23 ver0.119b p12
+まどごし	窓越し	固有名詞	英:Field of Cosmos:Sceneries　実装日:2022/09/23 ver0.119b p12
+はなのこみち	花の小道	固有名詞	英:Glitched Butterfly Sector:White Lily Path　実装日:2022/09/23 ver0.119b p12
+あかいげすいどう	赤い下水道	固有名詞	英:Red Sewers　実装日:2022/09/23 ver0.119b p12
+かがみのゆめべや	鏡の夢部屋	固有名詞	英:Static Labyrinth:Doppelganger Room　実装日:2022/09/23 ver0.119b p12
+でんきしんごう	電気信号	固有名詞	英:Glitched Butterfly Sector:TV Eye Room　実装日:2022/09/23 ver0.119b p12
+きらめきほーる	きらめきホール	固有名詞	英:Funky Dusky Hall　実装日:2022/10/06 ver0.119c
+べつせかい	別世界	固有名詞	英:Oil Puddle World　実装日:2022/10/06 ver0.119c
+つきあかりのみち	月明かりの道	固有名詞	英:Budding Life World　実装日:2022/10/06 ver0.119c
+むじんこうえん	無人公園	固有名詞	英:Desolate Park　実装日:2022/10/06 ver0.119c
+ねむけのもり	眠気の森	固有名詞	英:Drowsy Forest　実装日:2022/10/06 ver0.119c
+めぶくいのち	芽吹く命	固有名詞	英:Budding Life World　実装日:2022/10/06 ver0.119c
+こけむすあとち	苔生す跡地	固有名詞	英:Mossy Stone Area　実装日:2022/10/06 ver0.119c
+つうこうふか	通行不可	固有名詞	英:Red Strings Maze　実装日:2022/10/06 ver0.119c
+へや	部屋	固有名詞	英:Drowsy Forest:Fake bedroom　実装日:2022/10/06 ver0.119c
+かいこ	蚕	固有名詞	英:Silkworm Forest　実装日:2022/10/23 ver0.119d
+かとらりー	カトラリー	固有名詞	英:Table Scrap Expanse　実装日:2022/10/28 ver0.119e
+ふぁん	ファン	固有名詞	英:Dusty Pinwheel Path　実装日:2022/10/28 ver0.119e
+もだんたいる	モダンタイル	固有名詞	英:Pop Tiles Maze　実装日:2022/10/28 ver0.119e
+よあけをつげるつき	夜明けを告げる月	固有名詞	英:Pop Tiles Maze:Moonlight Lake　実装日:2022/10/28 ver0.119e
+みずたまり	水たまり	固有名詞	英:Drenched Passageways　実装日:2022/10/28 ver0.119e
+つちぼこりいろのろうか	土埃色の廊下	固有名詞	英:Dark Bunker　実装日:2022/11/02 ver0.119e p4
+ふぁｃとｒｙ	Factory	固有名詞	英:Ninja Town:The Neighborhood　実装日:2022/11/11 ver0.119f
+ふぁくとりー	Factory	固有名詞	英:Ninja Town:The Neighborhood　実装日:2022/11/11 ver0.119f
+ｇらゔぇやｒｄ	Graveyard	固有名詞	英:Ninja Town　実装日:2022/11/11 ver0.119f
+ぐれーゔやーど	Graveyard	固有名詞	英:Ninja Town　実装日:2022/11/11 ver0.119f
+ぐれーぶやーど	Graveyard	固有名詞	英:Ninja Town　実装日:2022/11/11 ver0.119f
+いーすたーせかい	イースター世界	固有名詞	英:Ornamental Plains　実装日:2022/11/11 ver0.119f
+らくがきだいくうどう	ラクガキ大空洞	固有名詞	英:Green Pattern World:Underground　実装日:2022/11/11 ver0.119f
+らぶれたー	ラブレター	固有名詞	英:Valentine Mail　実装日:2022/11/11 ver0.119f
+えんすいへいや	円錐平野	固有名詞	英:Green Pattern World　実装日:2022/11/11 ver0.119f
+やしきがい	屋敷外	固有名詞	英:Serene Docks　実装日:2022/11/11 ver0.119f
+はいやしき	廃屋敷	固有名詞	英:Drains Theater:The Cinema　実装日:2022/11/11 ver0.119f
+えんとつにわ	煙突庭	固有名詞	英:Chimney Pillars　実装日:2022/11/11 ver0.119f
+いしれんがいせき	石煉瓦遺跡	固有名詞	英:Stony Buildings　実装日:2022/11/11 ver0.119f
+くうどうつうろ	空洞通路	固有名詞	英:Drains Theater　実装日:2022/11/11 ver0.119f
+とびうおれっとう	飛魚列島	固有名詞	英:Underwater Forest　実装日:2022/11/11 ver0.119f
+くろばこ	黒箱	固有名詞	英:Inverse　実装日:2022/11/11 ver0.119f
+くろはこ	黒箱	固有名詞	英:Inverse　実装日:2022/11/11 ver0.119f
+あらざん	アラザン	固有名詞	英:Alazan Domain　実装日:2022/11/19 ver0.119g
+ぼうし	帽子	固有名詞	英:Hat World　実装日:2022/11/19 ver0.119g
+えんｔらんせ	Entrance	固有名詞	英:Lonely Home　実装日:2022/11/24 ver0.119g p2
+えんとらんす	Entrance	固有名詞	英:Lonely Home　実装日:2022/11/24 ver0.119g p2
+ｇらｙめもｒｙ	GrayMemory	固有名詞	英:Gray Memory　実装日:2022/11/24 ver0.119g p2
+ぐれいめもりー	GrayMemory	固有名詞	英:Gray Memory　実装日:2022/11/24 ver0.119g p2
+ぐれーめもりー	GrayMemory	固有名詞	英:Gray Memory　実装日:2022/11/24 ver0.119g p2
+ぷらんたーつうろ	プランター通路	固有名詞	英:Planter Passage　実装日:2022/11/24 ver0.119g p2
+へきがんせかい	碧眼世界	固有名詞	英:Blue Eyes World　実装日:2022/11/24 ver0.119g p2
+すらいむへや	すらいむへや	固有名詞	英:Sea of Trees:Slime Room　実装日:2022/12/07 ver0.119g p5
+じゅかい	樹海	固有名詞	英:Sea of Trees　実装日:2022/12/07 ver0.119g p5
+いちごみるく	いちごミルク	固有名詞	英:Strawberry Milk Sea　実装日:2022/12/10 ver0.119h
+ゆめいろてんまく	ゆめいろ天幕	固有名詞	英:Celestial Night　実装日:2022/12/10 ver0.119h
+はにかむぴんく	ハニカムピンク	固有名詞	英:Pink Honeycomb　実装日:2022/12/10 ver0.119h
+にくよく	肉欲	固有名詞	英:Realm of Gluttony　実装日:2022/12/10 ver0.119h
+あおのならく	青の奈落	固有名詞	英:Frozen Disco　実装日:2022/12/10 ver0.119h
+すのーまんわーるど	スノーマンワールド	固有名詞	英:Snowman World　実装日:2022/12/11 ver0.119h p１
+おこのみやしき	お好み屋敷	固有名詞	英:Blackjack Manor　実装日:2022/12/22 ver0.119h p5
+つみき	つみき	固有名詞	英:Wooden Cubes Playground　実装日:2022/12/22 ver0.119h p5
+けむりそう	ケムリソウ	固有名詞	英:Cigarette World　実装日:2022/12/22 ver0.119h p5
+しっきよんきのもり	シッキヨンキの森	固有名詞	英:Four Seasons Forest　実装日:2022/12/22 ver0.119h p5
+はちみつたうん	ハチミツタウン	固有名詞	英:Honeybee Residence　実装日:2022/12/22 ver0.119h p5
+はちみつびる	ハチミツビル	固有名詞	英:Honeybee Residence:Honeybee Skyscraper　実装日:2022/12/22 ver0.119h p5
+ぱん	パン	固有名詞	英:Bread World　実装日:2022/12/22 ver0.119h p5
+べつり	別離	固有名詞	英:Hatred Palace　実装日:2022/12/22 ver0.119h p5
+かぼちゃがい	南瓜街	固有名詞	英:Pumpkin City　実装日:2022/12/22 ver0.119h p5
+こどもやしき	子供屋敷	固有名詞	英:Deserted Center　実装日:2022/12/22 ver0.119h p5
+がくらくえん	学楽園	固有名詞	英:Sunset School　実装日:2022/12/22 ver0.119h p5
+やしきていえん	屋敷庭園	固有名詞	英:Mansion Garden　実装日:2022/12/22 ver0.119h p5
+はいかい	廃廻	固有名詞	英:Junk From Anywhere　実装日:2022/12/22 ver0.119h p5
+べんとうばこ	弁当箱	固有名詞	英:Rice Dumpling Plateau　実装日:2022/12/22 ver0.119h p5
+おんしつ	温室	固有名詞	英:Greenhouse　実装日:2022/12/22 ver0.119h p5
+かそうげつらく	火葬月落	固有名詞	英:Digital Heart Space　実装日:2022/12/22 ver0.119h p5
+め	眼	固有名詞	英:Corridor of Eyes　実装日:2022/12/22 ver0.119h p5
+だいよんしょり	第四処理	固有名詞	英:Scrapyard　実装日:2022/12/22 ver0.119h p5
+だい４しょり	第四処理	固有名詞	英:Scrapyard　実装日:2022/12/22 ver0.119h p5
+しょうゆ	醤油	固有名詞	英:Soy Sauce World　実装日:2022/12/22 ver0.119h p5
+きがんばこ	黄顔箱	固有名詞	英:Faces Zone　実装日:2022/12/22 ver0.119h p6
+おうがんばこ	黄顔箱	固有名詞	英:Faces Zone　実装日:2022/12/22 ver0.119h p6
+ばたふらいがーでん	バタフライガーデン	固有名詞	英:Butterfly Garden　実装日:2022/12/22 ver0.119h p8
+てんたいびじゅつかん	天体美術館	固有名詞	英:Astronomical Gallery　実装日:2022/12/22 ver0.119h p8
+おうと	桜兎	固有名詞	英:Sakura Forest　実装日:2022/12/22 ver0.119h p8
+さくらうさぎ	桜兎	固有名詞	英:Sakura Forest　実装日:2022/12/22 ver0.119h p8
+ちげｒ	tiger	固有名詞	英:Illusive Forest:Tiger Trail　実装日:2023/01/14 ver0.119i p2
+たいがー	tiger	固有名詞	英:Illusive Forest:Tiger Trail　実装日:2023/01/14 ver0.119i p2
+げんそうとしょかん	幻想図書館	固有名詞	英:Reverie Book Piles　実装日:2023/01/14 ver0.119i p2
+げんそうかい	幻想界	固有名詞	英:Illusive Forest　実装日:2023/01/14 ver0.119i p2
+めとけっこん	眼と血痕	固有名詞	英:Illusive Forest:Bloody Eye House　実装日:2023/01/14 ver0.119i p2
+とりいくうかん	鳥居空間	固有名詞	英:Torii Trail　実装日:2023/01/14 ver0.119i p2
+えがお	(＾□＾)	固有名詞	英:Glitched Purgatory　実装日:2023/01/14 ver0.119i p3
+おわた	(＾□＾)	固有名詞	英:Glitched Purgatory　実装日:2023/01/14 ver0.119i p3
+顔文字	(＾□＾)	固有名詞	英:Glitched Purgatory　実装日:2023/01/14 ver0.119i p3
+発狂	(＾□＾)	固有名詞	英:Glitched Purgatory　実装日:2023/01/14 ver0.119i p3
+(＾しかく＾)	(＾□＾)	固有名詞	英:Glitched Purgatory　実装日:2023/01/14 ver0.119i p3
+みｃろびおめ	micro biome	固有名詞	英:Microbiome World　実装日:2023/01/14 ver0.119i p3
+まいくろばいおーむ	micro biome	固有名詞	英:Microbiome World　実装日:2023/01/14 ver0.119i p3
+ぱｒきんｇぞね	parking zone	固有名詞	英:Parking Zone　実装日:2023/01/14 ver0.119i p3
+ぱーきんぐぞーん	parking zone	固有名詞	英:Parking Zone　実装日:2023/01/14 ver0.119i p3
+けっかんじゅうたく	ケッカン住宅	固有名詞	英:Blood Red House　実装日:2023/01/14 ver0.119i p3
+へんめんのじゅもくぐん	変面の樹木群	固有名詞	英:Forest of Strange Faces　実装日:2023/01/14 ver0.119i p3
+ふみどう	文道	固有名詞	英:Hat World:subarea　実装日:2023/01/14 ver0.119i p3
+ぶんどう	文道	固有名詞	英:Hat World:subarea　実装日:2023/01/14 ver0.119i p3
+ふみみち	文道	固有名詞	英:Hat World:subarea　実装日:2023/01/14 ver0.119i p3
+にじみち	虹道	固有名詞	英:Rainbow Road　実装日:2023/01/14 ver0.119i p3
+こうどう	虹道	固有名詞	英:Rainbow Road　実装日:2023/01/14 ver0.119i p3
+ねぅｓ	Nexus	固有名詞	英:Mini-Nexus　実装日:2023/02/06 ver0.119i p6
+ねくさす	Nexus	固有名詞	英:Mini-Nexus　実装日:2023/02/06 ver0.119i p6
+えっろｒ４０４	error404	固有名詞	英:Blue Screen Void　実装日:2023/02/06 ver0.119i p6
+えらー４０４	error404	固有名詞	英:Blue Screen Void　実装日:2023/02/06 ver0.119i p6
+えらーよんまるよん	error404	固有名詞	英:Blue Screen Void　実装日:2023/02/06 ver0.119i p6
+えらーよんぜろよん	error404	固有名詞	英:Blue Screen Void　実装日:2023/02/06 ver0.119i p6
+ひまわりばたけ	ヒマワリ畑	固有名詞	英:Sunflower Fields　実装日:2023/02/06 ver0.119i p6
+ぶるーべりーのうえん	ブルーベリー農園	固有名詞	英:Blueberry Farm　実装日:2023/02/06 ver0.119i p6
+ゆうひのおか	夕日の丘	固有名詞	英:Sunset Hill　実装日:2023/02/06 ver0.119i p6
+ぱのらまあにめーしょん	パノラマアニメーション	固有名詞	英:Animated Hub　実装日:2023/02/19 ver0.119i p8
+２ｄすてーじ	2Dステージ	固有名詞	英:Platformer World　実装日:2023/02/24 ver0.120
+つーでぃーすてーじ	2Dステージ	固有名詞	英:Platformer World　実装日:2023/02/24 ver0.120
+３ｄろおｍ	3DRoom	固有名詞	英:Giant Desktop　実装日:2023/02/24 ver0.120
+３ｄるーむ	3DRoom	固有名詞	英:Giant Desktop　実装日:2023/02/24 ver0.120
+すりーでぃーるーむ	3DRoom	固有名詞	英:Giant Desktop　実装日:2023/02/24 ver0.120
+ふぃｓｈ	fish	固有名詞	英:Blizzard Plains　実装日:2023/02/24 ver0.120
+ふぃっしゅ	fish	固有名詞	英:Blizzard Plains　実装日:2023/02/24 ver0.120
+ｓのｗ	snow	固有名詞	英:Blizzard Plains　実装日:2023/02/24 ver0.120
+すのー	snow	固有名詞	英:Blizzard Plains　実装日:2023/02/24 ver0.120
+すまいるあいす	スマイルアイス	固有名詞	英:Ice Cream Islands　実装日:2023/02/24 ver0.120
+ぱんじーつうろ	パンジー通路	固有名詞	英:The Pansy Path　実装日:2023/02/24 ver0.120
+じんせつじいん	人接児院	固有名詞	英:Test Facility　実装日:2023/02/24 ver0.120
+くみず	供水	固有名詞	英:Flooded Buildings　実装日:2023/02/24 ver0.120
+きょうすい	供水	固有名詞	英:Flooded Buildings　実装日:2023/02/24 ver0.120
+きどあいらく	喜怒哀楽	固有名詞	英:Rainbow Hell　実装日:2023/02/24 ver0.120
+きょうふのめいきゅう	恐怖の迷宮	固有名詞	英:Horror Maze　実装日:2023/02/24 ver0.120
+しのろうごく	死の牢獄	固有名詞	英:Tribulation Complex:Dark Dungeon　実装日:2023/02/24 ver0.120
+こうやとしゅうらく	荒野と集落	固有名詞	英:Abandoned Grounds　実装日:2023/02/24 ver0.120
+あれのとしゅうらく	荒野と集落	固有名詞	英:Abandoned Grounds　実装日:2023/02/24 ver0.120
+ゆきこいはかたまご	雪恋墓卵	固有名詞	英:Holiday Hell　実装日:2023/02/24 ver0.120
+ゆきこいぼらん	雪恋墓卵	固有名詞	英:Holiday Hell　実装日:2023/02/24 ver0.120
+せつれんはかたまご	雪恋墓卵	固有名詞	英:Holiday Hell　実装日:2023/02/24 ver0.120
+せつれんぼらん	雪恋墓卵	固有名詞	英:Holiday Hell　実装日:2023/02/24 ver0.120
+あおいきゅうでん	青い宮殿	固有名詞	英:Tribulation Complex　実装日:2023/02/24 ver0.120
+あおいみせ	青い店	固有名詞	英:Blue Restaurant　実装日:2023/02/24 ver0.120
+あおいどうろ	青い道路	固有名詞	英:Blue House Road:Maze Area　実装日:2023/02/24 ver0.120
+かおびる	顔ビル	固有名詞	英:Experimentation Building　実装日:2023/02/24 ver0.120
+かいろうせかい	回廊世界	固有名詞	英:Pale Corridors　実装日:2023/03/23 ver0.120 p5
+へきが	壁画	固有名詞	英:Crying Mural World　実装日:2023/03/23 ver0.120 p5
+すいぼつせかい	水没世界	固有名詞	英:Submerged Signs World　実装日:2023/03/23 ver0.120 p5
+あぜみち	畦道	固有名詞	英:Rice Field　実装日:2023/03/23 ver0.120 p5
+ひみつけっしゃ	秘密結社	固有名詞	英:Secret Society　実装日:2023/03/23 ver0.120 p5
+まんえくいｎ	MANNEQUIN	固有名詞	英:Roadside Forest:Mannequin Sub-Area　実装日:2023/03/31 ver0.120 p7
+まんねくいん	MANNEQUIN	固有名詞	英:Roadside Forest:Mannequin Sub-Area　実装日:2023/03/31 ver0.120 p7
+まねきん	MANNEQUIN	固有名詞	英:Roadside Forest:Mannequin Sub-Area　実装日:2023/03/31 ver0.120 p7
+あかいすうじく	淦い枢軸	固有名詞	英:Domino Constructions　実装日:2023/03/31 ver0.120 p7
+たえみずみや	湛水宮	固有名詞	英:Checkerboard Clubhouse　実装日:2023/03/31 ver0.120 p7
+たえみずぐう	湛水宮	固有名詞	英:Checkerboard Clubhouse　実装日:2023/03/31 ver0.120 p7
+たんすいきゅう	湛水宮	固有名詞	英:Checkerboard Clubhouse　実装日:2023/03/31 ver0.120 p7
+たえすいぐう	湛水宮	固有名詞	英:Checkerboard Clubhouse　実装日:2023/03/31 ver0.120 p7
+たんすいぐう	湛水宮	固有名詞	英:Checkerboard Clubhouse　実装日:2023/03/31 ver0.120 p7
+でんしんどみの	電信ドミノ	固有名詞	英:Domino Constructions　実装日:2023/03/31 ver0.120 p7
+がいろとう	骸露灯	固有名詞	英:Roadside Forest　実装日:2023/03/31 ver0.120 p7
+えｐへめら	ephemera	固有名詞	英:Chromatic Limbo　実装日:2023/04/04 ver0.120 p8
+えふぇめら	ephemera	固有名詞	英:Chromatic Limbo　実装日:2023/04/04 ver0.120 p8
+うつろ	うつろ	固有名詞	英:Urotsuki's Room:Vertigo　実装日:2023/04/04 ver0.120 p8
+さびれたさんぽみち	寂れた散歩道	固有名詞	英:Nightfall Park　実装日:2023/04/25 ver0.120a
+ゆうきゅうのろうか	悠久の廊下	固有名詞	英:Ocular Locker Room　実装日:2023/04/25 ver0.120a
+くいち	杙池	固有名詞	英:Nightfall Park:Lake Bridge　実装日:2023/04/25 ver0.120a
+くいいけ	杙池	固有名詞	英:Nightfall Park:Lake Bridge　実装日:2023/04/25 ver0.120a
+あしあと	足跡	固有名詞	英:City of Liars:Footprint Path　実装日:2023/04/25 ver0.120a
+そくせき	足跡	固有名詞	英:City of Liars:Footprint Path　実装日:2023/04/25 ver0.120a
+あめふるこみち	雨降る小道(不明なエリア)	固有名詞	英:Lavender Park　実装日:2023/04/25 ver0.120a
+げーむのはかば	ゲームの墓場	固有名詞	英:Video Game Graveyard　実装日:2023/04/29 ver0.120a p1
+まぜんたせかい	マゼンタ世界	固有名詞	英:Pink Life World　実装日:2023/04/29 ver0.120a p1
+けいさいや	京夜彩	固有名詞	英:Color Capital　実装日:2023/04/29 ver0.120a p1
+かいてんすし	回転sushi	固有名詞	英:Sushi Belt World　実装日:2023/04/29 ver0.120a p1
+ちかこふん	地下古墳	固有名詞	英:Underground Burial Site　実装日:2023/04/29 ver0.120a p1
+ぶきせかい	武器世界	固有名詞	英:Warzone　実装日:2023/04/29 ver0.120a p1
+こんとんのるつぼ	混沌の坩堝	固有名詞	英:Glitch Hell　実装日:2023/04/29 ver0.120a p1
+むめいぼくじょう	無鳴牧場	固有名詞	英:Monochrome Ranch　実装日:2023/04/29 ver0.120a p1
+くさったせかい	腐った世界	固有名詞	英:Bacteria World　実装日:2023/04/29 ver0.120a p1
+おどるせんがへいや	踊る線画平野	固有名詞	英:Vibrant Mushroom World　実装日:2023/04/29 ver0.120a p1
+ゆきのかべこおるみち	雪の壁、凍る道	固有名詞	英:Ice Block World　実装日:2023/04/29 ver0.120a p1
+くびつか	首塚	固有名詞	英:Haunted Head World　実装日:2023/04/29 ver0.120a p1
+くびづか	首塚	固有名詞	英:Haunted Head World　実装日:2023/04/29 ver0.120a p1
+まじょっこすかい	魔女っ娘スカイ	固有名詞	英:Witch Heaven　実装日:2023/04/29 ver0.120a p1
+こそあど	こそあど	固有名詞	英:Construction Frame Building　実装日:2023/05/04 ver0.120a p2
+ふうせんこうえん	ふうせん公園	固有名詞	英:Party Playground　実装日:2023/05/07 ver0.120b p1
+うらぎりえん	裏切り園	固有名詞	英:Blue Sanctuary　実装日:2023/05/07 ver0.120b p1
+ゆうかいろじ	誘拐路地	固有名詞	英:Candlelit Factory　実装日:2023/05/07 ver0.120b p1
+ひじょうてんくう	非常天空	固有名詞	英:Floating Tiled Islands　実装日:2023/05/07 ver0.120b p1
+へどろーど	ヘドロード	固有名詞	英:Labyrinth of Dread　実装日:2023/05/07 ver0.120b
+こだいいせきせかい	古代遺跡世界	固有名詞	英:Deep Red Wilds　実装日:2023/05/07 ver0.120b
+ふゆのかわべ	冬の川辺	固有名詞	英:Frozen Glade　実装日:2023/05/14 ver0.120b p4
+りんこうせい	燐光星	固有名詞	英:Glowing Stars World　実装日:2023/05/14 ver0.120b p4
+こーらるびーち	コーラルビーチ	固有名詞	英:Coral Shoal　実装日:2023/05/14 ver0.120b p4
+びしょっぷのかいだん	ビショップの階段	固有名詞	英:Bishop Cathedral　実装日:2023/05/14 ver0.120b p4
+ほうせきどうくつ	宝石洞窟	固有名詞	英:Gemstone Cave/Sunset Savannah(黄昏時)　実装日:2023/05/14 ver0.120b p4
+ほしぞらのもり	星空の森	固有名詞	英:Violet Galaxy　実装日:2023/05/14 ver0.120b p4
+どうしんれっとう	童心列島	固有名詞	英:Board Game Islands　実装日:2023/05/14 ver0.120b p4
+かがやくていえん	輝く庭園	固有名詞	英:Spacey Retreat　実装日:2023/05/14 ver0.120b p4
+きみょうなかべがみ	奇妙な壁紙	固有名詞	英:Vibrant Funhouse　実装日:2023/05/14 ver0.120b p4
+どみのめいろ	ドミノ迷路	固有名詞	英:Domino Maze　実装日:2023/05/18 ver0.120b p5
+ふうえばち	不植鉢	固有名詞	英:Flowerpot Outlands　実装日:2023/05/22 ver0.120c p2
+ふしょくばち	不植鉢	固有名詞	英:Flowerpot Outlands　実装日:2023/05/22 ver0.120c p2
+とうとうえがお	凍凍笑顔	固有名詞	英:Frozen Smile World　実装日:2023/05/22 ver0.120c p2
+おうとすいどうせかい	嘔吐水道世界	固有名詞	英:Vomiting Mouths World　実装日:2023/05/22 ver0.120c p2
+てんしゅう	天秋	固有名詞	英:Autumn Sky　実装日:2023/05/22 ver0.120c p2
+つきよかいどう	月夜街道	固有名詞	英:Moonlit Street　実装日:2023/05/22 ver0.120c p2
+さくらやなぎ	桜柳	固有名詞	英:Cherry Willow Path　実装日:2023/05/22 ver0.120c p2
+おうりゅう	桜柳	固有名詞	英:Cherry Willow Path　実装日:2023/05/22 ver0.120c p2
+えんそうかい	演奏会	固有名詞	英:Moonlit Street　実装日:2023/05/22 ver0.120c p2
+かたくりこせかい	片栗粉世界	固有名詞	英:Potato Starch World　実装日:2023/05/22 ver0.120c p2
+めのせかい	眼の世界	固有名詞	英:Eyeberry Orchard　実装日:2023/05/22 ver0.120c p2
+みどりのみなとまち	緑の港町	固有名詞	英:Port City　実装日:2023/05/22 ver0.120c p3
+ほろうぉーる	ホロウォール	固有名詞	英:Obstacle Course 2　実装日:2023/05/28 ver0.120c p5
+はっきゅう	八休	固有名詞	英:Overgrowth Outlook　実装日:2023/05/28 ver0.120c p5
+はいぼくしゃ	敗北者	固有名詞	英:Chaotic Scribble World　実装日:2023/05/28 ver0.120c p5
+むせいこうよう	無静光踊	固有名詞	英:Lit Tile Path　実装日:2023/05/28 ver0.120c p5
+さけられたまち	避けられた街	固有名詞	英:Shunned Street　実装日:2023/05/28 ver0.120c p5
+よけられたまち	避けられた街	固有名詞	英:Shunned Street　実装日:2023/05/28 ver0.120c p5
+あにまるへぶん	アニマルヘブン	固有名詞	英:Animal Heaven　実装日:2023/06/11 ver0.120d
+こーらるらぼ	コーラルラボ	固有名詞	英:Reef Maze　実装日:2023/06/11 ver0.120d
+てすらさんばし	テスラ桟橋	固有名詞	英:Pierside Residence/Tunnel Town(テスラ水道エリア)　実装日:2023/06/11 ver0.120d
+ねおんしゅうらく	ネオン集落	固有名詞	英:Neon Suburbs　実装日:2023/06/11 ver0.120d
+ぱすてるぷーる	パステルプール	固有名詞	英:Pastel Pools　実装日:2023/06/11 ver0.120d
+れとろぽっぷもーる	レトロポップモール	固有名詞	英:Vaporwave Mall　実装日:2023/06/11 ver0.120d
+だいりせきやしき	大理石屋敷	固有名詞	英:Marble Ruins　実装日:2023/06/11 ver0.120d
+せきがいとうのつうろうら	赤街灯の通路(裏)	固有名詞	英:Red Streetlight World:Eldritch Streetlight Zone　実装日:2023/06/19 ver0.120d p2
+あかがいとうのつうろうら	赤街灯の通路(裏)	固有名詞	英:Red Streetlight World:Eldritch Streetlight Zone　実装日:2023/06/19 ver0.120d p2
+おいるこうや	オイル荒野	固有名詞	英:Flamelit Wasteland　実装日:2023/06/24 ver0.120d p4
+おいるあれの	オイル荒野	固有名詞	英:Flamelit Wasteland　実装日:2023/06/24 ver0.120d p4
+よるのあさせ	夜の浅瀬	固有名詞	英:Fish Person Shoal:Shoal Caverns　実装日:2023/06/24 ver0.120d p4
+はいきゆき	廃棄雪	固有名詞	英:Candlelit Factory:Transitional Area　実装日:2023/06/24 ver0.120d p4
+はいきせつ	廃棄雪	固有名詞	英:Candlelit Factory:Transitional Area　実装日:2023/06/24 ver0.120d p4
+くらがりどうくつ	暗がり洞窟	固有名詞	英:Flamelit Wasteland:Hell Caverns(桃色洞窟エリア)/Fish Person Shoal:Shoal Caverns(水色洞窟エリア)　実装日:2023/06/24 ver0.120d p4
+あめふるあさせ	雨降る浅瀬	固有名詞	英:Fish Person Shoal　実装日:2023/06/24 ver0.120d p4
+ｆｃｔｖだんじょん	FCTVダンジョン	固有名詞	英:Topdown Dungeon　実装日:2023/07/09 ver0.120d p6
+えふしーｔｖだんじょん	FCTVダンジョン	固有名詞	英:Topdown Dungeon　実装日:2023/07/09 ver0.120d p6
+えふしーてぃーゔぃーだんじょん	FCTVダンジョン	固有名詞	英:Topdown Dungeon　実装日:2023/07/09 ver0.120d p6
+ぱっちわーくたうんず	パッチワークタウンズ	固有名詞	英:Checkered Towers:Bedroom　実装日:2023/07/09 ver0.120d p6
+だいすりょう	ダイス寮	固有名詞	英:Realm of Dice:Dice Hotel　実装日:2023/07/09 ver0.120d p6
+ぶらうんかんでぃすこ	ブラウン管ディスコ	固有名詞	英:TVLand　実装日:2023/07/09 ver0.120d p6
+れとろだんじょん	レトロダンジョン	固有名詞	英:Retro Cartridge Game　実装日:2023/07/09 ver0.120d p6
+ためんだいすのせかい	多面ダイスの世界	固有名詞	英:Realm of Dice　実装日:2023/07/09 ver0.120d p6
+きぼうはくらん	奇帽剥嵐	固有名詞	英:Realm of Dice:Hat Horror Zone　実装日:2023/07/09 ver0.120d p6
+こどもまーけっと	子供マーケット	固有名詞	英:Thrift Shop　実装日:2023/07/09 ver0.120d p6
+どんてんのてっとう	曇天の鉄塔	固有名詞	英:Foggy Remnants　実装日:2023/07/09 ver0.120d p6
+しゅそうのいちまつばんめん	朱蒼の市松盤面	固有名詞	英:Pillar Ark　実装日:2023/07/09 ver0.120d p6
+あかあおのいちまつばんめん	朱蒼の市松盤面	固有名詞	英:Pillar Ark　実装日:2023/07/09 ver0.120d p6
+おりんご	檻ンゴ	固有名詞	英:Apple Prison　実装日:2023/07/09 ver0.120d p6
+げんばどうろ	現場道路	固有名詞	英:Worksite　実装日:2023/07/09 ver0.120d p6
+こうりょくのいちまつばんめん	紅緑の市松盤面	固有名詞	英:Nefarious Chessboard　実装日:2023/07/09 ver0.120d p6
+あかみどりのいちまつばんめん	紅緑の市松盤面	固有名詞	英:Nefarious Chessboard　実装日:2023/07/09 ver0.120d p6
+ばらいろのはまべ	薔薇色の浜辺	固有名詞	英:Blood Red Beach　実装日:2023/07/09 ver0.120d p6
+ばらかおるなみうちぎわ	薔薇薫る波打ち際	固有名詞	英:Blood Red Beach:Bright Seashore　実装日:2023/07/09 ver0.120d p6
+ふじむらさきのいちまつばんめん	藤紫の市松盤面	固有名詞	英:Checkered Towers　実装日:2023/07/09 ver0.120d p6
+とうしのいちまつばんめん	藤紫の市松盤面	固有名詞	英:Checkered Towers　実装日:2023/07/09 ver0.120d p6
+どくろつきのやけい	躑躅月の夜景	固有名詞	英:Illuminated Building/Checkered Towers (外観)　実装日:2023/07/09 ver0.120d p6
+あめのあおがいとう	雨の青街灯	固有名詞	英:Blue Streetlight World　実装日:2023/07/09 ver0.120d p6
+とるてぃーやさばく	トルティーヤ砂漠	固有名詞	英:Salsa Desert　実装日:2023/07/14 ver0.120d p7
+うしなわれたもり	喪われた森	固有名詞	英:Lost Forest　実装日:2023/07/14 ver0.120d p7
+あおやしのつうろ	青椰子の通路	固有名詞	英:Blue Palm Road　実装日:2023/07/14 ver0.120d p7
+たきこみどうくつ	焚籠洞窟	固有名詞	英:Expanded Corridors　実装日:2023/07/15 ver0.120d p8
+だむのほとり	ダムのほとり	固有名詞	英:Wooded Lakeside B　実装日:2023/07/23 ver0.120d p10
+みずうみのほとり	湖のほとり	固有名詞	英:Wooded Lakeside A　実装日:2023/07/23 ver0.120d p10
+いるみねーしょんつうろ	イルミネーション通路	固有名詞	英:Glowing Tree Path　実装日:2023/07/24 ver0.120d p10
+まんげきょうのせかい	万華鏡の世界	固有名詞	英:Kaleidoscope World　実装日:2023/07/24 ver0.120d p10
+あかいめいろ	赤い迷路	固有名詞	英:Oblique Hell　実装日:2023/07/24 ver0.120d p10
+かがやくうみ	輝く海	固有名詞	英:Marshmallow Shallows　実装日:2023/07/24 ver0.120d p10
+つりぼり	釣り堀	固有名詞	英:Streetlight Docks　実装日:2023/07/24 ver0.120d p10
+ｆｃばぐすてーじ	FCバグステージ(赤い迷路)	固有名詞	英:3D Underworld　実装日:2023/07/24 ver0.120d p10
+あかいめいろ	FCバグステージ(赤い迷路)	固有名詞	英:3D Underworld　実装日:2023/07/24 ver0.120d p10
+あまごいまち	雨乞い町	固有名詞	英:Somber Establishment　実装日:2023/07/29 ver0.120d p13
+あまごいちょう	雨乞い町	固有名詞	英:Somber Establishment　実装日:2023/07/29 ver0.120d p13
+もうどくけんきゅうじょ	妄毒研究所	固有名詞	英:Toxicology Research Facility　実装日:2023/07/31 ver0.120d p17
+てるてる	てるてる	固有名詞	英:Teru Teru Bozu Pond　実装日:2023/08/08 ver0.120e p1
+こんびに	コンビニ	固有名詞	英:Somber Establishment:Convenience Store　実装日:2023/08/08 ver0.120e p1
+まちがいでんわ	まちがい電話	固有名詞	英:Parking Garage:Mistaken Call Room　実装日:2023/08/13 ver0.120f
+もでるーむ	モデルーム	固有名詞	英:Basement of Oddities　実装日:2023/08/13 ver0.120f
+もーたーぷーる	モータープール	固有名詞	英:Parking Garage　実装日:2023/08/13 ver0.120f
+がろう	画廊	固有名詞	英:Portrait Purgatory:Passage to Basement of Oddities　実装日:2023/08/13 ver0.120f
+そらとさがん	空と砂岩	固有名詞	英:Sandstone Brick Maze　実装日:2023/08/19 ver0.120f p4
+さいほうとまと	裁縫トマト	固有名詞	英:Pin Cushion Vineyard　実装日:2023/08/19 ver0.120f p4
+ぺいんとつーる	ペイントツール	固有名詞	英:Primary Estate:Canvas　実装日:2023/08/19 ver0.120f p4
+しゅっけつきのこ	出血キノコ	固有名詞	英:Bleeding Mushroom Garden　実装日:2023/08/19 ver0.120f p4
+ふきん	怖菌	固有名詞	英:Bleeding Mushroom Garden:Hellish Bloody Maze　実装日:2023/08/19 ver0.120f p4
+おそれきん	怖菌	固有名詞	英:Bleeding Mushroom Garden:Hellish Bloody Maze　実装日:2023/08/19 ver0.120f p4
+さくし	錯視	固有名詞	英:Primary Estate　実装日:2023/08/19 ver0.120f p4
+なびさばく	ナビ砂漠	固有名詞	英:Sandy Cavern　実装日:2023/08/22 ver0.120f p5
+まぜんたちたい	マゼンタ地帯	固有名詞	英:Magenta Village　実装日:2023/08/22 ver0.120f p5
+どくのもり	毒の森	固有名詞	英:Amoeba Woods　実装日:2023/08/22 ver0.120f p5
+あおいとおりみち	青い通り道	固有名詞	英:Amoeba Woods: Blue Hallway/Pillar of Rest(夕暮れの丘)　実装日:2023/08/22 ver0.120f p5
+せいさんらぼ	凄惨ラボ	固有名詞	英:Haunted Laboratory　実装日:2023/08/23 ver0.120f p6
+ひょうじゅん	氷筍	固有名詞	英:Glacier Maze　実装日:2023/09/14 ver0.120h p1
+しろくろがら	白黒柄	固有名詞	英:White Black World　実装日:2023/09/14 ver0.120h p1
+げあｒ＆うぃて	gear＆white	固有名詞	英:Bodacious Rotation Station　実装日:2023/09/18 ver0.121 p1
+ぎああんどほわいと	gear＆white	固有名詞	英:Bodacious Rotation Station　実装日:2023/09/18 ver0.121 p1
+ぎあ＆ほわいと	gear＆white	固有名詞	英:Bodacious Rotation Station　実装日:2023/09/18 ver0.121 p1
+ぎあほわいと	gear＆white	固有名詞	英:Bodacious Rotation Station　実装日:2023/09/18 ver0.121 p1
+しろいせかい	しろい	固有名詞	英:Bodacious Rotation Station:Tunnel Path　実装日:2023/09/18 ver0.121 p1
+なもなきかいが	名も無キ絵画	固有名詞	英:Birch Forest:Chaser Gallery Area　実装日:2023/09/18 ver0.121 p1
+がびょうせかい	画鋲世界	固有名詞	英:Thumbtack World　実装日:2023/09/18 ver0.121 p1
+しらかばのもり	白樺の森	固有名詞	英:Birch Forest　実装日:2023/09/18 ver0.121 p1
+せいさい	成済	固有名詞	英:False Guardians' Trials　実装日:2023/09/20 ver0.121a
+なりすみ	成済	固有名詞	英:False Guardians' Trials　実装日:2023/09/20 ver0.121a
+しゃーまんはうす	しゃーまんはうす	固有名詞	英:Lamp Puddle World:Fortune Teller's Tent　実装日:2023/09/27 ver0.121a p1
+だいたいちか	代対地禍	固有名詞	英:Under-Around　実装日:2023/09/27 ver0.121a p1
+こちょううげつ	胡蝶雨月	固有名詞	英:Lamp Puddle World　実装日:2023/09/27 ver0.121a p1
+せっちゅうそうなん	雪中遭難	固有名詞	英:Deep Cold Path　実装日:2023/10/01 ver0.121b
+ゆきなかそうなん	雪中遭難	固有名詞	英:Deep Cold Path　実装日:2023/10/01 ver0.121b
+せつごく	雪獄	固有名詞	英:Floating Tiled Islands:Red Cave　実装日:2023/10/01 ver0.121b
+えぴろーぐ	エピローグ	固有名詞	英:Thumbtack World:Painting Path　実装日:2023/10/02 ver0.121b p1
+ひがんのがけ	彼岸の崖	固有名詞	英:Thumbtack World:Cliff　実装日:2023/10/02 ver0.121b p1
+かなた	彼方	固有名詞	英:Thumbtack World:Girl's room　実装日:2023/10/02 ver0.121b p1
+いばら	異薔薇	固有名詞	英:Colorless Rose Garden　実装日:2023/10/02 ver0.121b p1
+きんだいとし	近代都市	固有名詞	英:Beyond　実装日:2023/10/02 ver0.121b p1
+さよきょく	小夜曲	固有名詞	英:Nocturne:Serenade　実装日:2023/10/12 ver0.121c
+そよぎのはら	そよぎ野原	固有名詞	英:Gentle Meadows　実装日:2023/10/13 ver0.121c p1
+かんちょう	干潮	固有名詞	英:Low Tide Sands　実装日:2023/10/13 ver0.121c p1
+はりのすいきょう	玻璃の水鏡	固有名詞	英:Crystal Waters　実装日:2023/10/13 ver0.121c p1
+きゅうちゅう	球宙	固有名詞	英:Colorful Sphere World　実装日:2023/10/13 ver0.121c p1
+げんこう	眩光	固有名詞	英:Floating Window World　実装日:2023/10/13 ver0.121c p1
+せっくつごう	石窟壕	固有名詞	英:Underground Base　実装日:2023/10/13 ver0.121c p1
+かくれが	隠れ家	固有名詞	英:bedroom　実装日:2023/10/13 ver0.121c p1
+すらいむむら	すらいむむら	固有名詞	英:Slime Village　実装日:2023/10/30 ver0.121c p6
+しんえんにわ	深淵庭	固有名詞	英:Abyssal Garden　実装日:2023/10/30 ver0.121c p6
+らくがきつうろ	落書き通路	固有名詞	英:Doodle Path　実装日:2023/10/30 ver0.121c p6
+しょうとつせかい	衝突世界	固有名詞	英:Collision World　実装日:2023/10/30 ver0.121c p6
+せいじゃくのもり	静寂の森	固有名詞	英:Silent Forest　実装日:2023/10/30 ver0.121c p6
+ひじょうつうろ	非常通路	固有名詞	英:Abyssal Garden:Emergency Exit　実装日:2023/10/30 ver0.121c p6
+めもりえｓ	Memories	固有名詞	英:Hall of Memories　実装日:2023/11/03 ver0.121c p7
+めもりーず	Memories	固有名詞	英:Hall of Memories　実装日:2023/11/03 ver0.121c p7
+にきょくせん	二極線	固有名詞	英:Ticking Blackout Zone　実装日:2023/11/08 ver0.121c p8
+てんじょうした	天井下	固有名詞	英:Mirrored Pathways　実装日:2023/11/08 ver0.121c p8
+てんじょうか	天井下	固有名詞	英:Mirrored Pathways　実装日:2023/11/08 ver0.121c p8
+ふかやま	深山	固有名詞	英:Mountain Range　実装日:2023/11/08 ver0.121c p8
+しんざん	深山	固有名詞	英:Mountain Range　実装日:2023/11/08 ver0.121c p8
+しろくろでんしゃ	白黒電車	固有名詞	英:Ticking Blackout Zone:Train　実装日:2023/11/08 ver0.121c p8
+はりぼてのはら	ハリボテ野原	固有名詞	英:Haribote Landscape　実装日:2023/11/16 ver0.121d
+ぱすてるしゅうらく	パステル集落	固有名詞	英:Pastel Grassland　実装日:2023/11/16 ver0.121d
+だいざ	台座	固有名詞	英:Scale Model Exhibit　実装日:2023/11/16 ver0.121d
+はいきゃんぷじょう	廃キャンプ場	固有名詞	英:Abandoned Campsite　実装日:2023/11/16 ver0.121d
+ゆびさしめいろ	指差し迷路	固有名詞	英:Pointing Labyrinth　実装日:2023/11/16 ver0.121d
+くらいたてのみやこ	暗い盾の都	固有名詞	英:Subtractive Color City　実装日:2023/11/16 ver0.121d
+しゅとう	朱筒	固有名詞	英:Copper Tube Desert　実装日:2023/11/16 ver0.121d
+あかつつ	朱筒	固有名詞	英:Copper Tube Desert　実装日:2023/11/16 ver0.121d
+ゆがみばやし	歪林	固有名詞	英:Twisted Forest　実装日:2023/11/16 ver0.121d
+わいりん	歪林	固有名詞	英:Twisted Forest　実装日:2023/11/16 ver0.121d
+しんぱくすう	深白枢	固有名詞	英:Pale Plateau　実装日:2023/11/16 ver0.121d
+きょうがい	狭崖	固有名詞	英:Slate Doorway　実装日:2023/11/16 ver0.121d
+いしひも	石紐	固有名詞	英:Magenta Village:Hanging Rope Maze　実装日:2023/11/16 ver0.121d
+せきかいけ	石華池	固有名詞	英:Flowery Ponds　実装日:2023/11/16 ver0.121d
+いしばないけ	石華池	固有名詞	英:Flowery Ponds　実装日:2023/11/16 ver0.121d
+ひろ	緋路	固有名詞	英:Foggy Red Street　実装日:2023/11/16 ver0.121d
+ひじ	緋路	固有名詞	英:Foggy Red Street　実装日:2023/11/16 ver0.121d
+ひみち	緋路	固有名詞	英:Foggy Red Street　実装日:2023/11/16 ver0.121d
+けっこう	血荒	固有名詞	英:Dark Red Wasteland　実装日:2023/11/16 ver0.121d
+ちあれ	血荒	固有名詞	英:Dark Red Wasteland　実装日:2023/11/16 ver0.121d
+あせべにのまち	褪紅の街	固有名詞	英:Salmon-shaded Settlement　実装日:2023/11/16 ver0.121d
+れんさめいろ	連鎖迷路	固有名詞	英:Chain World　実装日:2023/11/16 ver0.121d
+にぶいろこうじょう	鈍色工場	固有名詞	英:Sepia Factory　実装日:2023/11/16 ver0.121d
+あおのいしぞこ	青の石底	固有名詞	英:Blue Rock Depths　実装日:2023/11/16 ver0.121d
+あおりったいのつうろ	青立体の通路	固有名詞	英:Blue Shape Zone　実装日:2023/11/16 ver0.121d
+おとおもいのつうろ	音想いの通路	固有名詞	英:Heart Pattern Pathway　実装日:2023/11/16 ver0.121d
+えすにっく	エスニック	固有名詞	英:Ethnic World　実装日:2023/11/17 ver0.121d p2
+がんえんあさせ	岩塩浅瀬	固有名詞	英:Himalayan Salt Shoal　実装日:2023/11/21 ver0.121e
+しらて	白手	固有名詞	英:Stone Hand Flatland　実装日:2023/11/21 ver0.121e
+しろて	白手	固有名詞	英:Stone Hand Flatland　実装日:2023/11/21 ver0.121e
+びゃくしゅ	白手	固有名詞	英:Stone Hand Flatland　実装日:2023/11/21 ver0.121e
+きがん	祈願	固有名詞	英:Fox Temple　実装日:2023/11/23 ver0.121f
+いこみき	已己巳己	固有名詞	英:Collision World:Small Room　実装日:2023/11/30 ver0.121f p3
+けっこんとめ	血痕と眼	固有名詞	英:Abyssal Garden:Bloodstained Eye House　実装日:2023/11/30 ver0.121f p3
+けっこんとめまなこ	血痕と眼	固有名詞	英:Abyssal Garden:Bloodstained Eye House　実装日:2023/11/30 ver0.121f p3
+ついおく	追憶	固有名詞	英:Swamp of Remembrance　実装日:2023/11/30 ver0.121f p3
+おふぃすせかい	オフィス世界	固有名詞	英:Lavender Office　実装日:2023/12/14 ver0.121h p1
+こうじちゅうつうろ	工事中通路	固有名詞	英:Construction Sign World　実装日:2023/12/14 ver0.121h p1
+みどりのとびらべや	緑の扉部屋	固有名詞	英:The Magic Nexus　実装日:2023/12/14 ver0.121h p1
+ちょっかうら	直下裏	固有名詞	英:Butcher Hollow　実装日:2023/12/16 ver0.121h p2
+きょうほう	叶捧	固有名詞	英:Fox Temple:The Temple　実装日:2023/12/26 ver0.122
+うろへびのせかい	うろ蛇の世界	固有名詞	英:Serpent Ruins B　実装日:2023/12/30 ver0.122 p1
+うろへびいせき	うろ蛇遺跡	固有名詞	英:Serpent Ruins A　実装日:2023/12/30 ver0.122 p1
+ふぉーふぇいすぶろっく	フォーフェイスブロック	固有名詞	英:Emotions Maze　実装日:2023/12/30 ver0.122 p1
+そうしそうあい	喪思葬哀	固有名詞	英:Mourning Void　実装日:2023/12/30 ver0.122 p1
+ゆめこくどう	夢国道	固有名詞	英:Dream Route　実装日:2023/12/30 ver0.122 p1
+うちゅうずいどう	宇宙隧道	固有名詞	英:Space Tunnel/Pitch Black Plateau:Hopeful Road(隔離エリア)　実装日:2023/12/30 ver0.122 p1
+うちゅうすいどう	宇宙隧道	固有名詞	英:Space Tunnel/Pitch Black Plateau:Hopeful Road(隔離エリア)　実装日:2023/12/30 ver0.122 p1
+はてのどうくつ	果ての洞窟	固有名詞	英:Serpent Ruins B:Cave(小洞窟側)/Dream Route:Present Amethyst Caves(大洞窟側)　実装日:2023/12/30 ver0.122 p1
+いかいとしぜーたちく	異界都市ζ地区	固有名詞	英:Zeta District　実装日:2023/12/30 ver0.122 p1
+いかいとしぜたちく	異界都市ζ地区	固有名詞	英:Zeta District　実装日:2023/12/30 ver0.122 p1
+くろしろ	黒白	固有名詞	英:Mourning Void:Heart Passage　実装日:2023/12/30 ver0.122 p1
+ぴかぴかあさせ	ぴかぴか浅瀬	固有名詞	英:Peaceful Shoal　実装日:2023/12/31 ver0.122 p2
+からすのもり	カラスの森	固有名詞	英:Crow Forest　実装日:2023/12/31 ver0.122 p2
+せうゆ	せうゆ	固有名詞	英:Soy Basket Void　実装日:2024/01/08 ver0.122a
+たなびくざんしょう	たなびく残照	固有名詞	英:Stingray Skies　実装日:2024/01/11 ver0.122a p1
+ときのかせき	刻の化石	固有名詞	英:Deep Red Wilds:Prehistoric Passage　実装日:2024/01/11 ver0.122a p1
+どてのこうえん	土手の公園	固有名詞	英:Clubhouse Yard　実装日:2024/01/11 ver0.122a p1
+きさいかんげん	奇彩乾原	固有名詞	英:Toy Desert　実装日:2024/01/11 ver0.122a p1
+はいやしきべっとう	廃屋敷別棟	固有名詞	英:Empty Abode　実装日:2024/01/11 ver0.122a p1
+はいやしきちか	廃屋敷地下	固有名詞	英:Serene Docks　実装日:2024/01/11 ver0.122a p1
+ぶんめいのいえい	文明の遺影	固有名詞	英:Deep Red Wilds:Ruined Skyline　実装日:2024/01/11 ver0.122a p1
+あまったるいかおり	甘ったるい香り	固有名詞	英:Muffin Spice World　実装日:2024/01/11 ver0.122a p1
+みどりのつみいしいせき	緑の積石遺跡	固有名詞	英:Jade Block Mounds　実装日:2024/01/11 ver0.122a p1
+せだかばなのすいろ	背高花の水路	固有名詞	英:Serene Docks:Flower Path　実装日:2024/01/11 ver0.122a p1
+せいたかばなのすいろ	背高花の水路	固有名詞	英:Serene Docks:Flower Path　実装日:2024/01/11 ver0.122a p1
+ながむしのつうろ	長蟲の通路	固有名詞	英:Wacky Worms　実装日:2024/01/11 ver0.122a p1
+かざにわのはなみち	風庭の花道	固有名詞	英:Blossoming Wonderland　実装日:2024/01/11 ver0.122a p1
+あめのはしだて	飴の橋立	固有名詞	英:Candy Shoal　実装日:2024/01/11 ver0.122a p1
+あめべ	飴辺	固有名詞	英:Festive Archipelago　実装日:2024/01/11 ver0.122a p1
+がちゃんき	ガチャん機	固有名詞	英:Gumball World　実装日:2024/01/17 ver0.122a p3
+あきづこうえん	秋津公園	固有名詞	英:Autumn Park　実装日:2024/01/17 ver0.122a p3
+あきつこうえん	秋津公園	固有名詞	英:Autumn Park　実装日:2024/01/17 ver0.122a p3
+からふるぼっくすつうろ	カラフルボックス通路	固有名詞	英:Playbox Passage　実装日:2024/01/20 ver0.122b
+ｇ＆ｂ	G＆B	固有名詞	英:Sakura Ruins:Colored Shapes Zone　実装日:2024/01/27 ver0.122c
+じーあんどびー	G＆B	固有名詞	英:Sakura Ruins:Colored Shapes Zone　実装日:2024/01/27 ver0.122c
+じーびー	G＆B	固有名詞	英:Sakura Ruins:Colored Shapes Zone　実装日:2024/01/27 ver0.122c
+ふまにｓｍ	Humanism	固有名詞	英:Humanity World　実装日:2024/01/27 ver0.122c
+ひゅーまにずむ	Humanism	固有名詞	英:Humanity World　実装日:2024/01/27 ver0.122c
+あばたーるーむ	アバタールーム	固有名詞	英:Meadow of Faces:Strange Hallway　実装日:2024/01/27 ver0.122c
+かきごおりはうす	カキ氷ハウス	固有名詞	英:Mixed Beach:Festive Room　実装日:2024/01/27 ver0.122c
+くっきーてんくう	クッキー天空	固有名詞	英:Cookie Isle　実装日:2024/01/27 ver0.122c
+はーとめいろ	ハート迷路	固有名詞	英:Heart Maze　実装日:2024/01/27 ver0.122c
+みっくすびーち	ミックスビーチ	固有名詞	英:Mixed Beach　実装日:2024/01/27 ver0.122c
+りんごのはら	リンゴ野原	固有名詞	英:Sunrise Road　実装日:2024/01/27 ver0.122c
+ろうごく	ロウ獄	固有名詞	英:Candle Block World　実装日:2024/01/27 ver0.122c
+こうきゅうちたい	光球血帯	固有名詞	英:Neon Circle Walkway　実装日:2024/01/27 ver0.122c
+みそしるだんじょん	味噌汁ダンジョン	固有名詞	英:Miso Soup Dungeon　実装日:2024/01/27 ver0.122c
+なつやすみだいありー	夏休みdiary	固有名詞	英:Doodle World　実装日:2024/01/27 ver0.122c
+なつやすみぢあｒｙ	夏休みdiary	固有名詞	英:Doodle World　実装日:2024/01/27 ver0.122c
+なつぞらかいがん	夏空海岸	固有名詞	英:Summer Sky Coast　実装日:2024/01/27 ver0.122c
+なつそらかいがん	夏空海岸	固有名詞	英:Summer Sky Coast　実装日:2024/01/27 ver0.122c
+ゆうやけのみち	夕焼けの道	固有名詞	英:Sunrise Road　実装日:2024/01/27 ver0.122c
+ゆめべやもどき	夢部屋もどき	固有名詞	英:Check-Disk Nexus　実装日:2024/01/27 ver0.122c
+ゆめへやもどき	夢部屋もどき	固有名詞	英:Check-Disk Nexus　実装日:2024/01/27 ver0.122c
+きみょうすう	奇妙数	固有名詞	英:Numeral Hallways/Vibrant Lamppost World(街灯空間)　実装日:2024/01/27 ver0.122c
+きせい	寄生	固有名詞	英:Bloodied Mural World/X-Maze(非正規)　実装日:2024/01/27 ver0.122c
+こがわとそうげん	小川と草原	固有名詞	英:Meadow of Faces　実装日:2024/01/27 ver0.122c
+おがわとそうげん	小川と草原	固有名詞	英:Meadow of Faces　実装日:2024/01/27 ver0.122c
+ばぐとびらべや	バグ扉部屋	固有名詞	英:Corrupted Nexus　実装日:2024/01/27 ver0.122c
+ばぐとびらへや	バグ扉部屋	固有名詞	英:Corrupted Nexus　実装日:2024/01/27 ver0.122c
+まてんろうのおくじょう	摩天楼の屋上	固有名詞	英:Urban Heights　実装日:2024/01/27 ver0.122c
+さくらあと	桜跡	固有名詞	英:Sakura Ruins/Bloodsoaked Pathways(血桜)　実装日:2024/01/27 ver0.122c
+うずびょうしき	渦標識	固有名詞	英:Spiral Sign Abyss　実装日:2024/01/27 ver0.122c
+うずひょうしき	渦標識	固有名詞	英:Spiral Sign Abyss　実装日:2024/01/27 ver0.122c
+いくうがっこう	異空学校	固有名詞	英:Cerulean School　実装日:2024/01/27 ver0.122c
+しろくろとびらべや	白黒扉部屋	固有名詞	英:Check-Disk Nexus　実装日:2024/01/27 ver0.122c
+もずのはやにえ	百舌の早贄	固有名詞	英:Shrike Void　実装日:2024/01/27 ver0.122c
+そらまめ	空マメ	固有名詞	英:Indigo Pyramid Heaven　実装日:2024/01/27 ver0.122c
+いわかんのじゅうたくち	違和感の住宅地	固有名詞	英:Morning Suburbs　実装日:2024/01/27 ver0.122c
+あめののみち	雨の野道	固有名詞	英:Rainy Woods Path/Journey's Road(最奥の道路)　実装日:2024/01/27 ver0.122c
+！	！	固有名詞	英:Exclamation Zone　実装日:2024/01/27 ver0.122c
+あがないのとう	贖いの塔	固有名詞	英:Ink Forest　実装日:2024/01/28 ver0.122c p1
+にじゆきこうげん	虹雪高原	固有名詞	英:Rainbow Snow Plateau　実装日:2024/02/06 ver0.122d
+こうせつこうげん	虹雪高原	固有名詞	英:Rainbow Snow Plateau　実装日:2024/02/06 ver0.122d
+ぷろろーぐ	プロローグ	固有名詞	英:Graveyard of Repentance:Secret Portrait Area　実装日:2024/02/06 ver0.122d p1
+はにわせかい	埴輪世界	固有名詞	英:Haniwa Hollow　実装日:2024/02/06 ver0.122d p1
+はいちかてつ	廃地下鉄	固有名詞	英:Rice Field:Abandoned Railway　実装日:2024/02/06 ver0.122d p1
+ざんげのはかば	懺悔の墓場	固有名詞	英:Graveyard of Repentance　実装日:2024/02/06 ver0.122d p1
+ぬわれたせかい	縫われた世界	固有名詞	英:Brutal Sewing Landscape　実装日:2024/02/06 ver0.122d p1
+みなとぞら	みなとぞら	固有名詞	英:Skyline Highway:Restaurant　実装日:2024/02/07 ver0.122d p3
+いんこていこく	インコ帝国	固有名詞	英:Cheesecake Mountain:Parrot Empire　実装日:2024/02/07 ver0.122d p3
+うみうしわしつ	ウミウシ和室	固有名詞	英:Sea Slug House　実装日:2024/02/07 ver0.122d p3
+さわー	サワー	固有名詞	英:Sour Void　実装日:2024/02/07 ver0.122d p3
+ちーずけーきやま	チーズケーキ山	固有名詞	英:Cheesecake Mountain　実装日:2024/02/07 ver0.122d p3
+ちーずけーきざん	チーズケーキ山	固有名詞	英:Cheesecake Mountain　実装日:2024/02/07 ver0.122d p3
+みあずま	ミアズマ	固有名詞	英:Miasma　実装日:2024/02/07 ver0.122d p3
+れいかえんじょう	冷夏炎上	固有名詞	英:Moth Gallery:Cold Summer Flames　実装日:2024/02/07 ver0.122d p3
+ゆうがろう	夕蛾廊	固有名詞	英:Moth Gallery　実装日:2024/02/07 ver0.122d p3
+ゆめごるふじょう	夢ゴルフ場	固有名詞	英:Breezy Golfing District　実装日:2024/02/07 ver0.122d p3
+ぞうきばやし	憎伐林	固有名詞	英:Ghostly Woods　実装日:2024/02/07 ver0.122d p3
+ほしすなかにがん	星砂蟹岸	固有名詞	英:Crab Shore　実装日:2024/02/07 ver0.122d p3
+せいさかにがん	星砂蟹岸	固有名詞	英:Crab Shore　実装日:2024/02/07 ver0.122d p3
+ほしすなかにぎし	星砂蟹岸	固有名詞	英:Crab Shore　実装日:2024/02/07 ver0.122d p3
+せいさかにぎし	星砂蟹岸	固有名詞	英:Crab Shore　実装日:2024/02/07 ver0.122d p3
+ほしすなかにきし	星砂蟹岸	固有名詞	英:Crab Shore　実装日:2024/02/07 ver0.122d p3
+せいさかにきし	星砂蟹岸	固有名詞	英:Crab Shore　実装日:2024/02/07 ver0.122d p3
+ほしきんまかつ	星金磨羯	固有名詞	英:Capricorn Palace　実装日:2024/02/07 ver0.122d p3
+ほしかねまかつ	星金磨羯	固有名詞	英:Capricorn Palace　実装日:2024/02/07 ver0.122d p3
+せいきんまかつ	星金磨羯	固有名詞	英:Capricorn Palace　実装日:2024/02/07 ver0.122d p3
+とげひょうくつ	棘氷窟	固有名詞	英:Ice Thorn Cave　実装日:2024/02/07 ver0.122d p3
+いけす	池簀	固有名詞	英:Fish Oil Swamp　実装日:2024/02/07 ver0.122d p3
+めいかいはいうぇい	溟懐ハイウェイ	固有名詞	英:Skyline Highway/Lively Tower(溟懐タワー)　実装日:2024/02/07 ver0.122d p3
+やきだこ	焼きダコ	固有名詞	英:Grilled Octopus World　実装日:2024/02/07 ver0.122d p3
+かしぶっけん	菓子物件	固有名詞	英:Confection Estate　実装日:2024/02/07 ver0.122d p3
+むしのあかろじ	虫の朱路地	固有名詞	英:Sea Slug House:Orange Alley　実装日:2024/02/07 ver0.122d p3
+す	酢	固有名詞	英:Vinegar Vicinity　実装日:2024/02/07 ver0.122d p3
+きんぎょしゃだん	金魚遮断	固有名詞	英:Crossing Archipelago　実装日:2024/02/07 ver0.122d p3
+じゅうけつどう	充血洞	固有名詞	英:Cruel Bloody Hallways　実装日:2024/02/11 ver0.122e
+しゃふつりん	煮沸林	固有名詞	英:Ruby Forest　実装日:2024/02/11 ver0.122e
+じょうじゅどう	蒸濡洞	固有名詞	英:Glacial Geyser Grounds　実装日:2024/02/11 ver0.122e
+きゃびん	キャビン	固有名詞	英:Axolotl Abode　実装日:2024/02/14 ver0.122e p2
+ｇばだんじょん	GBAダンジョン	固有名詞	英:Topdown Dungeon:Oblique area　実装日:2024/02/19 ver0.122f
+じーびーえーだんじょん	GBAダンジョン	固有名詞	英:Topdown Dungeon:Oblique area　実装日:2024/02/19 ver0.122f
+くろっくせかい	クロック世界	固有名詞	英:Clock World　実装日:2024/02/19 ver0.122f
+ばるーんらんど	バルーンランド	固有名詞	英:Balloon Park　実装日:2024/02/19 ver0.122f
+にせうろつきてい	偽うろつき邸	固有名詞	英:Fake Apartments/Nefarious Chessboard:Abnormal Bedroom(ベランダ～自室)　実装日:2024/02/19 ver0.122f
+どそうしんでん	土葬深殿	固有名詞	英:Burial Depths A　実装日:2024/02/19 ver0.122f
+すいそうしんでん	水葬深殿	固有名詞	英:Burial Depths B　実装日:2024/02/19 ver0.122f
+むゆうさばく	夢遊砂漠	固有名詞	英:Sands of Self　実装日:2024/02/19 ver0.122f
+とびらべやいこう	扉部屋遺構	固有名詞	英:Legacy Nexus　実装日:2024/02/19 ver0.122f
+とびらへやいこう	扉部屋遺構	固有名詞	英:Legacy Nexus　実装日:2024/02/19 ver0.122f
+まてんめいろうほてる	摩天迷楼ホテル	固有名詞	英:Motel Breeze/Blue Apartments(屋内)　実装日:2024/02/19 ver0.122f
+しらがいとうのえき	白街灯の駅	固有名詞	英:Underground Subway/Fake Apartments:Rotted Corridors(駅の最奥)/Fake Apartments:Realistic Room(桃色の髪の誰かの部屋)　実装日:2024/02/19 ver0.122f
+しろがいとうのえき	白街灯の駅	固有名詞	英:Underground Subway/Fake Apartments:Rotted Corridors(駅の最奥)/Fake Apartments:Realistic Room(桃色の髪の誰かの部屋)　実装日:2024/02/19 ver0.122f
+あかむらさきれんがどおり	赤紫煉瓦通り	固有名詞	英:Dice Swamp　実装日:2024/02/19 ver0.122f
+せきしれんがどおり	赤紫煉瓦通り	固有名詞	英:Dice Swamp　実装日:2024/02/19 ver0.122f
+とじこめがくえん	閉じ込め学園	固有名詞	英:Chaser Academy　実装日:2024/02/19 ver0.122f
+すっとんきょう	すっとん共	固有名詞	英:Dusty Grey Town:Interior　実装日:2024/02/24 ver0.122f p1
+すっとんきょう	すっとん郷	固有名詞	英:Dusty Grey Town:Exterior　実装日:2024/02/24 ver0.122f p1
+こーんしんりん	コーン森林	固有名詞	英:Conifer World　実装日:2024/02/24 ver0.122f p1
+ふるあさせ	古浅瀬	固有名詞	英:Teal District　実装日:2024/02/24 ver0.122f p1
+がんしょう	眼傷	固有名詞	英:Amethyst Ocean　実装日:2024/02/24 ver0.122f p1
+ｇｂｃだんじょん	GBCダンジョン	固有名詞	英:Pale Brick Basement　実装日:2024/02/24 ver0.122f p2
+じーびーしーだんじょん	GBCダンジョン	固有名詞	英:Pale Brick Basement　実装日:2024/02/24 ver0.122f p2
+げんそう	幻荘	固有名詞	英:Burgundy Flats　実装日:2024/02/24 ver0.122f p2
+ろっかくたいるせかい	六角タイル世界	固有名詞	英:Critter Village　実装日:2024/02/25 ver0.122g
+ろっかくたいるこうじょう	六角タイル工場	固有名詞	英:Critter Village　実装日:2024/02/25 ver0.122g
+あめのためいけ	雨のため池	固有名詞	英:Critter Village:Reservoir　実装日:2024/02/25 ver0.124f p2
+ばらのていたく	バラの邸宅	固有名詞	英:Rose Manor　実装日:2024/03/03 ver0.122g p3
+ばれんたいんそうげん	バレンタイン草原	固有名詞	英:Valentine Meadow　実装日:2024/03/03 ver0.122g p3
+あんそくのひろま	安息の広間	固有名詞	英:Violet Checkered Lounge　実装日:2024/03/09 ver0.122h
+いしぞこのしろ	石底の城	固有名詞	英:Blue Rock Depths:Mansion　実装日:2024/03/09 ver0.122h
+れんけつぶろっく	連結ブロック	固有名詞	英:Faded Blocks Void　実装日:2024/03/09 ver0.122h
+あめのみなと	雨の港	固有名詞	英:Seaside Highway　実装日:2024/03/09 ver0.122h
+あかくろあさせ	黒赤浅瀬	固有名詞	英:Vantablack Isles　実装日:2024/03/09 ver0.122h
+あかぐろあさせ	黒赤浅瀬	固有名詞	英:Vantablack Isles　実装日:2024/03/09 ver0.122h
+かいば	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+かいばね	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+えば	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+えばね	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+かいは	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+かいはね	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+えは	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+えはね	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+かいう	壊羽	固有名詞	英:Metallic Pathway　実装日:2024/03/10 ver0.122h p1
+やみかわせかい	病みかわ世界	固有名詞	英:Sweet Medical Utopia/File Viewer(ゆめかわうぃんどう)　実装日:2024/03/10 ver0.122h p1
+じゅうけつ	銃血	固有名詞	英:Rifle Wasteland　実装日:2024/03/10 ver0.122h p1
+じゅうち	銃血	固有名詞	英:Rifle Wasteland　実装日:2024/03/10 ver0.122h p1
+あかいたいようとにちじょう	紅い太陽と日常	固有名詞	英:Red Sun Outlook　実装日:2024/03/10 ver0.123a p1
+こーぽきぞめ	コーポ黄染	固有名詞	英:Lemonade Edifice　実装日:2024/03/11 ver0.122h p2
+きいろたいるつうろ	黄色タイル通路	固有名詞	英:Pulsating Yellow Passage　実装日:2024/03/11 ver0.122h p2
+きいろしんすいよくじょう	黄色浸水浴場	固有名詞	英:Lemonade Pool　実装日:2024/03/11 ver0.122h p2
+あるれしゃ	アルレシャ	固有名詞	英:Alrescha Sea　実装日:2024/03/13 ver0.122i
+れだ	レダ	固有名詞	英:Radiant Rainbow Reef　実装日:2024/03/13 ver0.122i
+ゆめさそい	夢誘い	固有名詞	英:Moonlit Pharmacy　実装日:2024/03/13 ver0.122i p1
+のいずのかぎあなつうろ	ノイズの鍵穴通路	固有名詞	英:Flicker Trail　実装日:2024/03/18 ver0.123
+ぼちせかいいんきょう	墓地世界陰境	固有名詞	英:Dim Graveyard　実装日:2024/03/18 ver0.123
+ほしかげのげすいどう	星影の下水道	固有名詞	英:Scrap Metal Passage　実装日:2024/03/18 ver0.123
+せいえいのげすいどう	星影の下水道	固有名詞	英:Scrap Metal Passage　実装日:2024/03/18 ver0.123
+しょくぶつせかいようきょう	植物世界陽境	固有名詞	英:Orange Forest　実装日:2024/03/18 ver0.123
+みずがめとろうそくのめいきゅう	水瓶と蝋燭の迷宮	固有名詞	英:House of Vases　実装日:2024/03/18 ver0.123
+へいしょきょうふしょう	閉所恐怖症	固有名詞	英:Claustrophobia　実装日:2024/03/18 ver0.123
+しあんほてる	シアンホテル	固有名詞	英:Pleasure Street:Neon Apartments　実装日:2024/03/20 ver0.123a
+ねりうむらぼ	ネリウムラボ	固有名詞	英:Nerium Lab　実装日:2024/03/20 ver0.123a
+しょうじょのゆめ	少女の夢	固有名詞	英:Nerium Lab:Pink Hell　実装日:2024/03/20 ver0.123a
+せんす	扇子	固有名詞	英:Pleasure Street:Sensu Zone　実装日:2024/03/20 ver0.123a
+かんらくどおり	歓楽通り	固有名詞	英:Pleasure Street　実装日:2024/03/20 ver0.123a
+みずいろかぷせる	水色かぷせる	固有名詞	英:Azure Overdose Zone　実装日:2024/03/23 ver0.123a p1
+じゅうそうこ	銃創庫	固有名詞	英:Sweet Medical Utopia:Hospital Outlook　実装日:2024/03/23 ver0.123a p1
+じおらまこんふゅーじょん	ジオラマコンフュージョン	固有名詞	英:Art Exposition　実装日:2024/03/24 ver0.123a p2
+ねおんさいど	ネオンサイド	固有名詞	英:Art Exposition:Cyberpunk City　実装日:2024/03/24 ver0.123a p2
+いけにわみなぞこ	池庭水底	固有名詞	英:Art Exposition:Blue Seabed(海底)/Art Exposition:Crystal Lily Pond(碧池)　実装日:2024/03/24 ver0.123a p2
+かいがしゃ	絵画叉	固有名詞	英:Art Exposition　実装日:2024/03/24 ver0.123a p2
+あかれんがしがい	赤煉瓦市街	固有名詞	英:Unfamiliar City　実装日:2024/03/24 ver0.123a p2
+くろしろのみち	黒白の路	固有名詞	英:Art Exposition:Love Prayer Passage　実装日:2024/03/24 ver0.123a p2
+どくろ	°黒	固有名詞	英:Bone Zone(°黒)/Pitch Black Plateau　実装日:2024/04/03 ver0.123b
+しぐまりーなびーち	σリーナビーチ	固有名詞	英:Bikini Beach　実装日:2024/04/03 ver0.123b
+うろへびおおひろま	うろ蛇大広間	固有名詞	英:Serpent Ruins B(名称未定)　実装日:2024/04/03 ver0.123b
+すってんとう	すってん倒	固有名詞	英:Weary Potted Plant World　実装日:2024/04/03 ver0.123b
+あすきーあーと	アスキーアート	固有名詞	英:ASCII Symbol Zone　実装日:2024/04/03 ver0.123b
+ぱーてぃーほーる	パーティーホール	固有名詞	英:Festive Hotel　実装日:2024/04/03 ver0.123b
+ふしぜんこうえん	不自然公園	固有名詞	英:Dream Route:Present Park　実装日:2024/04/03 ver0.123b
+よいのこぬま	宵の湖沼	固有名詞	英:White Pillar Docks　実装日:2024/04/03 ver0.123b
+しんそうしんり	心葬深離	固有名詞	英:Pitch Black Plateau/The Emptiness(ネガうろ邂逅)　実装日:2024/04/03 ver0.123b
+かいじょうとらっく	海上トラック	固有名詞	英:Seaside Circuit　実装日:2024/04/03 ver0.123b
+はいくろきかい	灰黒機界	固有名詞	英:Grayscale Bookshelves　実装日:2024/04/03 ver0.123b
+はいぐろきかい	灰黒機界	固有名詞	英:Grayscale Bookshelves　実装日:2024/04/03 ver0.123b
+いかいとしいぷしろんちく	異界都市ε地区	固有名詞	英:Epsilon District　実装日:2024/04/03 ver0.123b
+いかいとしげすいどう	異界都市下水道	固有名詞	英:Epsilon District:Gray Sewers　実装日:2024/04/03 ver0.123b
+せきばんのはかば	石板の墓場	固有名詞	英:Dream Route: Stone Graveyard　実装日:2024/04/03 ver0.123b
+くろうはがり	苦労羽狩	固有名詞	英:Crow's Nest　実装日:2024/04/03 ver0.123b
+しょうけいもじ	象形文字	固有名詞	英:Binding Site　実装日:2024/04/03 ver0.123b
+あおいろせんが	青色線画	固有名詞	英:Vivid Blue Flatlands　実装日:2024/04/03 ver0.123b
+ばけあかさばく	化赤砂漠	固有名詞	英:Paleontology Dunes　実装日:2024/04/05 ver0.123b p1
+かせきさばく	化赤砂漠	固有名詞	英:Paleontology Dunes　実装日:2024/04/05 ver0.123b p1
+ひそうかい	悲蒼海	固有名詞	英:Watching Waters　実装日:2024/04/05 ver0.123b p1
+はくらんかい	白覧廻	固有名詞	英:Silver Rune Hall　実装日:2024/04/05 ver0.123b p1
+すいじゃくぼち	翠寂墓地	固有名詞	英:Lonely Mint Cemetery　実装日:2024/04/05 ver0.123b p1
+きつねいけ	黄常池	固有名詞	英:Kitsune Residence　実装日:2024/04/05 ver0.123b p1
+くろとうとう	黒灯々	固有名詞	英:Stargazing Puddles　実装日:2024/04/05 ver0.123b p1
+あかさびのえんとつがい	赤錆の煙突街	固有名詞	英:Pollution District　実装日:2024/04/16 ver0.123b p4
+かおすえりあ	顔スエリア	固有名詞	英:Maniacal Faces Zone　実装日:2024/04/16 ver0.123b p4
+さなとりうむ	サナトリウム	固有名詞	英:Blissful Clinic　実装日:2024/04/21 ver0.123b p5
+はとぐものふね	鳩雲の船	固有名詞	英:Cuckoo Skyline Express　実装日:2024/04/25 ver0.123b p7
+わたあめ	わたあめ	固有名詞	英:Candyfloss Sea　実装日:2024/04/25 ver0.123b p8
+とくしゅゆめけいさつしょ	特殊夢警察署	固有名詞	英:Dream Precinct　実装日:2024/04/25 ver0.123b p8
+すてれおすてーしょん	ステレオステーション	固有名詞	英:Stereo Station　実装日:2024/04/29 ver0.123b p9
+ひかるきのこのせかい	光るキノコの世界	固有名詞	英:Sunken Spore Sea　実装日:2024/04/29 ver0.123b p9
+はいぼち	廃墓地	固有名詞	英:Pinwheel Countryside　実装日:2024/04/29 ver0.123b p9
+はいきょのばらこうじょう	廃墟のバラ工場	固有名詞	英:Rose Factory　実装日:2024/04/29 ver0.123b p9
+かいていとし	海底都市	固有名詞	英:Sapphire Hand Town　実装日:2024/04/29 ver0.123b p9
+むげんのにわ	無限の庭	固有名詞	英:Ethereal Garden　実装日:2024/04/29 ver0.123b p9
+はなみち９９ごうせん	花道99号線	固有名詞	英:Bloom 99　実装日:2024/04/29 ver0.123b p9
+はなみちきゅうじゅうきゅうごうせん	花道99号線	固有名詞	英:Bloom 99　実装日:2024/04/29 ver0.123b p9
+ふうしゃのむら	風車の村	固有名詞	英:Pinwheel Countryside　実装日:2024/04/29 ver0.123b p9
+かざぐるまのむら	風車の村	固有名詞	英:Pinwheel Countryside　実装日:2024/04/29 ver0.123b p9
+そうせつのもり	創説の森	固有名詞	英:Found Forest　実装日:2024/05/05 ver0.123b p10
+くもけむりのつうろ	雲煙りの通路	固有名詞	英:Somber Waterfront　実装日:2024/05/08 ver0.123c
+うぱるぱていえん	ウパルパ庭園	固有名詞	英:Serene Garden　実装日:2024/05/13 ver0.123c p2
+いっつうのとびらべや	一通の扉部屋	固有名詞	英:Cocoa Trap Streets　実装日:2024/05/13 ver0.123c p2
+ふわのみちいき	付和の道行き	固有名詞	英:Wetlands of Tranquility　実装日:2024/05/13 ver0.123c p2
+せんがしかき	線画市果忌	固有名詞	英:Violent Fruit District　実装日:2024/05/13 ver0.123c p2
+にじゆめとうげん	虹夢桃源	固有名詞	英:Sweets Chaos　実装日:2024/05/13 ver0.123c p2
+あかしきのろうか	赤敷の廊下	固有名詞	英:Auburn Villa　実装日:2024/05/13 ver0.123c p2
+つきがいとうのもり	月街灯の森	固有名詞	英:Moonlight Lantern Forest　実装日:2024/05/18 ver0.123c p4
+ふゆうせきいせき	浮遊石遺跡	固有名詞	英:Runic Ruins　実装日:2024/05/18 ver0.123c p4
+ふゆういしいせき	浮遊石遺跡	固有名詞	英:Runic Ruins　実装日:2024/05/18 ver0.123c p4
+じょうききかん	蒸気機関	固有名詞	英:Steam Engine　実装日:2024/05/18 ver0.123c p4
+きりいろのみずうみ	霧色の湖	固有名詞	英:Stagnant Bottom　実装日:2024/05/18 ver0.123c p4
+かぜとおばな	風と尾花	固有名詞	英:Wheat Field　実装日:2024/05/18 ver0.123c p4
+６３３１７６６４	63317664	固有名詞	英:Kaprekar Number Zone　実装日:2024/05/26 ver0.123e
+くっれんｔ	Current	固有名詞	英:Corrupted Data Purgatory　実装日:2024/05/26 ver0.123e
+かれんと	Current	固有名詞	英:Corrupted Data Purgatory　実装日:2024/05/26 ver0.123e
+ふぁらわｙぁんｄｓ	Faraway Lands	固有名詞	英:Faraway Lands　実装日:2024/05/26 ver0.123e
+ふぁらうぇいらんず	Faraway Lands	固有名詞	英:Faraway Lands　実装日:2024/05/26 ver0.123e
+いんてｒぅで	Interlude	固有名詞	英:Acoustic Lounge　実装日:2024/05/26 ver0.123e
+いんたーるーど	Interlude	固有名詞	英:Acoustic Lounge　実装日:2024/05/26 ver0.123e
+あぺんどぼち	アペンド墓地	固有名詞	英:Parallel Graveyard　実装日:2024/05/26 ver0.123e
+えんくりぷしょん	エンクリプション	固有名詞	英:Encrypted Labyrinth　実装日:2024/05/26 ver0.123e
+おーなめんと	オーナメント	固有名詞	英:Ornament World　実装日:2024/05/26 ver0.123e
+すぺくとらむ	スペクトラム	固有名詞	英:Spectral Hub　実装日:2024/05/26 ver0.123e
+てくのぽりたん	テクノポリタン	固有名詞	英:Techno Rave Ruins　実装日:2024/05/26 ver0.123e
+ぴくせるだんじょん	ピクセルダンジョン	固有名詞	英:Retro Dungeon　実装日:2024/05/26 ver0.123e
+ふりっかーさんばし	フリッカー桟橋	固有名詞	英:Blinking Docks　実装日:2024/05/26 ver0.123e
+りんばす	リンバス	固有名詞	英:Limbus Plains　実装日:2024/05/26 ver0.123e
+れっどまーぶるせかい	レッドマーブル世界	固有名詞	英:Red Marbling World　実装日:2024/05/26 ver0.123e
+れぺてぃしょん	レペティション	固有名詞	英:Dal Segno Labyrinth　実装日:2024/05/26 ver0.123e
+ふもうへいめん	不毛平面	固有名詞	英:Withering Plains　実装日:2024/05/26 ver0.123e
+ふじゅん	不順	固有名詞	英:Irregular Mosaic World　実装日:2024/05/26 ver0.123e
+じんせき	人跡	固有名詞	英:Stained Pathway　実装日:2024/05/26 ver0.123e
+ひとあと	人跡	固有名詞	英:Stained Pathway　実装日:2024/05/26 ver0.123e
+ぶんこう	分光	固有名詞	英:RGB Spectral Passage　実装日:2024/05/26 ver0.123e
+ほうまい	包埋	固有名詞	英:Paraffin Embedding Ruins　実装日:2024/05/26 ver0.123e
+こだいせきばんせかい	古代石盤世界	固有名詞	英:Ancient Stone Plates　実装日:2024/05/26 ver0.123e
+あっしゅくどれんがのせかい	圧縮土煉瓦の世界	固有名詞	英:Earth Brick World　実装日:2024/05/26 ver0.123e
+ちかいせき	地下遺跡	固有名詞	英:Lost Crypt　実装日:2024/05/26 ver0.123e
+たれゆき	垂雪	固有名詞	英:Winter Petal Nebula　実装日:2024/05/26 ver0.123e
+こわれたあさせ	壊れた浅瀬	固有名詞	英:Broken Shoal　実装日:2024/05/26 ver0.123e
+やどりあめ	宿雨	固有名詞	英:Downpour　実装日:2024/05/26 ver0.123e
+ふうこう	封虹	固有名詞	英:Sealed Rainbow Pillars　実装日:2024/05/26 ver0.123e
+ほうこう	封虹	固有名詞	英:Sealed Rainbow Pillars　実装日:2024/05/26 ver0.123e
+ふうにじ	封虹	固有名詞	英:Sealed Rainbow Pillars　実装日:2024/05/26 ver0.123e
+ゆうこう	幽光	固有名詞	英:Glimmer Cliffs　実装日:2024/05/26 ver0.123e
+そこなし	底無	固有名詞	英:Bottomless Woods　実装日:2024/05/26 ver0.123e
+ゆみきへいのせかい	弓騎兵の世界	固有名詞	英:Archery Cavalry World　実装日:2024/05/26 ver0.123e
+ざめつ	挫滅	固有名詞	英:Crushed Shoal　実装日:2024/05/26 ver0.123e
+つきとしろ	月と城	固有名詞	英:Moon and Castles　実装日:2024/05/26 ver0.123e
+こうせい	構成	固有名詞	英:Collaged Charcoal World　実装日:2024/05/26 ver0.123e
+あかみず	淦水	固有名詞	英:Bilge Puddle World　実装日:2024/05/26 ver0.123e
+しょくだいのつうろ	燭台の通路	固有名詞	英:Candlestick World　実装日:2024/05/26 ver0.123e
+そせきつうろ	礎石通路	固有名詞	英:Foundation Passage　実装日:2024/05/26 ver0.123e
+あきほあさせ	秋穂浅瀬	固有名詞	英:Fall Shoal　実装日:2024/05/26 ver0.123e
+しゅうりんへのしゅかん	秋霖への主観	固有名詞	英:Autumn Pastel Plains　実装日:2024/05/26 ver0.123e
+りっぽうたいぶし	立方拍節	固有名詞	英:Pulsating Cubes　実装日:2024/05/26 ver0.123e
+せんもじのせかい	線文字の世界	固有名詞	英:Ripples Maze　実装日:2024/05/26 ver0.123e
+はくへんのえき	薄片の駅	固有名詞	英:Fragmented Station　実装日:2024/05/26 ver0.123e
+ふくがい	覆蓋	固有名詞	英:Sheltered Drains　実装日:2024/05/26 ver0.123e
+さかさもりのせかい	逆さ森の世界	固有名詞	英:Upside-down Forest World　実装日:2024/05/26 ver0.123e
+あきまど	開窓	固有名詞	英:Windowed Plains　実装日:2024/05/26 ver0.123e
+あけまど	開窓	固有名詞	英:Windowed Plains　実装日:2024/05/26 ver0.123e
+かいそう	開窓	固有名詞	英:Windowed Plains　実装日:2024/05/26 ver0.123e
+はなれのもり	離れの森	固有名詞	英:Faraway Forest　実装日:2024/05/26 ver0.123e
+あめのひどけい	雨の日時計	固有名詞	英:Rainy Sundial　実装日:2024/05/26 ver0.123e
+ゆきのさんばし	雪の桟橋	固有名詞	英:Snowfall Pier　実装日:2024/05/26 ver0.123e
+あおいめいろ	青い迷路	固有名詞	英:Blue Black Maze　実装日:2024/05/26 ver0.123e
+ふうもん	風紋	固有名詞	英:Glittering Desert　実装日:2024/05/26 ver0.123e
+かざもん	風紋	固有名詞	英:Glittering Desert　実装日:2024/05/26 ver0.123e
+かぜもん	風紋	固有名詞	英:Glittering Desert　実装日:2024/05/26 ver0.123e
+くろゆき	黒雪	固有名詞	英:Snow Black　実装日:2024/05/26 ver0.123e
+あひるのぎょうすい	あひるの行水	固有名詞	英:Rubber Duck Islands　実装日:2024/05/31 ver0.123e p2
+せいめいのよどみ	星命の澱み	固有名詞	英:Sunken Paradise　実装日:2024/05/31 ver0.123e p2
+とうろうのさんばし	燈籠の桟橋	固有名詞	英:Birch Tree Docks　実装日:2024/05/31 ver0.123e p2
+のーと	ノート	固有名詞	英:Scribble Notepad　実装日:2024/06/05 ver0.123e p3
+きみょうなはくぶつかん	奇妙な博物館	固有名詞	英:Museum Of Curiosities　実装日:2024/06/05 ver0.123e p3
+あかるいはしらのせかい	明るい柱の世界	固有名詞	英:Technicolor Towers　実装日:2024/06/05 ver0.123e p3
+くだけたほし	砕けた星	固有名詞	英:Shattered Stars World　実装日:2024/06/05 ver0.123e p3
+のいずたいるつうろ	ノイズタイル通路	固有名詞	英:Monochrome DECK Area　実装日:2024/06/12 ver0.123g
+もりのどうろ	森の道路	固有名詞	英:Dense Forest Path　実装日:2024/06/12 ver0.123g
+しろくろたいるつうろ	白黒タイル通路	固有名詞	英:Monochrome Tile Corridor　実装日:2024/06/12 ver0.123g
+にくしみ	肉染み	固有名詞	英:Beige Handful World　実装日:2024/06/12 ver0.123g
+へやのむれ	部屋の群れ	固有名詞	英:Vacant Rooms　実装日:2024/06/12 ver0.123g
+かさねつき	重ね月	固有名詞	英:Overlapping Moons　実装日:2024/06/12 ver0.123g
+たーこいずのまちなみ	ターコイズの街並み	固有名詞	英:Turquoise Cityscape　実装日:2024/06/18 ver0.123g p5
+そらのりょくち	空の緑地	固有名詞	英:Scattered Sky Fields　実装日:2024/06/18 ver0.123g p5
+あかいす	赤椅子	固有名詞	英:Crimson Chair Area　実装日:2024/06/18 ver0.123g p5
+ついおくはくらん	追憶博覧	固有名詞	英:Turquoise Cityscape:Hallway　実装日:2024/06/18 ver0.123g p5
+きんぎょ	金魚	固有名詞	英:Goldfish Pond　実装日:2024/06/18 ver0.123g p5
+ぼたん	ボタン	固有名詞	英:Knit Plains　実装日:2024/06/23 ver0.123h
+やがんせかい	夜眼世界	固有名詞	英:Night World/Night World:Twitching Child(引き攣れ)　実装日:2024/06/23 ver0.123h
+ぬのばこかいろう	布箱回廊	固有名詞	英:Pattern Cubes World　実装日:2024/06/23 ver0.123h
+しろくろこうげん	白黒高原	固有名詞	英:Grayscale Mountain Ring　実装日:2024/06/23 ver0.123h
+そうごちゅうけい	相互中継	固有名詞	英:Interconnected Wire World/VIBRANT SMILE WORLD(草原エリア)　実装日:2024/06/23 ver0.123h
+ふみきりしんりん	踏切森林	固有名詞	英:Crossing Forest　実装日:2024/06/23 ver0.123h
+かぷせる	カプセル	固有名詞	英:Gachapon Plains　実装日:2024/06/25 ver0.123i
+ぐれーぷもーる	グレープモール	固有名詞	英:Grape Mall　実装日:2024/06/25 ver0.123i
+わらびへいげん	ワラビ平原	固有名詞	英:Bracken Plains　実装日:2024/06/25 ver0.123i
+はいらく	廃落	固有名詞	英:Derelict Bricks　実装日:2024/06/25 ver0.123i
+やりじごく	槍地獄	固有名詞	英:Spear Hell Maze　実装日:2024/06/25 ver0.123i
+むぎばたけ	麦畑	固有名詞	英:Rural Farmland　実装日:2024/06/25 ver0.123i
+くっきーらくえん	クッキー楽園	固有名詞	英:Cookie Haven　実装日:2024/07/02 ver0.124a
+ぶるーたりずむけんちく	ブルータリズム建築	固有名詞	英:Brutalist Complex　実装日:2024/07/02 ver0.124a
+るーんまたおか	ルーン叉丘	固有名詞	英:Rune Dunes　実装日:2024/07/02 ver0.124a
+おくないぷーる	屋内プール	固有名詞	英:Infinite Pools　実装日:2024/07/02 ver0.124a
+きょせきのもり	巨石の森	固有名詞	英:Megalith Grove　実装日:2024/07/02 ver0.124a
+あかさびこうじょう	赤錆工場	固有名詞	英:Suspended Steamworks　実装日:2024/07/02 ver0.124a
+らいうのまち	雷雨の街	固有名詞	英:English Thundershower　実装日:2024/07/02 ver0.124a
+きりかかるまちなみ	霧かかる町並み	固有名詞	英:Misty Streets　実装日:2024/07/02 ver0.124a
+ろくわっと	ロクワット	固有名詞	英:Loquat Orchard　実装日:2024/07/05 ver0.124b
+くろいげすいどう	黒い下水道	固有名詞	英:Loquat Orchard:Sewer　実装日:2024/07/05 ver0.124b
+おんねん	怨念	固有名詞	英:Crescent Tile World　実装日:2024/07/11 ver0.124c
+しんげつ	新月	固有名詞	英:Crescent Tile World　実装日:2024/07/11 ver0.124c
+めいあんかん	明暗館	固有名詞	英:Streetlight Garden:Streetlight Mansion　実装日:2024/07/11 ver0.124c
+つきのいえ	月の家	固有名詞	英:Crescent Tile World:Girl's Room　実装日:2024/07/11 ver0.124c
+やみよ	闇夜	固有名詞	英:Crescent Tile World　実装日:2024/07/11 ver0.124c
+ものろーぐ	モノローグ	固有名詞	英:Shaded Hallways:Painful Reminder(足跡追路)/Burgundy Flats:Isolated area from Shaded Hallways(丘)　実装日:2024/07/14 ver0.124c p1
+したりがお	瀝り顔	固有名詞	英:Shaded Hallways　実装日:2024/07/14 ver0.124c p1
+したたりがお	瀝り顔	固有名詞	英:Shaded Hallways　実装日:2024/07/14 ver0.124c p1
+ぜっきょう	絶叫	固有名詞	英:Disfigured Expanse　実装日:2024/07/14 ver0.124c p1
+さいけもじせかい	サイケ文字世界	固有名詞	英:Psychedelic Letter World　実装日:2024/07/20 ver0.124d
+せめんとせかい	セメント世界	固有名詞	英:Cement World　実装日:2024/07/20 ver0.124d
+とんねるとらっく	トンネルトラック	固有名詞	英:Tunneltrack　実装日:2024/07/20 ver0.124d
+ぴあのわーぷめいろ	ピアノワープ迷路	固有名詞	英:Musical Note Maze　実装日:2024/07/20 ver0.124d
+らじおうぇーぶ	ラジオウェーブ	固有名詞	英:Alto　実装日:2024/07/20 ver0.124d
+またびとのせかい	叉人の世界	固有名詞	英:Underground Runological Warehouse　実装日:2024/07/20 ver0.124d
+またじんのせかい	叉人の世界	固有名詞	英:Underground Runological Warehouse　実装日:2024/07/20 ver0.124d
+おおうなばら	大海原	固有名詞	英:Dream Tropics　実装日:2024/07/20 ver0.124d
+さびれたおふぃす	寂れたオフィス	固有名詞	英:Somber Office　実装日:2024/07/20 ver0.124d
+たびじのどうろ	旅路の道路	固有名詞	英:Journey's Road:Freeway　実装日:2024/07/20 ver0.124d
+しんすいびる	浸水ビル	固有名詞	英:Waterlogged Flats　実装日:2024/07/20 ver0.124d
+あじさいあさせ	紫陽花浅瀬	固有名詞	英:Hydrangea Waters　実装日:2024/07/20 ver0.124d
+わたがしのあさせ	綿菓子の浅瀬	固有名詞	英:Cotton Candy Shoal　実装日:2024/07/20 ver0.124d
+ふみきりしんりん	踏切森林(白黒部屋)	固有名詞	英:Crossing Forest　実装日:2024/07/20 ver0.124d
+ふみきりしんりん	踏切森林(森林エリア)	固有名詞	英:Crossing Forest　実装日:2024/07/20 ver0.124d
+しろくろべや	踏切森林(白黒部屋)	固有名詞	英:Crossing Forest　実装日:2024/07/20 ver0.124d
+しろくろへや	踏切森林(白黒部屋)	固有名詞	英:Crossing Forest　実装日:2024/07/20 ver0.124d
+くろのめいきゅう	黒の迷宮	固有名詞	英:Dream Tropics:Dungeon　実装日:2024/07/20 ver0.124d
+ものとーんのくうかん	モノトーンの空間	固有名詞	英:Polygon Mazescape　実装日:2024/07/24 ver0.124e
+しゅいんぼこら	守隠祠	固有名詞	英:Shadowy Caves: Subarea　実装日:2024/07/27 ver0.124f
+よつばのせきしつ	四ッ葉の石室	固有名詞	英:Wishing Stones　実装日:2024/08/03 ver0.124f p3
+すたれたさかば	廃れた酒場	固有名詞	英:Abandoned Joes　実装日:2024/08/03 ver0.124f p3
+かじつのとし	過日の都市	固有名詞	英:City of Revival　実装日:2024/08/03 ver0.124f p3
+ふうかいせきせかい	風化遺跡世界	固有名詞	英:Abstract Corrosions　実装日:2024/08/03 ver0.124f p3
+こくささばく	黒砂砂漠	固有名詞	英:Black Dust Desert　実装日:2024/08/03 ver0.124f p3
+くろすなさばく	黒砂砂漠	固有名詞	英:Black Dust Desert　実装日:2024/08/03 ver0.124f p3
+ふゆうこうえん	浮遊公園	固有名詞	英:Floating Park　実装日:2024/08/08 ver0.124g
+かんげんみつご	甘幻密語	固有名詞	英:Sweet Pink Docks　実装日:2024/08/08 ver0.124g
+はなかおるみち	華香ル路	固有名詞	英:Still Life　実装日:2024/08/08 ver0.124g
+どりふとつうろ	ドリフト通路	固有名詞	英:Drift Passage　実装日:2024/08/23 ver0.124h p1
+どおｍｓだｙ	DoomsDay	固有名詞	英:Blissful Clinic(薄暗い通路)/Doomsday(大ブランコ)　実装日:2024/08/30 ver0.124h p2
+どぅーむずでい	DoomsDay	固有名詞	英:Blissful Clinic(薄暗い通路)/Doomsday(大ブランコ)　実装日:2024/08/30 ver0.124h p2
+はーとふる	ハートフル	固有名詞	英:Heartfelt Eclipse Sea　実装日:2024/08/30 ver0.124h p2
+くそうず	九相図	固有名詞	英:Wan Lotus Docks　実装日:2024/08/30 ver0.124h p2
+きゅうそうず	九相図	固有名詞	英:Wan Lotus Docks　実装日:2024/08/30 ver0.124h p2
+９そうず	九相図	固有名詞	英:Wan Lotus Docks　実装日:2024/08/30 ver0.124h p2
+へきらく	碧落	固有名詞	英:Heartfelt Eclipse Sea　実装日:2024/08/30 ver0.124h p2
+あろーふぇす	アローフェス	固有名詞	英:Demoscene Tapestry Club　実装日:2024/09/06 ver0.124i
+がーでんふぇすてぃばる	ガーデンフェスティバル	固有名詞	英:Garden Festival　実装日:2024/09/06 ver0.124i
+こーどのせかい	コードの世界	固有名詞	英:Barcode Plains　実装日:2024/09/06 ver0.124i
+ものりすべや	モノリス部屋	固有名詞	英:Asphalt Monolith　実装日:2024/09/06 ver0.124i
+ぎゅうかくせかい	牛角世界	固有名詞	英:Ox Horn Plaza　実装日:2024/09/06 ver0.124i
+うしつのせかい	牛角世界	固有名詞	英:Ox Horn Plaza　実装日:2024/09/06 ver0.124i
+あかちょこせかい	赤チョコ世界	固有名詞	英:Tarnished Chocolate World　実装日:2024/09/06 ver0.124i
+あおいうでのなぎさ	青い腕の渚	固有名詞	英:Azure Arm Land　実装日:2024/09/06 ver0.124i
+ふうこうめいび	風考明比	固有名詞	英:Tranquil Park　実装日:2024/09/06 ver0.124i
+はいぱーびびっど	ハイパービビッド	固有名詞	英:Psychedelic Graffiti World　実装日:2024/09/09 ver0.125 p1
+ぺんたぶらっく	ベンタブラック	固有名詞	英:Darkwoven Void　実装日:2024/09/09 ver0.125 p1
+みずあめのみち	水飴の道	固有名詞	英:Powdered Sugar Wasteland:Syrup Mixture Road　実装日:2024/09/09 ver0.125 p1
+こんせんと	混線土	固有名詞	英:Nightfall Complex　実装日:2024/09/09 ver0.125 p1
+すいがんどうけつ	翠岩洞穴	固有名詞	英:Emerald Crystal Cavern　実装日:2024/09/09 ver0.125 p1
+かくざとう	角砂糖	固有名詞	英:Powdered Sugar Wasteland　実装日:2024/09/09 ver0.125 p1
+さびなんどのにわ	錆納戸の庭	固有名詞	英:Verdigris Garden　実装日:2024/09/09 ver0.125 p1
+とまとならく	トマト奈落	固有名詞	英:Domino Maze:Tomato Hole　実装日:2024/09/25 ver0.125a
+ふりぺらーまひろま	フリペラーマ広間	固有名詞	英:Fliperama Hall　実装日:2024/09/25 ver0.125a
+しわくちゃなのはら	しわくちゃな野原	固有名詞	英:Wrinkled Fields　実装日:2024/09/25 ver0.125a
+くぉーたーふらっと	クォーターフラット	固有名詞	英:Quarter Flats　実装日:2024/09/25 ver0.125a p1
+ほしへいげん	星平原	固有名詞	英:Star Plains　実装日:2024/09/25 ver0.125a p1
+うんちゅうもさく	雲中模索	固有名詞	英:Sauna Corridors　実装日:2024/09/25 ver0.125a p1
+むらさきばしらのつうろ	紫柱の通路	固有名詞	英:Somber Establishment: Purple Head Area　実装日:2024/09/25 ver0.125a p1
+むしょくのかーにばる	無色のカーニバル	固有名詞	英:Colorless Carnival　実装日:2024/10/01 ver0.125b
+こけのせかい	苔の世界	固有名詞	英:Moss World　実装日:2024/10/01 ver0.125b
+がのせかい	蛾の世界	固有名詞	英:Moth World　実装日:2024/10/01 ver0.125b
+ようせいのどうくつ	妖精の洞窟	固有名詞	英:Faerie Hollow　実装日:2024/10/01 ver0.125b
+ばれりーなのもり	バレリーナの森	固有名詞	英:Ballerina Forest　実装日:2024/10/01 ver0.125b
+ねおんこうろう	ネオン高楼	固有名詞	英:Urban Underworld/Murky Cesspit(地下エリア)　実装日:2024/10/01 ver0.125b
+とおいひのまち	遠い日の街	固有名詞	英:Reclaimed Town　実装日:2024/10/01 ver0.125b
+ぼうきゃくととりで	忘却と砦	固有名詞	英:Rustic Forest Park　実装日:2024/10/01 ver0.125b
+ねおんぱてぃな	ネオンパティナ	固有名詞	英:Tiled Canvas　実装日:2024/10/08 ver0.125c p2
+もなくしあ	モナクシア	固有名詞	英:Monaxia　実装日:2024/10/14 ver0.125e p1
+れざっくさんばし	レザック桟道	固有名詞	英:Lezaxzasea Docks　実装日:2024/10/14 ver0.125e p1
+すいでん	水田	固有名詞	英:Rice Paddy　実装日:2024/10/20 ver0.125f
+ぜんぐんとう	禅群島	固有名詞	英:Zen Islands　実装日:2024/10/20 ver0.125f
+けもののかくれざと	獣の隠れ里	固有名詞	英:Tanuki Settlement　実装日:2024/10/20 ver0.125f
+びたみんぐりーん	ビタミングリーン	固有名詞	英:Vitamin World　実装日:2024/10/24 ver0.125f p1
+しろくろしゃじつ	白黒写実	固有名詞	英:Ironashi Coast　実装日:2024/10/24 ver0.125f p1
+しきしゅうさ	色収差	固有名詞	英:Paint Splatter Park　実装日:2024/10/24 ver0.125f p1
+おうち	相互中継(おうち)	固有名詞	英:Interconnected Wire World　実装日:2024/10/24 ver0.125f p1
+ほんくんのろうか	灰黒機界(本君の廊下)	固有名詞	英:Grayscale Bookshelves　実装日:2024/10/24 ver0.125f p1
+とうそくにんのぬけあな	頭足人の抜け穴	固有名詞	英:Eye Cluster Labyrinth　実装日:2024/10/27 ver0.125f p3
+とうそくびとのぬけあな	頭足人の抜け穴	固有名詞	英:Eye Cluster Labyrinth　実装日:2024/10/27 ver0.125f p3
+ぷれいはうす	プレイハウス	固有名詞	英:Playhouse　実装日:2024/10/27 ver0.125f p3
+がふのつうろ	画布の通路	固有名詞	英:Artist's Block　実装日:2024/10/27 ver0.125f p3
+ゆめかわおーしゃん	ユメカワオーシャン	固有名詞	英:Pastel Dream Sea　実装日:2024/11/08 ver0.125f p6
+ちんぼつせんまんしょん	沈没船マンション	固有名詞	英:Sunken Ship Mansion　実装日:2024/11/08 ver0.125f p6
+さるがっそう	サルガッ層	固有名詞	英:Sargat Layer　実装日:2024/11/08 ver0.125f p6
+ほしきんきょかい	星金巨蟹	固有名詞	英:Cancer Palace　実装日:2024/11/08 ver0.125f p6
+りばいばるなんごく	リバイバルなんごく	固有名詞	英:Seaside Jungle Tribe　実装日:2024/11/08 ver0.125f p6
+ぺぇぱぁいせき	ぺぇぱぁいせき	固有名詞	英:Paper Ruins　実装日:2024/11/08 ver0.125f p6
+りきゅう	離宮	固有名詞	英:Angel Palace　実装日:2024/11/08 ver0.125f p6
+みせものごや	見世物小屋	固有名詞	英:Carnage Carnival　実装日:2024/11/08 ver0.125f p6
+あひるとじぐそー	アヒルとジグソー	固有名詞	英:Jigsaw Junction　実装日:2024/11/08 ver0.125f p6
+しっぽしょくにん	尻尾職人	固有名詞	英:Tanuki Tail Portrait　実装日:2024/11/08 ver0.125f p6
+げろおんせん	ゲロ温泉	固有名詞	英:Froggy Spa Shrine　実装日:2024/11/08 ver0.125f p6
+どんてんまほろば	曇天まほろば	固有名詞	英:Shrouded Arcadia　実装日:2024/11/08 ver0.125f p6
+か	彁	固有名詞	英:Beachside Infirmary　実装日:2024/11/08 ver0.125f p6
+かにいぬのはま	カニ犬の浜	固有名詞	英:Crab Dog Beach　実装日:2024/11/08 ver0.125f p6
+ぽてとう	ポテ塔	固有名詞	英:Potato World(箱の塔:ポテト)/Canned Fish World(箱の塔:サカナ)/Burger Joint(バーガーショップ)　実装日:2024/11/08 ver0.125f p6
+はちみつれもん	はちみつレモン	固有名詞	英:Citrus Springs　実装日:2024/11/08 ver0.125f p6
+うたうしょうきゃくろ	唄う焼却炉	固有名詞	英:Communal Workspace　実装日:2024/11/08 ver0.125f p6
+やけのはら	灼け野腹	固有名詞	英:Fire World　実装日:2024/11/11 ver0.125f p7
+ぶんじょうかいろう	文上回廊	固有名詞	英:README.txt　実装日:2024/11/11 ver0.125f p7
+ふみじょうかいろう	文上回廊	固有名詞	英:README.txt　実装日:2024/11/11 ver0.125f p7
+ゔぇいぱーぷれーん	ヴェイパープレーン	固有名詞	英:Rendered Dreamscape　実装日:2024/11/11 ver0.125f p7
+あにみｓｍ	Animism	固有名詞	英:Animism　実装日:2024/11/17 ver0.125g
+あにみずむ	Animism	固有名詞	英:Animism　実装日:2024/11/17 ver0.125g
+おおはしやまのかいだん	大嘴山の階段	固有名詞	英:Lemonade Pool　実装日:2024/11/20 ver0.125g p3
+むとうしゅうらくせかい	無灯集落世界	固有名詞	英:Usugurai Residence　実装日:2024/11/25 ver0.125g p5
+ねずみのす	ネズミの巣	固有名詞	英:Mouse Den　実装日:2024/12/06 ver0.125h
+おへや	お部屋	固有名詞	英:Jumbo Room　実装日:2024/12/06 ver0.125h
+ですくとっぷ	デスクトップ	固有名詞	英:The Desktop　実装日:2024/12/06 ver0.125h
+しょくめい	燭明	固有名詞	英:Candlelight Void　実装日:2024/12/06 ver0.125h
+しんくのふち	深紅の淵	固有名詞	英:Blood Rose Canal　実装日:2024/12/06 ver0.125h
+りんかく	輪郭	固有名詞	英:Memory Town　実装日:2024/12/06 ver0.125h
+むげんてい	無限邸	固有名詞	英:Endless Apartments　実装日:2024/12/06 ver0.125h
+うんじょうていえん	雲上庭園	固有名詞	英:Cloud Haven　実装日:2024/12/06 ver0.125h p1
+かべのなか	壁の中	固有名詞	英:Industrial Bathhouse　実装日:2024/12/10 ver0.125i
+はいかん	廃管	固有名詞	英:Pipeways　実装日:2024/12/10 ver0.125i
+はなのむれ	花の群れ	固有名詞	英:Cluster of Flowers　実装日:2024/12/10 ver0.125i
+しんかい	心海	固有名詞	英:Heart Shallow　実装日:2024/12/10 ver0.125i
+かでんりゅうし	荷電粒子	固有名詞	英:Subpixel Pathway　実装日:2024/12/15 ver0.125i p2
+どんこう	鈍虹	固有名詞	英:Bismuthal Murals　実装日:2024/12/15 ver0.125i p2
+にぶにじ	鈍虹	固有名詞	英:Bismuthal Murals　実装日:2024/12/15 ver0.125i p2
+はいう	沛雨	固有名詞	英:Stellar Cemetery　実装日:2024/12/15 ver0.125i p2
+さびかん	錆閑	固有名詞	英:Farewell Residence　実装日:2024/12/15 ver0.125i p2
+とうとうかん	燈灯館	固有名詞	英:Lamplit Complex　実装日:2024/12/18 ver0.125i p4
+かそかわこうどう	幽川構道	固有名詞	英:Abandoned Underpass　実装日:2024/12/18 ver0.125i p4
+るりのせいどう	瑠璃の聖堂	固有名詞	英:Whispering Palace　実装日:2024/12/18 ver0.125i p4
+しっうもだんそう	シックモダン荘	固有名詞	英:Midnight Manor　実装日:2024/12/18 ver0.125i p4
+こうげんどう	昂眩堂	固有名詞	英:Holographic Reef　実装日:2024/12/18 ver0.125i p4
+ちんていのなぎさ	鎮底の渚	固有名詞	英:Water's Edge　実装日:2024/12/18 ver0.125i p4
+せぴあのにわ	セピアの庭	固有名詞	英:Sepia Cloud Gardens　実装日:2024/12/25 ver0.126
+ちかちゅうしゃじょう	地下駐車場	固有名詞	英:Highway: Parking Lot　実装日:2024/12/25 ver0.126
+せんがせかいいきょう	線画世界異境	固有名詞	英:Yellow Geometries　実装日:2024/12/25 ver0.126
+じょくじゅ	ジョクジュ	固有名詞	英:Red Black World, Downfall Garden B　実装日:2024/12/25 ver0.126
+はんち	斑地	固有名詞	英:Copper Cube Plains　実装日:2024/12/25 ver0.126
+いこうそうげん	遺構草原	固有名詞	英:Equine Swamp　実装日:2024/12/25 ver0.126
+ぱっちわーくふぉーたいる	パッチワークフォータイル	固有名詞	英:The Pansy Path:Patchwork Playroom　実装日:2024/12/25 ver0.126
+すめしへいや	酢飯平野	固有名詞	英:Sushi Roll Swamp　実装日:2024/12/25 ver0.126
+へきめん	壁面	固有名詞	英:Downfall Garden:Top Door　実装日:2024/12/25 ver0.126
+ふるーつじゅうたんつうろ	フルーツ絨毯通路	固有名詞	英:Fruit Carpet Plaza　実装日:2024/12/27 ver0.126a
+ねじれこーんせかい	ねじれコーン世界	固有名詞	英:Twisted Cone World　実装日:2024/12/27 ver0.126a
+しあたーるーむ	シアタールーム	固有名詞	英:Story Theatre　実装日:2025/01/06 ver0.126c p1
+こだてのおうこく	木立の王国	固有名詞	英:Kingdom of Trees　実装日:2025/01/06 ver0.126c p1
+きたちのおうこく	木立の王国	固有名詞	英:Kingdom of Trees　実装日:2025/01/06 ver0.126c p1
+きだちのおうこく	木立の王国	固有名詞	英:Kingdom of Trees　実装日:2025/01/06 ver0.126c p1
+せきどうげっか	赤銅月下	固有名詞	英:Back Flesh World (体内通路)/Hall of Flesh (赤銅月下)/Visage World (外観～屋外)　実装日:2025/01/06 ver0.126c p1
+じゃずすてーしょん	ジャズステーション	固有名詞	英:Jazz Station　実装日:2025/01/06 ver0.126c p1
+すのーどろっぷ	スノードロップ	固有名詞	英:Snowdrop Garden　実装日:2025/01/06 ver0.126c p3
+きょうふうこうじょう	強風工場	固有名詞	英:Windy Factory　実装日:2025/01/06 ver0.126c p3
+げすいどうとしょかん	下水道図書館	固有名詞	英:Archived Aqueduct　実装日:2025/01/06 ver0.126c p3
+あおやこうめいろ	青夜光迷路	固有名詞	英:Blue Aura Maze　実装日:2025/01/06 ver0.126c p3
+いちごのもり	イチゴの森	固有名詞	英:Strawberry Outskirts (メインエリア)/Blossom Boardwalk (花の回廊)　実装日:2025/01/06 ver0.126c p3
+ぶんしこうぞう	分子構造	固有名詞	英:Organic Chemistry World　実装日:2025/01/07 ver0.126c p4
+きーほるだーのせかい	キーホルダーの世界	固有名詞	英:Keychain Collection　実装日:2025/01/10 ver0.126d
+きょくつ	巨靴	固有名詞	英:Footwear Field　実装日:2025/01/10 ver0.126d
+こいごころ	恋心	固有名詞	英:Lovestruck Realm　実装日:2025/01/10 ver0.126d
+ちぇすぼーどつうろ	チェスボード通路	固有名詞	英:Monochrome Street: Everyman Passage　実装日:2025/01/15 ver0.126e
+ふぇありーへいげん	フェアリー庭園	固有名詞	英:Pocket Garden　実装日:2025/01/15 ver0.126e
+といれほーる	トイレホール	固有名詞	英:Thrift Shop:Bathroom Sector　実装日:2025/01/15 ver0.126e
+ちーずろう	チーズ楼	固有名詞	英:Cheese World　実装日:2025/01/15 ver0.126e
+おぼろいせい	おぼろ異星	固有名詞	英:Alien Wasteland　実装日:2025/01/15 ver0.126e
+めちゃいせき	滅茶遺跡	固有名詞	英:Tea Ruins　実装日:2025/01/15 ver0.126e
+うごめくめいきゅう	蠕く迷宮	固有名詞	英:Worm Labyrinth　実装日:2025/01/15 ver0.126e
+ぱーてぃーたいる	パーティータイル	固有名詞	英:Bleeding Tree Disco　実装日:2025/01/15 ver0.126e
+あかいすいと	赤い水都	固有名詞	英:Dreary Harbor　実装日:2025/01/15 ver0.126e
+きせんがわらのまち	黄泉瓦の町	固有名詞	英:Hellish Village　実装日:2025/01/15 ver0.126e
+きせんかわらのまち	黄泉瓦の町	固有名詞	英:Hellish Village　実装日:2025/01/15 ver0.126e
+はいいろのせんろ	灰色の線路	固有名詞	英:Underground Subway (線路)/Nightmare Express (電車内)　実装日:2025/01/15 ver0.126e
+うらちびらべやいこう	裏扉部屋遺構	固有名詞	英:Legacy of Ruin　実装日:2025/01/15 ver0.126e
+てすとまっぷ	ﾃｽﾄﾏｯﾌﾟ	固有名詞	英:TST_MAP　実装日:2025/01/15 ver0.126e
+かいたいのせかい	解体の世界	固有名詞	英:Flesh World　実装日:2025/01/15 ver0.126e
+とんずらのつうろ	遁ずらの通路	固有名詞	英:Underneath　実装日:2025/01/15 ver0.126e
+ろごつきがはら	ロゴつきヶ原	固有名詞	英:ASCll Prairie　実装日:2025/01/15 ver0.126e
+しんえんまーけっと	深淵マーケット	固有名詞	英:Pastel Mall (マーケット)/Bleeding Sorrows (外側)　実装日:2025/01/15 ver0.126e
+れっかろうそく	劣過労息	固有名詞	英:Scribbled Worksite/Blue Yellow Maze(青と黄)/Nowhere Woods(植物エリア)　実装日:2025/02/02 ver0.126f
+はきされたいえ	破棄された家	固有名詞	英:Crazy Pink House　実装日:2025/02/02 ver0.126f
+びゃっかれんげん	白花蓮研	固有名詞	英:White Lily Laboratory　実装日:2025/02/02 ver0.126f
+びゃっかれんけん	白花蓮研	固有名詞	英:White Lily Laboratory　実装日:2025/02/02 ver0.126f
+びゃっかれんげ	白花蓮研	固有名詞	英:White Lily Laboratory　実装日:2025/02/02 ver0.126f
+じょうりく	上陸	固有名詞	英:Photographic Field　実装日:2025/02/06 ver0.126f p1
+ごうどうしょくたく	合同食卓	固有名詞	英:Dining Table　実装日:2025/02/06 ver0.126f p1
+たんぶるたうん	タンブルタウン	固有名詞	英:Sunset Saloon　実装日:2025/02/06 ver0.126f p1
+さんだうんとうげ	サンダウン峠	固有名詞	英:Sunset Mesa　実装日:2025/02/06 ver0.126f p1
+はいしょこ	廃書庫	固有名詞	英:Forgotten Study　実装日:2025/02/06 ver0.126f p1
+さそうはな	誘う花	固有名詞	英:Frenetique　実装日:2025/02/06 ver0.126f p1
+はくらんかい	白覧会	固有名詞	英:Gallery of Naught　実装日:2025/02/12 ver0.126h p2
+うらろじ	裏路字	固有名詞	英:Graffiti Garage　実装日:2025/02/12 ver0.126h p2
+いたみのひ	悼みの碑	固有名詞	英:Sorrow and Comfort Monuments　実装日:2025/02/23 ver0.126h p3
+わのあんそくろうか	わの安息廊下	固有名詞	英:Beige Hallway of Wa　実装日:2025/02/23 ver0.126h p3
+しんくかたろぐ	シンクカタログ	固有名詞	英:Sink Catalog　実装日:2025/02/23 ver0.126h p3
+ごじゅうえん	五十苑	固有名詞	英:Hiragana Board　実装日:2025/02/23 ver0.126h p3
+たいきば	待規場	固有名詞	英:Waiting Field　実装日:2025/02/23 ver0.126h p3
+たいきじょう	待規場	固有名詞	英:Waiting Field　実装日:2025/02/23 ver0.126h p3
+もーるのほしぞら	モールの星空	固有名詞	英:Star Carpet World　実装日:2025/02/23 ver0.126h p3
+でんしんばしらのせかい	電信柱の世界	固有名詞	英:Tele-pole Plains　実装日:2025/02/23 ver0.126h p3
+かじょうのとびら	花上の扉	固有名詞	英:Floral Nexus　実装日:2025/03/09 ver0.127
+はなうえのとびら	花上の扉	固有名詞	英:Floral Nexus　実装日:2025/03/09 ver0.127
+あさせいせき	浅瀬遺跡	固有名詞	英:Castle Shoal　実装日:2025/03/09 ver0.127
+ていでんろうか	停電廊下	固有名詞	英:Blackout House　実装日:2025/03/09 ver0.127
+はしるだりあのせかい	走るダリアの世界	固有名詞	英:Sunlit Mural Meadow　実装日:2025/03/14 ver0.127 p3
+でぃーぷぼーい	ディープボーイ	固有名詞	英:GB Anomaly　実装日:2025/03/25 ver0.127a
+とげすなはら	棘砂原	固有名詞	英:Spiked Sands　実装日:2025/04/06 ver0.127c
+へきがすいはん	壁画水畔	固有名詞	英:Graffiti Waterfront　実装日:2025/04/06 ver0.127c
+みけねこのもり	三毛猫の森	固有名詞	英:Calico Forest　実装日:2025/04/06 ver0.127c
+ひょうひ	表皮	固有名詞	英:The Skin　実装日:2025/04/06 ver0.127c
+えいりあんのせかい	エイリアンの世界	固有名詞	英:Alien World　実装日:2025/04/06 ver0.127c
+でじっとぐりっち	デジットグリッチ	固有名詞	英:Glitched Digits　実装日:2025/04/06 ver0.127c
+せいれつのせきくつ	清冽の石窟	固有名詞	英:Radiant Waters　実装日:2025/04/06 ver0.127c
+せいれつのせっくつ	清冽の石窟	固有名詞	英:Radiant Waters　実装日:2025/04/06 ver0.127c
+しょうどうけいこく	晶洞渓谷	固有名詞	英:Geode Valley　実装日:2025/04/06 ver0.127c
+あかのていえん	赤の庭園	固有名詞	英:Crimson Park　実装日:2025/04/06 ver0.127c
+くさむすつうろ	草生す通路	固有名詞	英:Lush Cells　実装日:2025/04/06 ver0.127c
+たふぉに	タフォニ	固有名詞	英:Rockbound Beach　実装日:2025/04/06 ver0.127c
+せきばんのはやし	石板の林	固有名詞	英:Stone Age　実装日:2025/04/06 ver0.127c
+くろーばーしんえん	クローバー深淵	固有名詞	英:Crowbar Abyss　実装日:2025/04/06 ver0.127c
+あまいし	雨石	固有名詞	英:Rainfall Forest　実装日:2025/04/06 ver0.127c
+あめいし	雨石	固有名詞	英:Rainfall Forest　実装日:2025/04/06 ver0.127c
+うせき	雨石	固有名詞	英:Rainfall Forest　実装日:2025/04/06 ver0.127c
+じふぶき	地吹雪	固有名詞	英:Spiked Storm　実装日:2025/04/06 ver0.127c
+からっぽ	空っぽ	固有名詞	英:Empty　実装日:2025/04/06 ver0.127c
+まどのないそうこ	窓のない倉庫	固有名詞	英:Metallurgic Workshop　実装日:2025/04/25 ver0.127e
+はてのほしむら	果ての星叢	固有名詞	英:Rural Starflower Field　実装日:2025/04/20 ver0.127e p1
+とこやみわたり	常闇渡り	固有名詞	英:Moonlit Pier　実装日:2025/04/20 ver0.127e p1
+ふわ	不和	固有名詞	英:Lethal Dunes　実装日:2025/04/20 ver0.127e p1
+あんそくえん	安息園	固有名詞	英:Elysium Pools　実装日:2025/04/20 ver0.127e p2
+もっちりこうや	もっちり荒野	固有名詞	英:Puffy Wilderness　実装日:2025/04/20 ver0.127e p2
+もっちりあれの	もっちり荒野	固有名詞	英:Puffy Wilderness　実装日:2025/04/20 ver0.127e p2
+きそうほんのう	帰葬本望	固有名詞	英:Homesickness　実装日:2025/04/24 ver0.127e p4
+もざいくしんせさいざ	モザイクシンセサイザ	固有名詞	英:Live Idol World　実装日:2025/04/30 ver0.127e p5
+らいぶはうす	ライブハウス	固有名詞	英:Live Idol World　実装日:2025/04/30 ver0.127e p5
+よいのふうどう	宵の風洞	固有名詞	英:Desolate Snowscape　実装日:2025/04/30 ver0.127e p5 
+かいきさんどう	回奇参道	固有名詞	英:Strange Shrine Road　実装日:2025/04/30 ver0.127e p5
+みかいのめいろ	未界の明路	固有名詞	英:Neon Spacewalk　実装日:2025/04/30 ver0.127e p5
+のぞきかえすめ	覗き返す眼	固有名詞	英:Sanguine Stare　実装日:2025/04/30 ver0.127e p5
+のぞきかえすまなこ	覗き返す眼	固有名詞	英:Sanguine Stare　実装日:2025/04/30 ver0.127e p5
+かべんせかい	花卉世界	固有名詞	英:Potted Plant World　実装日:2025/05/06 ver0.127f p1
+ふせいあぱーと	不整アパート	固有名詞	英:Irregular Apartments　実装日:2025/05/06 ver0.127f p1
+ごーすとびーち	ゴーストビーチ	固有名詞	英:Ghost Beach　実装日:2025/05/06 ver0.127f p1
+ふうこうめいび	風光明媚	固有名詞	英:Respite　実装日:2025/05/07 ver0.127f p3
+さかたのはな	サカタノハナ	固有名詞	英:Weeping Lake　実装日:2025/05/07 ver0.127f p3
+ｒｔｐのせかい	RTPの世界	固有名詞	英:Runtime Package Islands　実装日:2025/05/10 ver0.127f p5
+あーるてぃーぴーのせかい	RTPの世界	固有名詞	英:Runtime Package Islands　実装日:2025/05/10 ver0.127f p5
+あおいこせんじょう	青い古戦場	固有名詞	英:Ancient Blue Battlefield　実装日:2025/05/14 ver0.127f p6
+しょうめいとしんごう	照明と信号	固有名詞	英:Spotlight Basement　実装日:2025/05/14 ver0.127f p6
+わいやーどねおん	ワイヤードネオン	固有名詞	英:Neon Wire Club　実装日:2025/05/14 ver0.127f p6
+ばーがんでぃーしてぃ	バーガンディーシティ	固有名詞	英:Crimson District　実装日:2025/05/14 ver0.127f p6
+こーらるがけ	コーラル崖	固有名詞	英:Cat Countryside　実装日:2025/05/14 ver0.127f p6
+あおでんてつてっきょう	蒼電鉄塔橋	固有名詞	英:Luminescent Bridge　実装日:2025/05/14 ver0.127f p6
+もにたーつうろ	モニター通路	固有名詞	英:Luminescent Bridge　実装日:2025/05/14 ver0.127f p6
+じおめとりのちへい	ジオメトリの地平	固有名詞	英:Boolean Plains　実装日:2025/05/14 ver0.127f p6
+せっこうとあめ	石膏と雨	固有名詞	英:Plastered Hands World　実装日:2025/05/14 ver0.127f p6
+ねおんすらむ	ネオンスラム	固有名詞	英:Neon Slums　実装日:2025/05/16 ver0.127f p7
+きまぐれかいろう	きまぐれ階廊	固有名詞	英:Indeterminate Atrium　実装日:2025/05/16 ver0.127f p7
+うろつきてい	うろつき邸(画廊)	固有名詞	英:Urotsuki’s Dream Apartments:Art Gallery　実装日:2025/05/17 ver0.127f p9
+がろう	うろつき邸(画廊)	固有名詞	英:Urotsuki’s Dream Apartments:Art Gallery　実装日:2025/05/17 ver0.127f p9
+とけいとうのむれ	時計塔の群れ	固有名詞	英:The Clocktower　実装日:2025/05/22 ver0.127g
+けいとういせき	蛍灯遺跡	固有名詞	英:Firefly Lake　実装日:2025/05/22 ver0.127g
+ほたるあかりいせき	蛍灯遺跡	固有名詞	英:Firefly Lake　実装日:2025/05/22 ver0.127g
+えいかのこせき	栄華の古蹟	固有名詞	英:Olympus Ruins　実装日:2025/05/22 ver0.127g
+たいはいねおめとろ	頽廃ネオメトロ	固有名詞	英:New Japan Town/Forgotten Station(降車駅)　実装日:2025/05/22 ver0.127g
+きょだいなかげ	夢遊砂漠(巨大な影)	固有名詞	英:Sands of Self　実装日:2025/05/22 ver0.127g
+ふーどばｒ	フードBAR	固有名詞	英:Otherworldly Bar　実装日:2025/05/24 ver0.127g p1
+ふーどばー	フードBAR	固有名詞	英:Otherworldly Bar　実装日:2025/05/24 ver0.127g p1
+はねいしのほら	羽石の洞	固有名詞	英:Duck Depths　実装日:2025/05/24 ver0.127g p1
+うせきのほら	羽石の洞	固有名詞	英:Duck Depths　実装日:2025/05/24 ver0.127g p1
+へいそくのいせき	閉塞の遺跡	固有名詞	英:Blockade Ruins　実装日:2025/05/24 ver0.127g p1
+はきもの	ハキモノ	固有名詞	英:Nauseousness　実装日:2025/05/24 ver0.127g p1
+あかあおき	赤・青・黄	固有名詞	英:Mondrian World　実装日:2025/05/31 ver0.127g p3
+ぜんまいがーでん	ゼンマイガーデン	固有名詞	英:Glowfruit Garden　実装日:2025/05/31 ver0.127g p3
+ｃがぶろっく	CGAブロック	固有名詞	英:CGA Murals　実装日:2025/05/31 ver0.127g p3
+しーじーえーぶろっく	CGAブロック	固有名詞	英:CGA Murals　実装日:2025/05/31 ver0.127g p3
+すいじょうれんがかいろう	水上レンガ回廊	固有名詞	英:Shallow Pathways　実装日:2025/05/31 ver0.127g p3
+けるぷのもり	ケルプの森	固有名詞	英:Kelp Forest　実装日:2025/05/31 ver0.127g p3
+しんしょう	森牆	固有名詞	英:Foliage Estate　実装日:2025/06/06 ver0.127h p1
+あかいあしのつうろ	赤い脚の通路	固有名詞	英:Legs from the Ashes　実装日:2025/06/21 ver0.127h p4
+あいすきゃんでぃーむら	アイスキャンディー村	固有名詞	英:Popsicle Park　実装日:2025/07/04 ver0.127i p2
+ほうしゃのうひまわりのせかい	放射能ヒマワリの世界	固有名詞	英:Radioactive Garden　実装日:2025/07/04 ver0.127i p2
+しんすいしたほてる	浸水したホテル	固有名詞	英:Flooded Hotel　実装日:2025/07/04 ver0.127i p2
+こうぎょうあさせ	工業浅瀬	固有名詞	英:Industrial Shoal　実装日:2025/07/04 ver0.127i p2
+へいさかいろｔｖ	閉鎖回路TV	固有名詞	英:Vintage Circuit　実装日:2025/07/04 ver0.127i p2
+さつき	皐月	固有名詞	英:Azalea Passage　実装日:2025/07/10 ver0.127i p4
+みんっとｗｎ	Mint Town	固有名詞	英:Mint Town　実装日:2025/07/10 ver0.127i p4
+みんとたうん	Mint Town	固有名詞	英:Mint Town　実装日:2025/07/10 ver0.127i p4
+みせとじごく	店と地獄	固有名詞	英:Fast Food Hell　実装日:2025/07/19 ver0.127i p6
+はいいろしんごうのつうろ	灰色信号の通路	固有名詞	英:Crosswalk to Nowhere　実装日:2025/07/19 ver0.127i p6
+さんかんどうろ	山間道路	固有名詞	英:Roadkill Forest　実装日:2025/07/19 ver0.127i p6
+べっどるーむ	ベッドルーム	固有名詞	英:Somniphobia　実装日:2025/07/19 ver0.127i p6
+しぼう	脂肪	固有名詞	英:Grease Desert　実装日:2025/07/19 ver0.127i p6
+しろあかせかい	白赤世界	固有名詞	英:Blood Chalice Desolation　実装日:2025/07/19 ver0.127i p6
+はくせきせかい	白赤世界	固有名詞	英:Blood Chalice Desolation　実装日:2025/07/19 ver0.127i p6
+さしばし	刺し箸	固有名詞	英:Rice Bowl World　実装日:2025/07/19 ver0.127i p6
+せきぞうていえん	隻像逓苑	固有名詞	英:Stone Plinth Garden　実装日:2025/07/19 ver0.127i p6
+うずまきとかげのせかい	渦巻蜥蜴の世界	固有名詞	英:Spiral Lizard World　実装日:2025/07/19 ver0.127i p6
+やまだのとびらたきょう	山田の扉多境	固有名詞	英:Dull Hub　実装日:2025/07/19 ver0.127i p6
+けものかめんのせかい	獣仮面の世界	固有名詞	英:Kitsune Carnival　実装日:2025/07/19 ver0.127i p6
+じゅうかめんのせかい	獣仮面の世界	固有名詞	英:Kitsune Carnival　実装日:2025/07/19 ver0.127i p6
+にせかんじのせかい	偽漢字の世界	固有名詞	英:Calligraphy World　実装日:2025/07/19 ver0.127i p6
+つりむしのつうろ	吊り虫の通路	固有名詞	英:Glowing Hives　実装日:2025/07/19 ver0.127i p6
+うらとびらべや	裏扉部屋	固有名詞	英:Mutant Nexus　実装日:2025/07/19 ver0.127i p6
+うらとびらへや	裏扉部屋	固有名詞	英:Mutant Nexus　実装日:2025/07/19 ver0.127i p6
+すっぽんなべ	すっぽん鍋	固有名詞	英:Turtle Stew World　実装日:2025/07/19 ver0.127i p7
+せいひょう	製氷	固有名詞	英:Glacier Island　実装日:2025/07/19 ver0.127i p7
+きどうえれべーたー	機動エレベーター	固有名詞	英:Skyview Elevator　実装日:2025/07/19 ver0.127i p7
+れんきん	連勤	固有名詞	英:Overwork Office　実装日:2025/07/19 ver0.127i p7
+しゅっきん	出勤	固有名詞	英:Overwork Office　実装日:2025/07/19 ver0.127i p7
+さんこつ	散骨	固有名詞	英:Lake of Bones　実装日:2025/07/19 ver0.127i p7
+ぱるまこん	パルマコン	固有名詞	英:Hemlock Lab　実装日:2025/07/19 ver0.127i p7
+えんせおじぇん	エンセオジェン	固有名詞	英:Recursive Warehouse　実装日:2025/07/19 ver0.127i p7
+はしごせかい	梯子世界	固有名詞	英:Ladder World　実装日:2025/07/26 ver0.127i p10
+こうずいさんばし	洪水桟橋	固有名詞	英:Flooded Docks　実装日:2025/07/26 ver0.127i p10
+しゃかい	謝悔	固有名詞	英:Regretful Seas　実装日:2025/07/26 ver0.127i p10
+すいじょうだんじょん	水上ダンジョン	固有名詞	英:Seafloor Dungeon　実装日:2025/07/26 ver0.127i p10
+うすれたてっとう	薄れた鉄塔	固有名詞	英:Seafloor Dungeon　実装日:2025/07/26 ver0.127i p10
+いろあせたろうか	色褪せた廊下	固有名詞	英:Quartzite Corridors　実装日:2025/07/26 ver0.127i p10
+うもれぎのあさせ	埋もれ木の浅瀬	固有名詞	英:Buried Trees Shoal　実装日:2025/07/26 ver0.127i p10
+くろいろへきが	黒色壁画	固有名詞	英:Black Murals　実装日:2025/07/26 ver0.127i p10
+こくしょくへきが	黒色壁画	固有名詞	英:Black Murals　実装日:2025/07/26 ver0.127i p10
+さんしょくつうろ	三色通路	固有名詞	英:Vibrant Shapes Passage　実装日:2025/07/26 ver0.127i p10
+はんきょうとすいあつ	反響と水圧	固有名詞	英:Charcoal Ruins　実装日:2025/07/26 ver0.127i p10
+ろんぱす	ロンバス	固有名詞	英:Rhombus　実装日:2025/07/26 ver0.127i p10
+ねいびーおすいこう	ネイビー汚水溝	固有名詞	英:Navy Sewers　実装日:2025/08/09 ver0.128a
+はそんせんがのせかい	破損線画の世界	固有名詞	英:Abject Chaos　実装日:2025/08/09 ver0.128a
+げてんのよどみ	下天の淀み	固有名詞	英:Frozen Stratosphere　実装日:2025/08/09 ver0.128a
+でんていのせいいき	澱底の聖域	固有名詞	英:Sacred Stairways　実装日:2025/08/09 ver0.128a
+ふちかく	不知閣	固有名詞	英:Stasis Spire　実装日:2025/08/09 ver0.128a
+くらげそう	海月槽	固有名詞	英:Glitched Aquarium　実装日:2025/08/09 ver0.128a
+いまわのきわ	今環の際	固有名詞	英:Faint Memory　実装日:2025/08/09 ver0.128a
+はんせんがせかい	反線画世界	固有名詞	英:Bloodied Geometry Abyss　実装日:2025/08/09 ver0.128a
+るーぷとらっく	ループトラック	固有名詞	英:Location Motif 1　実装日:2025/08/15 ver0.128b p2
+あんぷりちゅーど	アンプリチュード	固有名詞	英:Amplitude　実装日:2025/08/15 ver0.128b p2
+とんねるとらっく	トンネルトラック(トンネル内)	固有名詞	英:Tunneltrack　実装日:2025/08/15 ver0.128b p2
+とんねるとらっく	トンネルトラック(異空坑道)	固有名詞	英:Tunneltrack　実装日:2025/08/15 ver0.128b p2
+とんねるとらっく	トンネルトラック(遊戯室)	固有名詞	英:Tunneltrack　実装日:2025/08/15 ver0.128b p2
+ほたるぴーす	ホタルピース	固有名詞	英:Firefly Clinic　実装日:2025/08/19 ver0.128c
+ちんぼつぼんち	沈没盆地	固有名詞	英:Haunted Shipwreck Maze　実装日:2025/08/19 ver0.128c
+とーえりあ	トーエリア	固有名詞	英:Sculpture Exhibition　実装日:2025/08/19 ver0.128c
+だいっきらいうん	ダイッキ雷雲	固有名詞	英:Thundercloud Cells　実装日:2025/08/19 ver0.128c
+ゆめそうげん	夢想原	固有名詞	英:Dreamland　実装日:2025/08/19 ver0.128c
+むそうばら	夢想原	固有名詞	英:Dreamland　実装日:2025/08/19 ver0.128c
+じゃむけいぶ	邪夢繋部	固有名詞	英:False Guardians' Passage　実装日:2025/08/19 ver0.128c
+くろひかげのゆめ	黒日陰の夢	固有名詞	英:False Guardians' Dream　実装日:2025/08/19 ver0.128c
+あとりえ	アトリエ(踊る人影のオブジェの部屋)	固有名詞	英:Atelier　実装日:2025/08/19 ver0.128c
+たのしかった	楽〇し〇…かった	固有名詞	英:Shunned Street　実装日:2025/09/02 ver0.128d
+らくしかった	楽〇し〇…かった	固有名詞	英:Shunned Street　実装日:2025/09/02 ver0.128d
+だいしょうこのかくれが	大小子の隠れ家	固有名詞	英:未定(Shunned Street:Neon Box)　実装日:2025/09/02 ver0.128d
+だいしょうしのかくれが	大小子の隠れ家	固有名詞	英:未定(Shunned Street:Neon Box)　実装日:2025/09/02 ver0.128d
+げんじつ	幻実	固有名詞	英:White Lily Laboratory　実装日:2025/09/02 ver0.128d
+しろくろあかのもんだいたち	白黒赤の問題達	固有名詞	英:Shape Halls　実装日:2025/09/02 ver0.128d
+うろへびじんじゃ	うろ蛇神社	固有名詞	英:Serpent Archives　実装日:2025/09/11 ver0.128d p3
+むえいそうは	夢影走波	固有名詞	英:Rainbow Axis　実装日:2025/09/11 ver0.128d p3
+りっぽうたいいせき	うろ蛇遺跡(立方体遺跡エリア)	固有名詞	英:Serpent Ruins A　実装日:2025/09/11 ver0.128d p3
+そうしきかいじょう	喪思葬哀(葬式会場エリア)	固有名詞	英:Mourning Void:Funeral Home　実装日:2025/09/11 ver0.128d p3
+そうあいはかば	喪思葬哀(葬哀墓場エリア)	固有名詞	英:Mourning Void:Cemetery　実装日:2025/09/11 ver0.128d p3
+つたといしだん	蔦と石段	固有名詞	英:Plant Foundations　実装日:2025/09/14 ver0.128d p4
+さかさかん	逆さ館	固有名詞	英:Inverted Habitat　実装日:2025/09/14 ver0.128d p4
+さかさやかた	逆さ館	固有名詞	英:Inverted Habitat　実装日:2025/09/14 ver0.128d p4
+うすべにのあさせ	薄紅の浅瀬	固有名詞	英:Mauve Shallows　実装日:2025/09/14 ver0.128d p4
+みどりのさばく	翠の砂漠	固有名詞	英:Jade Dunes　実装日:2025/09/14 ver0.128d p4
+ふうしゃとほなみ	風車と穂波	固有名詞	英:Barley Docks　実装日:2025/09/14 ver0.128d p4
+かざぐるまとほなみ	風車と穂波	固有名詞	英:Barley Docks　実装日:2025/09/14 ver0.128d p4
+もりのかいだん	昭和庭(森の階段)	固有名詞	英:Overgrown City　実装日:2025/09/27 ver0.128e
+げっこう	昭和庭(月光)	固有名詞	英:Overgrown City　実装日:2025/09/27 ver0.128e
+もっきんのあんしつ	うろつき邸(木琴の暗室)	固有名詞	英:Urotsuki’s Dream Apartments　実装日:2025/10/01 ver0.128e p2
+いしばし	石橋	固有名詞	英:Castle Bridges　実装日:2025/10/12 ver0.128f
+てんびょうのき	点描の樹	固有名詞	英:Stippling Forest　実装日:2025/10/12 ver0.128f
+みずのこうや	水の荒野	固有名詞	英:Aquatic Prairie　実装日:2025/10/12 ver0.128f
+みずのあれの	水の荒野	固有名詞	英:Aquatic Prairie　実装日:2025/10/12 ver0.128f
+ろくめんだんじょん	六面ダンジョン	固有名詞	英:Lilac Catacombs　実装日:2025/10/12 ver0.128f
+かおつぼ	顔壺	固有名詞	英:Face Pottery　実装日:2025/10/12 ver0.128f
+すたれたひろば	廃れた広場	固有名詞	英:Crowded Void　実装日:2025/10/12 ver0.128f
+らんはんしゃ	乱反射	固有名詞	英:Shattered Glass Trail　実装日:2025/10/12 ver0.128f
+ゆーかりへいや	ユーカリ平野	固有名詞	英:Eucalyptus Woodland　実装日:2025/10/22 ver0.128g
+つりーはうす	ツリーハウス	固有名詞	英:Eucalyptus Woodland　実装日:2025/10/22 ver0.128g
+しゅうかいきどう	周回軌道	固有名詞	英:Satellite Space-way　実装日:2025/10/22 ver0.128g
+ないときゃぴたる	ナイトキャピタル	固有名詞	英:Satellite Space-way: Nightcap House　実装日:2025/10/22 ver0.128g
+おんぼろつきよ	おンぼろ月夜	固有名詞	英:Dream Park:Tattered Treetops　実装日:2025/12/13 ver0.128h
+さくろす	砂クロス	固有名詞	英:Nonogram Sands　実装日:2025/12/16 ver0.128h p2
+すなくろす	砂クロス	固有名詞	英:Nonogram Sands　実装日:2025/12/16 ver0.128h p2
+こくうんのまゆ	黒雲の繭	固有名詞	英:Black Cocoon Clouds　実装日:2026/01/11 ver0.128i
+しゃどうのかげ	車道の影	固有名詞	英:Silhouette Road　実装日:2026/01/11 ver0.128i
+さんのたいよう	酸の太陽	固有名詞	英:Acid Sun Plain　実装日:2026/01/11 ver0.128i
+しっぷのふね	湿布の船	固有名詞	英:Snail Sails　実装日:2026/01/11 ver0.128i
+かんじょうれっせき	感情列石	固有名詞	英:Emotional Stones　実装日:2026/01/11 ver0.128i
+ふくごうけんちくぱすてりあ	複合建築パステリア	固有名詞	英:Terrace Gardens　実装日:2026/01/13 ver0.128i p1
+けいこうすいしょりじょう	蛍光水処理場	固有名詞	英:Neon Sewers　実装日:2026/01/13 ver0.128i p1
+あおくさのすいみゃく	青草の水脈	固有名詞	英:Blue Undergrowth　実装日:2026/01/13 ver0.128i p1
+そうてつだんきゅう	蒼鉄段丘	固有名詞	英:Cubic Cliffs　実装日:2026/01/13 ver0.128i p1
+ちかしゅすいじょう	地下取水場	固有名詞	英:Waterworks　実装日:2026/01/13 ver0.128i p1
+ぜんまいさばくいせき	ゼンマイ砂漠遺跡	固有名詞	英:Red Desert Ruins　実装日:2026/01/13 ver0.128i p1
+しさくのあさせ	思索の浅瀬	固有名詞	英:Dazzling Garden　実装日:2026/01/13 ver0.128i p1
+ほしがいとうのせかい	星街灯の世界	固有名詞	英:Star Cubes World　実装日:2026/01/13 ver0.128i p1
+ちていにじこうじょう	地底虹工場	固有名詞	英:Underground Color Facility　実装日:2026/01/13 ver0.128i p1
+かかれたけしき	描かれた景色	固有名詞	英:Painted Landscape　実装日:2026/01/13 ver0.128i p1
+えがかれたけしき	描かれた景色	固有名詞	英:Painted Landscape　実装日:2026/01/13 ver0.128i p1
+でんちゅうのしろくろせかい	電柱の白黒世界	固有名詞	英:Dysmorphia A　実装日:2026/01/17 ver0.128i p2
+あしあとのしろくろせかい	足跡の白黒世界	固有名詞	英:Dysmorphia B　実装日:2026/01/17 ver0.128i p2
+だいぶつせつげん	大仏雪原	固有名詞	英:Sunlit Winter Woods　実装日:2026/01/17 ver0.128i p2
+るいんすてーしょん	ルインステーション	固有名詞	英:Vandalized Building/Promnesic Terminal (草原)/Solemn Meadow (花道)　実装日:2026/01/17 ver0.128i p2
+おうとｆぼうんｄｓ	out of bounds	固有名詞	英:Mystery Zone A/B　実装日:2026/01/17 ver0.128i p2
+あうとおぶばうんず	out of bounds	固有名詞	英:Mystery Zone A/B　実装日:2026/01/17 ver0.128i p2
+きのこふすま	きのこふすま	固有名詞	英:Diffusional Rooms　実装日:2026/01/17 ver0.128i p2
+あかぶろっくせかい	赤ブロック世界	固有名詞	英:Surreal Ruins World　実装日:2026/01/17 ver0.128i p2
+ゆうけつぐんとう	融血群島	固有名詞	英:Hemophilic Islands　実装日:2026/02/01 ver0.128i p6
+ろんぐすまいる	ロングスマイル	固有名詞	英:Rise and Die　実装日:2026/02/01 ver0.128i p6
+よまよいのあとりえ	夜迷のアトリエ	固有名詞	英:Night-Lost Atelier　実装日:2025/02/03 ver0.128i p8
+しらゆきのにわ	白雪の庭	固有名詞	英:Snowfall Settlement　実装日:2025/02/03 ver0.128i p8
+えんむのみねかみ	煙霧の嶺上	固有名詞	英:Blasted Cliffs　実装日:2026/03/03 ver0.129
+えんむのりょうじょう	煙霧の嶺上	固有名詞	英:Blasted Cliffs　実装日:2026/03/03 ver0.129
+はいかんこう	廃管坑	固有名詞	英:Pit to Hell　実装日:2026/03/03 ver0.129
+そこいかん	其処已観	固有名詞	英:Abyss　実装日:2026/03/03 ver0.129
+そこやみ	其処已観	固有名詞	英:Abyss　実装日:2026/03/03 ver0.129
+とうもろこしなるみんぞく	玉蜀黍なる民族	固有名詞	英:Cornfolk's Grounds　実装日:2026/03/05 ver0.129 p1
+ごにん	誤認	固有名詞	英:Server Not Found　実装日:2026/03/05 ver0.129 p1
+ろうかのみちのせかい	廊下の道の世界	固有名詞	英:Moldy Basements　実装日:2026/03/06 ver0.129 p2
+おくじょうのめいろのせかい	屋上の迷路の世界	固有名詞	英:Industrial Rooftops　実装日:2026/03/06 ver0.129 p2
+せきもん	石紋	固有名詞	英:Glyphic Mausoleum　実装日:2026/03/17 ver0.129 p4
+いしもん	石紋	固有名詞	英:Glyphic Mausoleum　実装日:2026/03/17 ver0.129 p4
+くぎれん	釘蓮	固有名詞	英:Glyphic Mausoleum　実装日:2026/03/17 ver0.129 p4
+しらかばこみち	白樺小路	固有名詞	英:Glaciated Sanctuary　実装日:2026/03/21 ver0.129 p6
+さくらどう	櫻堂	固有名詞	英:Sakura Shrine　実装日:2026/04/07 ver0.129 p8
+おうどう	櫻堂	固有名詞	英:Sakura Shrine　実装日:2026/04/07 ver0.129 p8
+ぶりんかー	ブリンカー	固有名詞	英:Blinking Maze　実装日:2026/04/10 ver0.129 p10
+じょうすいこうじょう	蒸翠工場	固有名詞	英:Humid Tunnels　実装日:2026/04/10 ver0.129 p10
+らいむだむ	来夢ダム	固有名詞	英:Limestone Dam　実装日:2026/04/10 ver0.129 p10
+くるゆめだむ	来夢ダム	固有名詞	英:Limestone Dam　実装日:2026/04/10 ver0.129 p10
+おれんじたいる	オレンジタイル	固有名詞	英:Orange Tile Path　実装日:2026/04/10 ver0.129 p10
+ふくごうけんちくぐろうしあ	複合建築グロウシア	固有名詞	英:Edifices　実装日:2026/04/10 ver0.129 p10
+ぶりーぷぶるーぷ	ブリープブループ	固有名詞	英:Collaged Complex A (グロウシア側)/B (コンサバトリー側)　実装日:2026/04/10 ver0.129 p10
+ちぇっかーぼーど	チェッカーボード	固有名詞	英:Collaged Complex A:Checkerboard Room　実装日:2026/04/10 ver0.129 p10
+こんさばとりー	コンサバトリー	固有名詞	英:Conservatory　実装日:2026/04/10 ver0.129 p10
+らすたーれいやー	ラスターレイヤー	固有名詞	英:Dim Floors　実装日:2026/04/10 ver0.129 p10
+あめふるかけはし	雨降る架橋	固有名詞	英:Rainy Bridges　実装日:2026/04/10 ver0.129 p10
+あめふるかきょう	雨降る架橋	固有名詞	英:Rainy Bridges　実装日:2026/04/10 ver0.129 p10
+おそれられたまち	慄れられた街	固有名詞	英:Dreadful City　実装日:2026/04/10 ver0.129 p10
+がんちゅうのもり	眼柱の森	固有名詞	英:Watching Forest　実装日:2026/04/10 ver0.129 p10
+めばしらのもり	眼柱の森	固有名詞	英:Watching Forest　実装日:2026/04/10 ver0.129 p10
+ゆうめいのいりえ	幽明の入江	固有名詞	英:Ethereal Lagoon　実装日:2026/04/10 ver0.129 p10
+あかてつすいろ	朱鉄水路	固有名詞	英:Crimson Drains　実装日:2026/04/10 ver0.129 p10
+しゅてつすいろ	朱鉄水路	固有名詞	英:Crimson Drains　実装日:2026/04/10 ver0.129 p10
+ひょうてんのみずうみ	氷点の湖	固有名詞	英:Sprite Lake　実装日:2026/04/10 ver0.129 p10
+まんげきょうのせかい	万華境	固有名詞	英:Kaleidoscope　実装日:2026/04/10 ver0.129 p10
+しんしょくろっかーべや	うろつき邸(侵蝕ロッカー部屋)	固有名詞	英:Urotsuki's Dream Apartments　実装日:2026/04/10 ver0.129 p10
+しんしょくろっかーへや	うろつき邸(侵蝕ロッカー部屋)	固有名詞	英:Urotsuki's Dream Apartments　実装日:2026/04/10 ver0.129 p10
+ほらのかせき	刻の化石(洞の化石)	固有名詞	英:Deep Red Wilds:Prehistoric Passage　実装日:2026/04/10 ver0.129 p10
+ゆうどくのうみ	有毒の海(海中:通路)	固有名詞	英:Toxic Sea　実装日:2026/04/10 ver0.129 p10
+かいちゅうつうろ	有毒の海(海中:通路)	固有名詞	英:Toxic Sea　実装日:2026/04/10 ver0.129 p10
+だいにへいそく	第二閉塞(湿地の奥)	固有名詞	英:Complex:Deeper Wetlands (湿地の奥)　実装日:2026/05/04 ver0.129 p14
+しっちのおく	第二閉塞(湿地の奥)	固有名詞	英:Complex:Deeper Wetlands (湿地の奥)　実装日:2026/05/04 ver0.129 p14
+てせれーしょん	テセレーション	固有名詞	英:Tessellation Terrace　実装日:2026/05/04 ver0.129 p14
+りみっとでるたてぃーぜろへ	lim Δt→0	固有名詞	英:Infinitesimal　実装日:2026/05/04 ver0.129 p14
+りみっとでるたｔ０へ	lim Δt→0	固有名詞	英:Infinitesimal　実装日:2026/05/04 ver0.129 p14
+ぃｍでるたｔみぎ０	lim Δt→0	固有名詞	英:Infinitesimal　実装日:2026/05/04 ver0.129 p14
+きょくげん	lim Δt→0	固有名詞	英:Infinitesimal　実装日:2026/05/04 ver0.129 p14
+さいのかわら	賽の河原	固有名詞	英:Sai no Kawara　実装日:2026/05/04 ver0.129 p14
+すいげつきょうか	水月鏡花	固有名詞	英:Shattered Lake　実装日:2026/05/04 ver0.129 p14
+なめらかなかいがんせん	滑らかな海岸線	固有名詞	英:Smooth Coastline　実装日:2026/05/04 ver0.129 p14
+あｔぁｓ	Atlas	固有名詞	英:Atlas　実装日:2026/05/04 ver0.129 p14
+ていえん	庭園	固有名詞	英:Sai no Kawara: Garden　実装日:2026/05/04 ver0.129 p14
+げんそうのしまじま	幻想の島々	固有名詞	英:Autumn Docks　実装日:2026/05/08 ver0.129 p16
+ゆりのむら	ユリの村	固有名詞	英:Lily Village　実装日:2026/05/08 ver0.129 p16
+ごしっくていたく	ゴシック邸宅	固有名詞	英:Gothic Mansion　実装日:2026/05/08 ver0.129 p16
+かさのせかい	かさの世界	固有名詞	英:Umbrella World　実装日:2026/05/18 ver0.129a p1
+いちいち	市市	固有名詞	英:Flying Fish World:Abstract City　実装日:2026/05/24 ver0.129b
+ろーでぃんぐ	ローディング	固有名詞	英:Loading Road　実装日:2026/05/24 ver0.129b
+ひょうめんのあさせ	表面の浅瀬	固有名詞	英:Surface Shallows　実装日:2026/05/24 ver0.129b
+くろいせんのこうや	黒い線の荒野	固有名詞	英:Black Wilderness　実装日:2026/05/24 ver0.129b
+くろいせんのあれの	黒い線の荒野	固有名詞	英:Black Wilderness　実装日:2026/05/24 ver0.129b
+せんかいのせかい	旋回の世界	固有名詞	英:Whirl World　実装日:2026/05/24 ver0.129b
+さてつろせん	蹉跌路線	固有名詞	英:Tunnels　実装日:2026/05/24 ver0.129b
+よどなぎ	淀凪	固有名詞	英:Wind Turbine World　実装日:2026/05/24 ver0.129b
+けっこんのめいきゅう	血痕の迷宮	固有名詞	英:Auguries of Innocence　実装日:2026/05/24 ver0.129b
+ぐれいきゅーびっく	グレイキュービック	固有名詞	英:Red-Gray Maze　実装日:2026/05/24 ver0.129b
+やかんでんしゃ	夜間電車	固有名詞	英:Impossible Traincar　実装日:2026/05/24 ver0.129b
+あらしのきょくち	嵐の極地	固有名詞	英:Arctic　実装日:2026/05/24 ver0.129b
+くらやみのいこう	暗闇の遺構	固有名詞	英:Violet Hell　実装日:2026/05/24 ver0.129b
+くらいみなと	昏い港	固有名詞	英:Seaport　実装日:2026/05/24 ver0.129b
+すりっとあにめーしょん	スリットアニメーション	固有名詞	英:Barrier-Grid　実装日:2026/05/24 ver0.129b
+さぼはにしょっぷ	サボハニショップ	固有名詞	英:B-San's Room　実装日:2026/05/24 ver0.129b
+ようじばしらのせかい	楊枝柱の世界	固有名詞	英:Wooden Pillar World　実装日:2026/05/24 ver0.129b
+しらかばのこきょう	白樺の湖鏡	固有名詞	英:Cloud Mirror　実装日:2026/05/24 ver0.129b
+せいしんのかいろう	精神の階廊	固有名詞	英:Spirit Factory　実装日:2026/05/24 ver0.129b
+ざんしょ	残暑	固有名詞	英:Late Summer　実装日:2026/05/24 ver0.129b
+いんきょくぼち	陰極墓地	固有名詞	英:Cathode Wastes　実装日:2026/05/24 ver0.129b
+いたがみしゅうらく	板紙集落	固有名詞	英:Sugarholic　実装日:2026/06/14 ver0.129c p6
+めぞんきぞめ	メゾン黄染	固有名詞	英:Back Halls　実装日:2026/06/16 ver0.129c p7
+むもうじゅうのみずべ	無毛獣の水辺	固有名詞	英:Grotesque Nursery　実装日:2026/06/16 ver0.129c p7
+むもうけもののみずべ	無毛獣の水辺	固有名詞	英:Grotesque Nursery　実装日:2026/06/16 ver0.129c p7
+くろかび	黒カビ	固有名詞	英:Black Mold　実装日:2026/06/21 ver0.129c p10
+さかされっしゃ	逆サ列車	固有名詞	英:英名不明　実装日:2026/06/24 ver0.129c p11
+がっしょうずくり	合掌造り	固有名詞	英:Red-Threaded Townscape　実装日:2026/06/24 ver0.129c p11
+がっしょうづくり	合掌造り	固有名詞	英:Red-Threaded Townscape　実装日:2026/06/24 ver0.129c p11
+あめふるこうや	雨降る荒野	固有名詞	英:Red-Threaded Townscape：Scattered Hands Path　実装日:2026/06/24 ver0.129c p11
+あめふるあれの	雨降る荒野	固有名詞	英:Red-Threaded Townscape：Scattered Hands Path　実装日:2026/06/24 ver0.129c p11
+おもいでるたひろば	思いδ広場	固有名詞	英:Pastel Plaza　実装日:2026/07/20 ver0.129c p13
+えーたあさせ	η浅瀬	固有名詞	英:Eta Shoal　実装日:2026/07/20 ver0.129c p13
+いーたあさせ	η浅瀬	固有名詞	英:Eta Shoal　実装日:2026/07/20 ver0.129c p13
+らむだちかしんでん	λ地下神殿	固有名詞	英:Eta Shoal:Lambda Underground Temple　実装日:2026/07/20 ver0.129c p13
+あぱれるてなんと	アパレルテナント	固有名詞	英:Unfamiliar City：clothes shop　実装日:2026/07/20 ver0.129c p13
+こかぜのしまじま	木風の島々	固有名詞	英:Woodwind Isles　実装日:2026/07/26 ver0.129c p15
+むげんのうたげ	夢幻の宴	固有名詞	英:Dream Banquet　実装日:2026/07/26 ver0.129c p15
+ゆめまぼろしのうたげ	夢幻の宴	固有名詞	英:Dream Banquet　実装日:2026/07/26 ver0.129c p15
+あおいびるぐん	青いビル群	固有名詞	英:Perfect Blue Buildings　実装日:2026/07/26 ver0.129c p15
+あおりんごうみ	アオリンゴ海	固有名詞	英:Green Apple Sea　実装日:2026/07/26 ver0.129c p15
+あおりんごかい	アオリンゴ海	固有名詞	英:Green Apple Sea　実装日:2026/07/26 ver0.129c p15
+こくちょうのらくえん	黒烏の楽園	固有名詞	英:Black Wing Heaven　実装日:2026/07/26 ver0.129c p15
+くろどりのらくえん	黒烏の楽園	固有名詞	英:Black Wing Heaven　実装日:2026/07/26 ver0.129c p15
+こくうのそうか	虚空の蒼花	固有名詞	英:Blue Flower Void　実装日:2026/07/26 ver0.129c p15
+こくうのあおばな	虚空の蒼花	固有名詞	英:Blue Flower Void　実装日:2026/07/26 ver0.129c p15
+すいしゃのむら	水車の村	固有名詞	英:Tidal Mill Village　実装日:2026/07/26 ver0.129c p15
+みずぐるまのむら	水車の村	固有名詞	英:Tidal Mill Village　実装日:2026/07/26 ver0.129c p15
+ゆめくうこう	夢空港	固有名詞	英:Aerogel Airport　実装日:2026/07/31 ver0.129c p16
+あかいこうや	赤い荒野	固有名詞	英:Red Wilderness　実装日:2026/07/31 ver0.129c p16
+あかいあれの	赤い荒野	固有名詞	英:Red Wilderness　実装日:2026/07/31 ver0.129c p16
+きゃんでぃーらんど	キャンディーランド	固有名詞	英:Candyland　実装日:2026/07/31 ver0.129c p16
+ひしょち	避暑地	固有名詞	英:Villa　実装日:2026/07/31 ver0.129c p16
+よざくらとうろう	夜桜灯篭	固有名詞	英:Night Garden　実装日:2026/07/31 ver0.129c p16
+しろいかべ	しろいかべ	固有名詞	英:Flesh Dungeon　実装日:2026/07/31 ver0.129c p16
+しつらくえん	失落園	固有名詞	英:Seaweed Sidescape　実装日:2026/08/03 ver0.129c p17
+ぱすてるへいや	パステル平野	固有名詞	英:Pastel Plains　実装日:2026/08/16 ver0.129c p21
+ふぇいすぺいんと	フェイスペイント	固有名詞	英:Hazy Paint World　実装日:2026/08/17 ver0.129c p22
+すくらっぷめでぃあ	スクラップメディア	固有名詞	英:Disc Rot　実装日:2026/08/31 ver0.129c p25
+りずむぶろっく	リズムブロック	固有名詞	英:Rainbow Block Towers　実装日:2026/08/31 ver0.129c p25
+ぷりずむこすも	プリズムコスモ	固有名詞	英:Escher Path　実装日:2026/08/31 ver0.129c p25
+うんかいのとう	雲海の塔	固有名詞	英:Noctilucent Tower　実装日:2026/09/13 ver0.129d p2
+あかいす	赤椅子(ちくちく)	固有名詞	英:Crimson Chair Area　実装日:2026/09/13 ver0.129d p2
+ちくちく	赤椅子(ちくちく)	固有名詞	英:Crimson Chair Area　実装日:2026/09/13 ver0.129d p2
+ぱいぷおるがん	パイプオルガン	固有名詞	英:Snowy Pipe Organ　実装日:実装日不明
+いかりとけつるい	怒りと血涙	固有名詞	英:Flying Fish World:Monochrome Eye Room　実装日:実装日不明
+いかりとちなみだ	怒りと血涙	固有名詞	英:Flying Fish World:Monochrome Eye Room　実装日:実装日不明
+ちゅうしゃじょう	駐車場	固有名詞	英:Highway　実装日:2009/02/28 ver0.055
+ちゅうしゃば	駐車場	固有名詞	英:Highway　実装日:2009/02/28 ver0.055
+こうそくどうろのはて	高速道路の果て	固有名詞	英:Highway　実装日:2009/11/15 ver0.085
+ぎょうざ	暁座	固有名詞	英:Astral World:Nightshade Corridor　実装日:2021/05/31 ver0.116c
+おとこのこ	音呼鋸	固有名詞	英:Sound Saws World　実装日:2021/06/21 ver0.119
+くらいあーかいぶ	暗いアーカイブ	固有名詞	英:Alien Archive　実装日:2026/10/21 ver0.129e p4
+みすてられたぼうきゃくれい	身捨てられた忘却霊(無静地極楽)	固有名詞	英:Abandoned Oblivion　実装日:2026/10/30 ver0.129f
+みすてられたぼうきゃくれい	身捨てられた忘却霊(傷ついた日々は戻せない)	固有名詞	英:Abandoned Oblivion　実装日:2026/10/30 ver0.129f
+みすてられたぼうきゃくれい	身捨てられた忘却霊(振り返る明日)	固有名詞	英:Abandoned Oblivion　実装日:2026/10/30 ver0.129f
+みごろしのとれーす	身殺しのトレース	固有名詞	英:英名未定　実装日:2026/10/30 ver0.129f
